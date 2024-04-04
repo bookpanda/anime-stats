@@ -2,10 +2,12 @@
     "name": "anime-stats",
     "version": "1.0.0",
     "description": "",
+    "type": "module",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
-        "codegen": "graphql-codegen --config src/codegen.ts"
+        "codegen": "graphql-codegen --config src/codegen.ts",
+        "load": "npx tsx src/loadData.ts"
     },
     "keywords": [],
     "author": "",
@@ -18,6 +20,7 @@
         "@graphql-codegen/typescript": "^4.0.6",
         "@graphql-codegen/typescript-graphql-request": "^6.2.0",
         "@graphql-codegen/typescript-operations": "^4.2.0",
+        "@types/node": "^20.12.4",
         "@typescript-eslint/eslint-plugin": "^7.5.0",
         "@typescript-eslint/parser": "^7.5.0",
         "autoprefixer": "^10.4.19",
