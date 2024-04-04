@@ -1,0 +1,32 @@
+{
+    "name": "anime-stats",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "codegen": "graphql-codegen --config src/codegen.ts"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@graphql-codegen/cli": "^5.0.2",
+        "@graphql-codegen/client-preset": "^4.2.5",
+        "@graphql-codegen/introspection": "^4.0.3",
+        "@graphql-codegen/near-operation-file-preset": "^3.0.0",
+        "@graphql-codegen/typescript": "^4.0.6",
+        "@graphql-codegen/typescript-graphql-request": "^6.2.0",
+        "@graphql-codegen/typescript-operations": "^4.2.0",
+        "@typescript-eslint/eslint-plugin": "^7.5.0",
+        "@typescript-eslint/parser": "^7.5.0",
+        "autoprefixer": "^10.4.19",
+        "eslint": "^8.57.0",
+        "prettier-plugin-organize-imports": "^3.2.4",
+        "typescript": "^5.4.3"
+    },
+    "dependencies": {
+        "graphql-request": "^6.1.0",
+        "graphql-tag": "^2.12.6"
+    }
+}

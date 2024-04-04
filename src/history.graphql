@@ -1,0 +1,38 @@
+query GetAnimeHistory(
+    $userName: String
+    $type: MediaType
+    $status: MediaListStatus
+    $format: ScoreFormat
+) {
+    MediaListCollection(userName: $userName, type: $type, status: $status) {
+        lists {
+            entries {
+                id
+                status
+                progress
+                media {
+                    title {
+                        english
+                        userPreferred
+                    }
+                    coverImage {
+                        color
+                        large
+                    }
+                    episodes
+                }
+                startedAt {
+                    year
+                    month
+                    day
+                }
+                completedAt {
+                    year
+                    month
+                    day
+                }
+                score(format: $format)
+            }
+        }
+    }
+}
