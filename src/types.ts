@@ -14,11 +14,13 @@ interface Entry {
         episodes: number;
     };
     startedAt: {
+        date: Date;
         year: number;
         month: number;
         day: number;
     };
     completedAt: {
+        date: Date;
         year: number;
         month: number;
         day: number;

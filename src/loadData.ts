@@ -27,12 +27,47 @@ try {
 
 const data: Entry[] = [];
 
-console.log(result);
 for (const entry of result.MediaListCollection?.lists ?? []) {
     for (const media of entry?.entries ?? []) {
-        console.log(media);
-        data.push(media as Entry);
+        if (!media || !media.startedAt || !media.completedAt) continue;
+        if (
+            !media.startedAt.year ||
+            !media.startedAt.month ||
+            !media.startedAt.day ||
+            !media.completedAt.year ||
+            !media.completedAt.month ||
+            !media.completedAt.day
+        )
+            continue;
+
+        data.push({
+            ...media,
+            startedAt: {
+                ...media.startedAt,
+                date: new Date(
+                    media.startedAt.year,
+                    media.startedAt.month,
+                    media.startedAt.day
+                ),
+            },
+            completedAt: {
+                ...media.completedAt,
+                date: new Date(
+                    media.completedAt.year,
+                    media.completedAt.month,
+                    media.completedAt.day
+                ),
+            },
+        } as Entry);
     }
 }
+
+data.sort((a, b) => {
+    if (a.startedAt.year !== b.startedAt.year)
+        return a.startedAt.year - b.startedAt.year;
+    if (a.startedAt.month !== b.startedAt.month)
+        return a.startedAt.month - b.startedAt.month;
+    return a.startedAt.day - b.startedAt.day;
+});
 
 await fs.writeFile("data/data.json", JSON.stringify(data, null, 2));
