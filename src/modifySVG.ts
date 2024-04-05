@@ -1,33 +1,63 @@
 import fs from "fs";
-import { parseString } from "xml2js";
 
-export const loadAndModifySVG = (
+export const modifySVG = (
     filePath: string,
-    replacements: { [key: string]: string },
-    callback: (err: Error | null, result?: string) => void
+    outputFilePath: string,
+    modifications: { [selector: string]: string },
+    callback: (err: Error | null) => void
 ) => {
     fs.readFile(filePath, "utf-8", (err, data) => {
         if (err) {
             callback(err);
             return;
         }
+        console.log(data);
+        for (const selector in modifications) {
+            const regex = new RegExp(selector, "g");
+            const replacement = modifications[selector];
 
-        parseString(data, (parseErr, result) => {
-            if (parseErr) {
-                callback(parseErr);
+            if (regex.test(data)) {
+                data = data.replace(regex, replacement);
+            } else {
+                console.log(`Regex pattern "${selector}" not found.`);
+            }
+        }
+
+        fs.writeFile(outputFilePath, data, (writeErr) => {
+            if (writeErr) {
+                callback(writeErr);
                 return;
             }
-
-            for (const [key, value] of Object.entries(replacements)) {
-                const regex = new RegExp(key, "g");
-                result.svg._ = result.svg._.replace(regex, value);
-            }
-
-            const modifiedSVG = new XMLSerializer().serializeToString(
-                new DOMParser().parseFromString(result.svg._, "text/xml")
-            );
-
-            callback(null, modifiedSVG);
+            callback(null);
         });
+
+        // parseString(data, (parseErr, result) => {
+        //     if (parseErr) {
+        //         callback(parseErr);
+        //         return;
+        //     }
+        //     console.log(result.svg.g[0].g[0].foreignObject[0].div[0].div);
+
+        //     // Apply modifications
+        //     for (const selector in modifications) {
+        //         if (result.svg[selector]) {
+        //             console.log(result.svg[selector][0]);
+        //             result.svg[selector][0] = modifications[selector];
+        //         } else {
+        //             console.error(`Selector ${selector} not found in SVG.`);
+        //         }
+        //     }
+
+        //     const builder = new xml2js.Builder();
+        //     const modifiedSVG = builder.buildObject(result);
+
+        //     fs.writeFile(outputFilePath, modifiedSVG, (writeErr) => {
+        //         if (writeErr) {
+        //             callback(writeErr);
+        //             return;
+        //         }
+        //         callback(null);
+        //     });
+        // });
     });
 };

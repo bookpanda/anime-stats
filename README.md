@@ -1,4 +1,4 @@
 # anime-stats
 
 <img src="./test.svg" />
-<img src="./src/template/calendar.svg" />
+<img src="./src/gen/calendar.svg" />
