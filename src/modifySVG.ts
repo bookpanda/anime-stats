@@ -1,11 +1,11 @@
 import fs from "fs";
 import { parseString } from "xml2js";
 
-function loadAndModifySVG(
+export const loadAndModifySVG = (
     filePath: string,
     replacements: { [key: string]: string },
     callback: (err: Error | null, result?: string) => void
-) {
+) => {
     fs.readFile(filePath, "utf-8", (err, data) => {
         if (err) {
             callback(err);
@@ -30,4 +30,4 @@ function loadAndModifySVG(
             callback(null, modifiedSVG);
         });
     });
-}
+};
