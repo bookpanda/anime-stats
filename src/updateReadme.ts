@@ -1,6 +1,6 @@
 import path from "path";
 import { fileURLToPath } from "url";
-import { generateCalendar } from "./generateCalendar";
+import { generateCalendar } from "./calendar/generateCalendar";
 import { loadAnilistData } from "./loadAnilistData";
 import { modifySVG } from "./modifySVG";
 
