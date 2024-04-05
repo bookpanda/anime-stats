@@ -14,7 +14,7 @@ const __dirname = path.dirname(__filename);
 const filePath = path.join(__dirname, "template/calendar.svg");
 const outputFilePath = path.join(__dirname, "generated/calendar.svg");
 const modifications = {
-    calendar,
+    "{{ calendar }}": calendar,
 };
 
 modifySVG(filePath, outputFilePath, modifications, (err) => {

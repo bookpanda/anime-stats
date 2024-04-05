@@ -40,7 +40,7 @@
 <div xmlns="http://www.w3.org/1999/xhtml" class="ellipsis">
 
 <div class="row">
-    {{ calendar }}
+{{ calendar }}
 </div>
 
 <ul>
