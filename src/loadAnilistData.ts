@@ -1,5 +1,7 @@
 import { GraphQLClient } from "graphql-request";
 import fs from "node:fs/promises";
+import path from "node:path";
+import { fileURLToPath } from "node:url";
 import {
     InputMaybe,
     MediaListStatus,
@@ -27,10 +29,17 @@ export const loadAnilistData = async (username: string, status: string) => {
     }
 
     const data: Entry[] = [];
+    const seenIds = new Set<number>();
 
     for (const entry of result.MediaListCollection?.lists ?? []) {
         for (const media of entry?.entries ?? []) {
-            if (!media || !media.startedAt || !media.completedAt) continue;
+            if (
+                !media ||
+                !media.startedAt ||
+                !media.completedAt ||
+                seenIds.has(media.id)
+            )
+                continue;
             if (
                 !media.startedAt.year ||
                 !media.startedAt.month ||
@@ -60,6 +69,7 @@ export const loadAnilistData = async (username: string, status: string) => {
                     ),
                 },
             } as Entry);
+            seenIds.add(media.id);
         }
     }
 
@@ -71,7 +81,10 @@ export const loadAnilistData = async (username: string, status: string) => {
         return a.startedAt.day - b.startedAt.day;
     });
 
-    await fs.writeFile("data/data.json", JSON.stringify(data, null, 2));
+    const __filename = fileURLToPath(import.meta.url);
+    const __dirname = path.dirname(__filename);
+    const filePath = path.join(__dirname, "data/data.json");
+    await fs.writeFile(filePath, JSON.stringify(data, null, 2));
 
     return data;
 };
