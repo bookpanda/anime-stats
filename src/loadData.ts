@@ -1,4 +1,5 @@
 import { GraphQLClient } from "graphql-request";
+import fs from "node:fs/promises";
 import {
     InputMaybe,
     MediaListStatus,
@@ -24,10 +25,14 @@ try {
     process.exit(1);
 }
 
+const data: Entry[] = [];
+
 console.log(result);
 for (const entry of result.MediaListCollection?.lists ?? []) {
-    // console.log(entry?.entries);
     for (const media of entry?.entries ?? []) {
-        console.log(media?.media?.title?.english);
+        console.log(media);
+        data.push(media as Entry);
     }
 }
+
+await fs.writeFile("data/data.json", JSON.stringify(data, null, 2));
