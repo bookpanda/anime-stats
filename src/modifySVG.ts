@@ -11,7 +11,6 @@ export const modifySVG = (
             callback(err);
             return;
         }
-        console.log(data);
         for (const selector in modifications) {
             const regex = new RegExp(selector, "g");
             const replacement = modifications[selector];
@@ -30,34 +29,5 @@ export const modifySVG = (
             }
             callback(null);
         });
-
-        // parseString(data, (parseErr, result) => {
-        //     if (parseErr) {
-        //         callback(parseErr);
-        //         return;
-        //     }
-        //     console.log(result.svg.g[0].g[0].foreignObject[0].div[0].div);
-
-        //     // Apply modifications
-        //     for (const selector in modifications) {
-        //         if (result.svg[selector]) {
-        //             console.log(result.svg[selector][0]);
-        //             result.svg[selector][0] = modifications[selector];
-        //         } else {
-        //             console.error(`Selector ${selector} not found in SVG.`);
-        //         }
-        //     }
-
-        //     const builder = new xml2js.Builder();
-        //     const modifiedSVG = builder.buildObject(result);
-
-        //     fs.writeFile(outputFilePath, modifiedSVG, (writeErr) => {
-        //         if (writeErr) {
-        //             callback(writeErr);
-        //             return;
-        //         }
-        //         callback(null);
-        //     });
-        // });
     });
 };
