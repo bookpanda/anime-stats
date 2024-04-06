@@ -1,3 +1,22 @@
+.b100 {
+    background-color: rgba(2, 105, 29, 255);
+}
+.b90 {
+    background-color: rgba(100, 211, 44, 255);
+}
+.b80 {
+    background-color: rgba(183, 211, 44, 255);
+}
+.b70 {
+    background-color: rgba(210, 155, 44, 255);
+}
+.b60 {
+    background-color: rgba(211, 72, 45, 255);
+}
+.b50 {
+    background-color: rgba(211, 44, 44, 255);
+}
+
 .a100 {
     background-color: rgba(100, 211, 44, 255);
 }

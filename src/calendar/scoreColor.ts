@@ -1,4 +1,6 @@
 export const scoreColor = (score: number) => {
+    if (score <= 5) return ["rgb(211, 44, 44)", "rgb(211, 44, 44)"];
+
     const max = Math.ceil(score).toString();
     const min = Math.floor(score).toString();
     const range = [
@@ -20,53 +22,33 @@ const colorRange: {
     [field: string]: { red: number; green: number; blue: number };
 } = {
     "10": {
+        red: 2,
+        green: 105,
+        blue: 29,
+    },
+    "9": {
         red: 100,
         green: 211,
         blue: 44,
     },
-    "9": {
-        red: 128,
-        green: 210,
-        blue: 45,
-    },
     "8": {
-        red: 155,
-        green: 211,
-        blue: 45,
-    },
-    "7": {
         red: 183,
         green: 211,
         blue: 44,
     },
-    "6": {
-        red: 210,
-        green: 210,
-        blue: 46,
-    },
-    "5": {
-        red: 211,
-        green: 183,
-        blue: 44,
-    },
-    "4": {
+    "7": {
         red: 210,
         green: 155,
         blue: 44,
     },
-    "3": {
-        red: 211,
-        green: 127,
-        blue: 44,
-    },
-    "2": {
-        red: 210,
-        green: 100,
-        blue: 45,
-    },
-    "1": {
+    "6": {
         red: 211,
         green: 72,
         blue: 45,
+    },
+    "5": {
+        red: 211,
+        green: 44,
+        blue: 44,
     },
 };
