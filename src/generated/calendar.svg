@@ -15,9 +15,11 @@
     background-color: rgb(0,0,0);
     border-radius: 2px;
     margin: 1.5px;
+    box-sizing: border-box;
 }
 .box.empty {
-    background-color: transparent;
+    background-color: rgba(235,237,240,255);
+    border: 1px solid rgba(223,225,228,255);
 }
 .row {
     display: flex;
@@ -28,7 +30,7 @@
 .col {
     display: flex;
     height: 90px;
-    background-color: #00d5ff;
+    background-color: #ffffff;
     flex-direction: column;
     align-items: center;
 }
@@ -46,476 +48,1535 @@
 	<div class="box empty" />
 	<div class="box empty" />
 	<div class="box empty" />
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
+	<div class="box" style="background-color:rgb(
+        146,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        146,
+        210,
+        45)"/>
 </div>
 <div class="col">
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
+	<div class="box" style="background-color:rgb(
+        146,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        146,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        144,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        144,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        144,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        144,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        144,
+        210,
+        45)"/>
 </div>
 <div class="col">
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
+	<div class="box" style="background-color:rgb(
+        177,
+        211,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        177,
+        211,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        146,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        122,
+        210,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        122,
+        210,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        122,
+        210,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        122,
+        210,
+        44)"/>
 </div>
 <div class="col">
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
+	<div class="box" style="background-color:rgb(
+        122,
+        210,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        122,
+        210,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        122,
+        210,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        122,
+        210,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        122,
+        210,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        136,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        136,
+        210,
+        45)"/>
 </div>
 <div class="col">
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
+	<div class="box" style="background-color:rgb(
+        136,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        136,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        136,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        136,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        136,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        136,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        136,
+        210,
+        45)"/>
 </div>
 <div class="col">
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
+	<div class="box" style="background-color:rgb(
+        138,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        116,
+        210,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        116,
+        210,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        116,
+        210,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        116,
+        210,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        116,
+        210,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        116,
+        210,
+        44)"/>
 </div>
 <div class="col">
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
+	<div class="box" style="background-color:rgb(
+        116,
+        210,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        116,
+        210,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        116,
+        210,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        116,
+        210,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        152,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        149,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        152,
+        210,
+        45)"/>
 </div>
 <div class="col">
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
+	<div class="box" style="background-color:rgb(
+        152,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        152,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        152,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        144,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        144,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        144,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        144,
+        210,
+        45)"/>
 </div>
 <div class="col">
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
+	<div class="box" style="background-color:rgb(
+        144,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        144,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        144,
+        210,
+        45)"/>
+	<div class="box empty" />
+	<div class="box" style="background-color:rgb(
+        144,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        144,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        146,
+        210,
+        45)"/>
 </div>
 <div class="col">
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
+	<div class="box" style="background-color:rgb(
+        146,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        146,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        146,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        146,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        146,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        146,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        138,
+        210,
+        45)"/>
 </div>
 <div class="col">
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
+	<div class="box" style="background-color:rgb(
+        138,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        138,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        138,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        138,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        138,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        138,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        138,
+        210,
+        45)"/>
 </div>
 <div class="col">
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
+	<div class="box" style="background-color:rgb(
+        146,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        146,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        146,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        146,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        146,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        146,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        146,
+        210,
+        45)"/>
 </div>
 <div class="col">
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
+	<div class="box" style="background-color:rgb(
+        146,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        146,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        146,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        146,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        146,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        146,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        146,
+        210,
+        45)"/>
 </div>
 <div class="col">
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
+	<div class="box" style="background-color:rgb(
+        146,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        144,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        144,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        144,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        144,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        138,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        138,
+        210,
+        45)"/>
 </div>
 <div class="col">
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
+	<div class="box" style="background-color:rgb(
+        138,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        138,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        138,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        138,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        138,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        138,
+        210,
+        45)"/>
+	<div class="box empty" />
 </div>
 <div class="col">
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
+	<div class="box" style="background-color:rgb(
+        146,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        146,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        146,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        146,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        146,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        130,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        130,
+        210,
+        45)"/>
 </div>
 <div class="col">
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
+	<div class="box" style="background-color:rgb(
+        130,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        130,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        130,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        130,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        130,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        130,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        130,
+        210,
+        45)"/>
 </div>
 <div class="col">
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
+	<div class="box" style="background-color:rgb(
+        130,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        130,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        130,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        130,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        130,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        130,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        130,
+        210,
+        45)"/>
 </div>
 <div class="col">
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
+	<div class="box" style="background-color:rgb(
+        130,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        130,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        130,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        130,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        130,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        130,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        136,
+        210,
+        45)"/>
 </div>
 <div class="col">
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
+	<div class="box" style="background-color:rgb(
+        136,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        136,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        136,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        136,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        136,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        136,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        136,
+        210,
+        45)"/>
 </div>
 <div class="col">
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
+	<div class="box" style="background-color:rgb(
+        136,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        136,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        136,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        136,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        163,
+        211,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        163,
+        211,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        163,
+        211,
+        44)"/>
 </div>
 <div class="col">
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
+	<div class="box" style="background-color:rgb(
+        163,
+        211,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        163,
+        211,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        163,
+        211,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        163,
+        211,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        163,
+        211,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        163,
+        211,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        163,
+        211,
+        44)"/>
 </div>
 <div class="col">
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
+	<div class="box" style="background-color:rgb(
+        163,
+        211,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        163,
+        211,
+        44)"/>
+	<div class="box empty" />
+	<div class="box" style="background-color:rgb(
+        136,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        136,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        136,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        136,
+        210,
+        45)"/>
 </div>
 <div class="col">
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
+	<div class="box" style="background-color:rgb(
+        136,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        136,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        136,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        136,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        136,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        136,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        136,
+        210,
+        45)"/>
 </div>
 <div class="col">
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
+	<div class="box" style="background-color:rgb(
+        136,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        136,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        136,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        136,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        136,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        136,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        136,
+        210,
+        45)"/>
 </div>
 <div class="col">
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
+	<div class="box" style="background-color:rgb(
+        136,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        136,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        136,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        136,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        136,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        136,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        136,
+        210,
+        45)"/>
 </div>
 <div class="col">
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
+	<div class="box" style="background-color:rgb(
+        136,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        136,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        136,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        136,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        136,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        136,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        136,
+        210,
+        45)"/>
 </div>
 <div class="col">
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
+	<div class="box" style="background-color:rgb(
+        136,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        136,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        136,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        136,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        136,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        136,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        138,
+        210,
+        45)"/>
 </div>
 <div class="col">
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
+	<div class="box" style="background-color:rgb(
+        138,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        138,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        138,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        138,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        138,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        138,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        133,
+        210,
+        45)"/>
 </div>
 <div class="col">
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
+	<div class="box" style="background-color:rgb(
+        133,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        133,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        133,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        133,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        133,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        133,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        144,
+        210,
+        45)"/>
 </div>
 <div class="col">
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
+	<div class="box" style="background-color:rgb(
+        144,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        144,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        144,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        144,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        144,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        144,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        144,
+        210,
+        45)"/>
 </div>
 <div class="col">
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
+	<div class="box" style="background-color:rgb(
+        144,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        144,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        144,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        155,
+        211,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        155,
+        211,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        155,
+        211,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        155,
+        211,
+        45)"/>
 </div>
 <div class="col">
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
+	<div class="box" style="background-color:rgb(
+        155,
+        211,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        155,
+        211,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        155,
+        211,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        155,
+        211,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        155,
+        211,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        155,
+        211,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        155,
+        211,
+        45)"/>
 </div>
 <div class="col">
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
+	<div class="box" style="background-color:rgb(
+        141,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        141,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        141,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        141,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        141,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        152,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        152,
+        210,
+        45)"/>
 </div>
 <div class="col">
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
+	<div class="box" style="background-color:rgb(
+        152,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        152,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        152,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        152,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        152,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        152,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        152,
+        210,
+        45)"/>
 </div>
 <div class="col">
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
+	<div class="box" style="background-color:rgb(
+        152,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        152,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        125,
+        210,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        152,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        152,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        152,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        152,
+        210,
+        45)"/>
 </div>
 <div class="col">
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
+	<div class="box" style="background-color:rgb(
+        152,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        152,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        152,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        152,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        152,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        152,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        152,
+        210,
+        45)"/>
 </div>
 <div class="col">
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
+	<div class="box" style="background-color:rgb(
+        152,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        152,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        152,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        152,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        152,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        152,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        152,
+        210,
+        45)"/>
 </div>
 <div class="col">
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
+	<div class="box" style="background-color:rgb(
+        169,
+        211,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        169,
+        211,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        169,
+        211,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        169,
+        211,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        169,
+        211,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        169,
+        211,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        169,
+        211,
+        44)"/>
 </div>
 <div class="col">
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
+	<div class="box" style="background-color:rgb(
+        169,
+        211,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        169,
+        211,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        169,
+        211,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        169,
+        211,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        169,
+        211,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        169,
+        211,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        160,
+        211,
+        44)"/>
 </div>
 <div class="col">
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
+	<div class="box" style="background-color:rgb(
+        160,
+        211,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        160,
+        211,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        160,
+        211,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        160,
+        211,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        160,
+        211,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        160,
+        211,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        160,
+        211,
+        44)"/>
 </div>
 <div class="col">
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
+	<div class="box" style="background-color:rgb(
+        160,
+        211,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        160,
+        211,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        160,
+        211,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        160,
+        211,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        125,
+        210,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        125,
+        210,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        125,
+        210,
+        44)"/>
 </div>
 <div class="col">
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
+	<div class="box" style="background-color:rgb(
+        125,
+        210,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        125,
+        210,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        125,
+        210,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        125,
+        210,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        125,
+        210,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        125,
+        210,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        125,
+        210,
+        44)"/>
 </div>
 <div class="col">
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
+	<div class="box" style="background-color:rgb(
+        125,
+        210,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        125,
+        210,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        146,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        146,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        146,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        146,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        146,
+        210,
+        45)"/>
 </div>
 <div class="col">
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
+	<div class="box" style="background-color:rgb(
+        146,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        146,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        146,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        146,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        146,
+        210,
+        45)"/>
+	<div class="box empty" />
+	<div class="box" style="background-color:rgb(
+        149,
+        210,
+        45)"/>
 </div>
 <div class="col">
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
+	<div class="box" style="background-color:rgb(
+        149,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        149,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        149,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        149,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        149,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        149,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        149,
+        210,
+        45)"/>
 </div>
 <div class="col">
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
+	<div class="box" style="background-color:rgb(
+        149,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        149,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        149,
+        210,
+        45)"/>
+	<div class="box empty" />
+	<div class="box empty" />
+	<div class="box empty" />
+	<div class="box empty" />
 </div>
 <div class="col">
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
+	<div class="box" style="background-color:rgb(
+        116,
+        210,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        116,
+        210,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        116,
+        210,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        116,
+        210,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        116,
+        210,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        116,
+        210,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        116,
+        210,
+        44)"/>
 </div>
 <div class="col">
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
+	<div class="box" style="background-color:rgb(
+        116,
+        210,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        116,
+        210,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        116,
+        210,
+        44)"/>
+	<div class="box empty" />
+	<div class="box" style="background-color:rgb(
+        128,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        122,
+        210,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        122,
+        210,
+        44)"/>
 </div>
 <div class="col">
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
+	<div class="box" style="background-color:rgb(
+        122,
+        210,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        122,
+        210,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        122,
+        210,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        122,
+        210,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        122,
+        210,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        122,
+        210,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        122,
+        210,
+        44)"/>
 </div>
 <div class="col">
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
+	<div class="box" style="background-color:rgb(
+        122,
+        210,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        122,
+        210,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        122,
+        210,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        122,
+        210,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        122,
+        210,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        183,
+        211,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        183,
+        211,
+        44)"/>
 </div>
 <div class="col">
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
+	<div class="box" style="background-color:rgb(
+        183,
+        211,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        183,
+        211,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        183,
+        211,
+        44)"/>
+	<div class="box" style="background-color:rgb(
+        183,
+        211,
+        44)"/>
+	<div class="box empty" />
+	<div class="box empty" />
+	<div class="box empty" />
 </div>
 <div class="col">
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
-	<div class="box" style="background-color:rgb(122,0,0)"/>
+	<div class="box empty" />
+	<div class="box" style="background-color:rgb(
+        141,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        141,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        141,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        133,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        133,
+        210,
+        45)"/>
+	<div class="box" style="background-color:rgb(
+        133,
+        210,
+        45)"/>
 </div>
 
 </div>
