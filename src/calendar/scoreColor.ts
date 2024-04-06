@@ -7,10 +7,13 @@ export const scoreColor = (score: number) => {
         (colorRange[max].blue - colorRange[min].blue) / 10,
     ];
     const step = (score - Math.floor(score)) * 10;
-    return `rgb(
-        ${Math.floor(colorRange[min].red + range[0] * step)},
-        ${Math.floor(colorRange[min].green + range[1] * step)},
-        ${Math.floor(colorRange[min].blue + range[2] * step)})`;
+    const red = Math.floor(colorRange[min].red + range[0] * step);
+    const green = Math.floor(colorRange[min].green + range[1] * step);
+    const blue = Math.floor(colorRange[min].blue + range[2] * step);
+    return [
+        `rgb(${red}, ${green}, ${blue})`,
+        `rgb(${red * 0.9}, ${green * 0.9}, ${blue * 0.9})`,
+    ];
 };
 
 const colorRange: {

@@ -41,15 +41,14 @@ export const generateCalendar = (entries: Entry[]) => {
     for (const daySlot in scoreSlots) {
         const score = scoreSlots[daySlot];
         const day = new Date(daySlot);
-        // console.log(day.getDay());
         if (day.getDay() === 0 && day !== startDate) {
             calendar += `<div class="col">\n`;
         }
         if (score === 0) {
             calendar += `\t<div class="box empty" />\n`;
         } else {
-            let color = scoreColor(score);
-            calendar += `\t<div class="box" style="background-color:${color}"/>\n`;
+            let colors = scoreColor(score);
+            calendar += `\t<div class="box" style="background-color:${colors[0]}; border:1px solid ${colors[1]};"/>\n`;
         }
         if (day.getDay() === 6) {
             calendar += `</div>\n`;
