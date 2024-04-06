@@ -1,3 +1,5 @@
+import { scoreColor } from "./scoreColor";
+
 export const generateCalendar = (entries: Entry[]) => {
     const now = new Date();
     const startDate = new Date(
@@ -5,53 +7,88 @@ export const generateCalendar = (entries: Entry[]) => {
         now.getMonth(),
         now.getDate() - 365
     );
+    const scoreSlots: { [day: string]: number } = {};
+    for (
+        let day = startDate;
+        day <= now;
+        day = new Date(day.getTime() + 1000 * 3600 * 24)
+    ) {
+        scoreSlots[day.toDateString()] = 0;
+    }
+    for (const entry of entries) {
+        const score = entry.score;
+        const startedAt = entry.startedAt.date;
+        const completedAt = entry.completedAt.date;
+        for (
+            let day = startedAt;
+            day <= completedAt;
+            day = new Date(day.getTime() + 1000 * 3600 * 24)
+        ) {
+            if (scoreSlots[day.toDateString()] < score) {
+                scoreSlots[day.toDateString()] = score;
+            }
+        }
+    }
+
     let calendar = `<div class="col">\n`;
     if (startDate.getDay() !== 0) {
         for (let i = 0; i < startDate.getDay(); i++) {
             calendar += `\t<div class="box empty" />\n`;
         }
     }
+    console.log(scoreSlots);
 
-    let entryIdx = 0;
-    for (
-        let day = startDate;
-        day <= now;
-        day = new Date(day.getTime() + 1000 * 3600 * 24)
-    ) {
+    for (const daySlot in scoreSlots) {
+        const score = scoreSlots[daySlot];
+        const day = new Date(daySlot);
+        // console.log(day.getDay());
         if (day.getDay() === 0 && day !== startDate) {
             calendar += `<div class="col">\n`;
         }
-        if (entries[entryIdx].startedAt.date > day) {
-            calendar += `\t<div class="box" />\n`;
-            continue;
-        }
-        calendar += `\t<div class="box" style="background-color:rgb(122,0,0)"/>\n`;
-        const score = entries[entryIdx].score;
-        let color = [];
-        if (score >= 90) {
-            const max = [1, 2, 3];
-            const min = [1, 2, 3];
-            const range = [
-                (max[0] - min[0]) / 10,
-                (max[1] - min[1]) / 10,
-                (max[2] - min[2]) / 10,
-            ];
-            const step = score - 90;
-            color = [
-                min[0] + range[0] * step,
-                min[1] + range[1] * step,
-                min[2] + range[2] * step,
-            ];
-        }
-        if (entries[entryIdx].completedAt.date === day) {
-            entryIdx++;
+        if (score === 0) {
+            calendar += `\t<div class="box empty" />\n`;
+        } else {
+            let color = scoreColor(score);
+            calendar += `\t<div class="box" style="background-color:${color}"/>\n`;
         }
         if (day.getDay() === 6) {
             calendar += `</div>\n`;
         }
-
-        console.log(day.toDateString(), day.getDay());
     }
+
+    // let entryIdx = 0;
+    // for (
+    //     let day = startDate;
+    //     day <= now;
+    //     day = new Date(day.getTime() + 1000 * 3600 * 24)
+    // ) {
+    //     if (day.getDay() === 0 && day !== startDate) {
+    //         calendar += `<div class="col">\n`;
+    //     }
+    //     if (entries[entryIdx].startedAt.date > day) {
+    //         calendar += `\t<div class="box" />\n`;
+    //         continue;
+    //     }
+    //     const score = entries[entryIdx].score;
+    //     console.log(score);
+    //     let color = scoreColor(score);
+    //     calendar += `\t<div class="box" style="background-color:${color}"/>\n`;
+
+    //     if (entries[entryIdx].completedAt.date.getTime() === day.getTime()) {
+    //         entryIdx++;
+    //     }
+    //     if (day.getDay() === 6) {
+    //         calendar += `</div>\n`;
+    //     }
+
+    //     console.log(
+    //         day.toDateString(),
+    //         day.getDay(),
+    //         entries[entryIdx].completedAt.date.toDateString(),
+    //         entries[entryIdx].media.title.english
+    //     );
+    //     // console.log(entries[entryIdx]);
+    // }
 
     return calendar;
 };

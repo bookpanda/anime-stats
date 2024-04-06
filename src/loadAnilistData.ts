@@ -30,6 +30,12 @@ export const loadAnilistData = async (username: string, status: string) => {
 
     const data: Entry[] = [];
     const seenIds = new Set<number>();
+    const now = new Date();
+    const startDate = new Date(
+        now.getFullYear(),
+        now.getMonth(),
+        now.getDate() - 365
+    );
 
     for (const entry of result.MediaListCollection?.lists ?? []) {
         for (const media of entry?.entries ?? []) {
@@ -49,6 +55,13 @@ export const loadAnilistData = async (username: string, status: string) => {
                 !media.completedAt.day
             )
                 continue;
+
+            const completedAt = new Date(
+                media.completedAt.year,
+                media.completedAt.month,
+                media.completedAt.day
+            );
+            if (completedAt < startDate) continue;
 
             data.push({
                 ...media,
@@ -74,11 +87,7 @@ export const loadAnilistData = async (username: string, status: string) => {
     }
 
     data.sort((a, b) => {
-        if (a.startedAt.year !== b.startedAt.year)
-            return a.startedAt.year - b.startedAt.year;
-        if (a.startedAt.month !== b.startedAt.month)
-            return a.startedAt.month - b.startedAt.month;
-        return a.startedAt.day - b.startedAt.day;
+        return a.startedAt.date.getTime() - b.startedAt.date.getTime();
     });
 
     const __filename = fileURLToPath(import.meta.url);
