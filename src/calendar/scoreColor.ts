@@ -22,29 +22,29 @@ const colorRange: {
     [field: string]: { red: number; green: number; blue: number };
 } = {
     "10": {
-        red: 2,
-        green: 105,
-        blue: 29,
+        red: 32,
+        green: 110,
+        blue: 57,
     },
     "9": {
-        red: 100,
-        green: 211,
-        blue: 44,
+        red: 49,
+        green: 161,
+        blue: 78,
     },
     "8": {
-        red: 183,
-        green: 211,
-        blue: 44,
+        red: 65,
+        green: 196,
+        blue: 100,
     },
     "7": {
-        red: 210,
-        green: 155,
-        blue: 44,
+        red: 155,
+        green: 233,
+        blue: 168,
     },
     "6": {
-        red: 211,
-        green: 72,
-        blue: 45,
+        red: 247,
+        green: 160,
+        blue: 153,
     },
     "5": {
         red: 211,
