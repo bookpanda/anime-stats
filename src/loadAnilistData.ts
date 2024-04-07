@@ -69,7 +69,7 @@ export const loadAnilistData = async (username: string, status: string) => {
                     ...media.startedAt,
                     date: new Date(
                         media.startedAt.year,
-                        media.startedAt.month,
+                        media.startedAt.month - 1,
                         media.startedAt.day
                     ),
                 },
@@ -77,7 +77,7 @@ export const loadAnilistData = async (username: string, status: string) => {
                     ...media.completedAt,
                     date: new Date(
                         media.completedAt.year,
-                        media.completedAt.month,
+                        media.completedAt.month - 1,
                         media.completedAt.day
                     ),
                 },
