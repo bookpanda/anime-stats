@@ -40,7 +40,6 @@ export const generateCalendar = (entries: Entry[]) => {
             calendar += `\t<div class="box invisible" />\n`;
         }
     }
-    console.log(scoreSlots);
 
     for (const daySlot in scoreSlots) {
         const score = scoreSlots[daySlot];

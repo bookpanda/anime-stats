@@ -1,34 +1,5 @@
 [
   {
-    "id": 323197498,
-    "status": "COMPLETED",
-    "progress": 12,
-    "media": {
-      "title": {
-        "english": "The Angel Next Door Spoils Me Rotten",
-        "userPreferred": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken"
-      },
-      "coverImage": {
-        "color": "#c9f1f1",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143338-zhyDVYgEzsm5.png"
-      },
-      "episodes": 12
-    },
-    "startedAt": {
-      "year": 2023,
-      "month": 2,
-      "day": 25,
-      "date": "2023-02-24T15:00:00.000Z"
-    },
-    "completedAt": {
-      "year": 2023,
-      "month": 4,
-      "day": 5,
-      "date": "2023-04-04T15:00:00.000Z"
-    },
-    "score": 7.2
-  },
-  {
     "id": 322971865,
     "status": "COMPLETED",
     "progress": 10,
@@ -116,35 +87,6 @@
     "score": 8.3
   },
   {
-    "id": 312323684,
-    "status": "COMPLETED",
-    "progress": 24,
-    "media": {
-      "title": {
-        "english": "Steins;Gate",
-        "userPreferred": "Steins;Gate"
-      },
-      "coverImage": {
-        "color": "#e4a15d",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9253-7pdcVzQSkKxT.jpg"
-      },
-      "episodes": 24
-    },
-    "startedAt": {
-      "year": 2023,
-      "month": 3,
-      "day": 19,
-      "date": "2023-03-18T15:00:00.000Z"
-    },
-    "completedAt": {
-      "year": 2023,
-      "month": 3,
-      "day": 27,
-      "date": "2023-03-26T15:00:00.000Z"
-    },
-    "score": 9.2
-  },
-  {
     "id": 330470324,
     "status": "COMPLETED",
     "progress": 1,
@@ -203,6 +145,64 @@
     "score": 7.5
   },
   {
+    "id": 312323684,
+    "status": "COMPLETED",
+    "progress": 24,
+    "media": {
+      "title": {
+        "english": "Steins;Gate",
+        "userPreferred": "Steins;Gate"
+      },
+      "coverImage": {
+        "color": "#e4a15d",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9253-7pdcVzQSkKxT.jpg"
+      },
+      "episodes": 24
+    },
+    "startedAt": {
+      "year": 2023,
+      "month": 3,
+      "day": 19,
+      "date": "2023-03-18T15:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2023,
+      "month": 3,
+      "day": 27,
+      "date": "2023-03-26T15:00:00.000Z"
+    },
+    "score": 9.2
+  },
+  {
+    "id": 323197498,
+    "status": "COMPLETED",
+    "progress": 12,
+    "media": {
+      "title": {
+        "english": "The Angel Next Door Spoils Me Rotten",
+        "userPreferred": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken"
+      },
+      "coverImage": {
+        "color": "#c9f1f1",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143338-zhyDVYgEzsm5.png"
+      },
+      "episodes": 12
+    },
+    "startedAt": {
+      "year": 2023,
+      "month": 2,
+      "day": 25,
+      "date": "2023-02-24T15:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2023,
+      "month": 4,
+      "day": 5,
+      "date": "2023-04-04T15:00:00.000Z"
+    },
+    "score": 7.2
+  },
+  {
     "id": 312323727,
     "status": "COMPLETED",
     "progress": 23,
@@ -230,35 +230,6 @@
       "date": "2023-04-05T15:00:00.000Z"
     },
     "score": 8.7
-  },
-  {
-    "id": 312107416,
-    "status": "COMPLETED",
-    "progress": 4,
-    "media": {
-      "title": {
-        "english": "Kaguya-sama: Love is War -The First Kiss That Never Ends-",
-        "userPreferred": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai"
-      },
-      "coverImage": {
-        "color": "#e45d78",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151384-gv0q8wOE6D58.jpg"
-      },
-      "episodes": 4
-    },
-    "startedAt": {
-      "year": 2023,
-      "month": 4,
-      "day": 6,
-      "date": "2023-04-05T15:00:00.000Z"
-    },
-    "completedAt": {
-      "year": 2023,
-      "month": 4,
-      "day": 7,
-      "date": "2023-04-06T15:00:00.000Z"
-    },
-    "score": 8.6
   },
   {
     "id": 331412592,
@@ -290,6 +261,35 @@
     "score": 7.2
   },
   {
+    "id": 312107416,
+    "status": "COMPLETED",
+    "progress": 4,
+    "media": {
+      "title": {
+        "english": "Kaguya-sama: Love is War -The First Kiss That Never Ends-",
+        "userPreferred": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai"
+      },
+      "coverImage": {
+        "color": "#e45d78",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151384-gv0q8wOE6D58.jpg"
+      },
+      "episodes": 4
+    },
+    "startedAt": {
+      "year": 2023,
+      "month": 4,
+      "day": 6,
+      "date": "2023-04-05T15:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2023,
+      "month": 4,
+      "day": 7,
+      "date": "2023-04-06T15:00:00.000Z"
+    },
+    "score": 8.6
+  },
+  {
     "id": 327657728,
     "status": "COMPLETED",
     "progress": 24,
@@ -319,35 +319,6 @@
     "score": 9.4
   },
   {
-    "id": 312106849,
-    "status": "COMPLETED",
-    "progress": 12,
-    "media": {
-      "title": {
-        "english": "Laid-Back Camp",
-        "userPreferred": "Yuru Camp△"
-      },
-      "coverImage": {
-        "color": "#f1ae5d",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98444-tgu5kWwnBigW.jpg"
-      },
-      "episodes": 12
-    },
-    "startedAt": {
-      "year": 2023,
-      "month": 4,
-      "day": 17,
-      "date": "2023-04-16T15:00:00.000Z"
-    },
-    "completedAt": {
-      "year": 2023,
-      "month": 4,
-      "day": 23,
-      "date": "2023-04-22T15:00:00.000Z"
-    },
-    "score": 8.1
-  },
-  {
     "id": 334571172,
     "status": "COMPLETED",
     "progress": 1,
@@ -375,6 +346,35 @@
       "date": "2023-04-18T15:00:00.000Z"
     },
     "score": 8.2
+  },
+  {
+    "id": 312106849,
+    "status": "COMPLETED",
+    "progress": 12,
+    "media": {
+      "title": {
+        "english": "Laid-Back Camp",
+        "userPreferred": "Yuru Camp△"
+      },
+      "coverImage": {
+        "color": "#f1ae5d",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98444-tgu5kWwnBigW.jpg"
+      },
+      "episodes": 12
+    },
+    "startedAt": {
+      "year": 2023,
+      "month": 4,
+      "day": 17,
+      "date": "2023-04-16T15:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2023,
+      "month": 4,
+      "day": 23,
+      "date": "2023-04-22T15:00:00.000Z"
+    },
+    "score": 8.1
   },
   {
     "id": 333954973,
@@ -870,35 +870,6 @@
     "score": 8.5
   },
   {
-    "id": 358811979,
-    "status": "COMPLETED",
-    "progress": 13,
-    "media": {
-      "title": {
-        "english": "Fate/stay night: Unlimited Blade Works",
-        "userPreferred": "Fate/stay night: Unlimited Blade Works"
-      },
-      "coverImage": {
-        "color": "#e4a135",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19603-ZIwcXJeIJV3H.jpg"
-      },
-      "episodes": 13
-    },
-    "startedAt": {
-      "year": 2023,
-      "month": 10,
-      "day": 24,
-      "date": "2023-10-23T15:00:00.000Z"
-    },
-    "completedAt": {
-      "year": 2023,
-      "month": 11,
-      "day": 10,
-      "date": "2023-11-09T15:00:00.000Z"
-    },
-    "score": 8.1
-  },
-  {
     "id": 325551723,
     "status": "COMPLETED",
     "progress": 1,
@@ -926,6 +897,35 @@
       "date": "2023-11-04T15:00:00.000Z"
     },
     "score": 9.1
+  },
+  {
+    "id": 358811979,
+    "status": "COMPLETED",
+    "progress": 13,
+    "media": {
+      "title": {
+        "english": "Fate/stay night: Unlimited Blade Works",
+        "userPreferred": "Fate/stay night: Unlimited Blade Works"
+      },
+      "coverImage": {
+        "color": "#e4a135",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19603-ZIwcXJeIJV3H.jpg"
+      },
+      "episodes": 13
+    },
+    "startedAt": {
+      "year": 2023,
+      "month": 10,
+      "day": 24,
+      "date": "2023-10-23T15:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2023,
+      "month": 11,
+      "day": 10,
+      "date": "2023-11-09T15:00:00.000Z"
+    },
+    "score": 8.1
   },
   {
     "id": 358811998,
@@ -1015,35 +1015,6 @@
     "score": 7.8
   },
   {
-    "id": 312107172,
-    "status": "COMPLETED",
-    "progress": 23,
-    "media": {
-      "title": {
-        "english": "JUJUTSU KAISEN Season 2",
-        "userPreferred": "Jujutsu Kaisen 2nd Season"
-      },
-      "coverImage": {
-        "color": "#a178d6",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145064-FwX2pzE4mS8Q.jpg"
-      },
-      "episodes": 23
-    },
-    "startedAt": {
-      "year": 2023,
-      "month": 12,
-      "day": 18,
-      "date": "2023-12-17T15:00:00.000Z"
-    },
-    "completedAt": {
-      "year": 2023,
-      "month": 12,
-      "day": 29,
-      "date": "2023-12-28T15:00:00.000Z"
-    },
-    "score": 9.1
-  },
-  {
     "id": 312107163,
     "status": "COMPLETED",
     "progress": 1,
@@ -1071,6 +1042,35 @@
       "date": "2023-12-27T15:00:00.000Z"
     },
     "score": 8.5
+  },
+  {
+    "id": 312107172,
+    "status": "COMPLETED",
+    "progress": 23,
+    "media": {
+      "title": {
+        "english": "JUJUTSU KAISEN Season 2",
+        "userPreferred": "Jujutsu Kaisen 2nd Season"
+      },
+      "coverImage": {
+        "color": "#a178d6",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145064-FwX2pzE4mS8Q.jpg"
+      },
+      "episodes": 23
+    },
+    "startedAt": {
+      "year": 2023,
+      "month": 12,
+      "day": 18,
+      "date": "2023-12-17T15:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2023,
+      "month": 12,
+      "day": 29,
+      "date": "2023-12-28T15:00:00.000Z"
+    },
+    "score": 9.1
   },
   {
     "id": 332513509,
@@ -1392,35 +1392,6 @@
     "score": 8.2
   },
   {
-    "id": 312106728,
-    "status": "COMPLETED",
-    "progress": 13,
-    "media": {
-      "title": {
-        "english": "A Place Further Than the Universe",
-        "userPreferred": "Sora yori mo Tooi Basho"
-      },
-      "coverImage": {
-        "color": "#ffbb35",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99426-5jWTUs719lQN.png"
-      },
-      "episodes": 13
-    },
-    "startedAt": {
-      "year": 2024,
-      "month": 3,
-      "day": 12,
-      "date": "2024-03-11T15:00:00.000Z"
-    },
-    "completedAt": {
-      "year": 2024,
-      "month": 3,
-      "day": 19,
-      "date": "2024-03-18T15:00:00.000Z"
-    },
-    "score": 8.6
-  },
-  {
     "id": 394026938,
     "status": "COMPLETED",
     "progress": 1,
@@ -1448,6 +1419,35 @@
       "date": "2024-03-11T15:00:00.000Z"
     },
     "score": 8.7
+  },
+  {
+    "id": 312106728,
+    "status": "COMPLETED",
+    "progress": 13,
+    "media": {
+      "title": {
+        "english": "A Place Further Than the Universe",
+        "userPreferred": "Sora yori mo Tooi Basho"
+      },
+      "coverImage": {
+        "color": "#ffbb35",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99426-5jWTUs719lQN.png"
+      },
+      "episodes": 13
+    },
+    "startedAt": {
+      "year": 2024,
+      "month": 3,
+      "day": 12,
+      "date": "2024-03-11T15:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2024,
+      "month": 3,
+      "day": 19,
+      "date": "2024-03-18T15:00:00.000Z"
+    },
+    "score": 8.6
   },
   {
     "id": 366538451,
