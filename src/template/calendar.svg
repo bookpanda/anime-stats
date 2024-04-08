@@ -14,6 +14,10 @@ svg {
   rx: 6px;
   ry: 6px;
 }
+.container {
+    display: flex;
+    flex-direction: column;
+}
 .box {
     width: 10px;
     min-height: 10px;
@@ -53,13 +57,23 @@ svg {
     flex-direction: column;
     align-items: center;
 }
+.scale-box {
+    margin-top: 17px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    padding-right: 50px;
+}
+.row .scale {
+    margin-right: 3px;
+}
 </style>
 <g>
 <rect x="5" y="5" id="background" />
 <g>
 <foreignObject x="15" y="15" width="100%" height="200">
-
-<div xmlns="http://www.w3.org/1999/xhtml" class="row">
+<div xmlns="http://www.w3.org/1999/xhtml" class="container">
+<div class="row">
 <div class="col">
 	<div class="time-box weekday" />
 	<div class="time-box weekday" />
@@ -71,6 +85,18 @@ svg {
     <div class="time-box weekday" />
 </div>
 {{ calendar }}
+</div>
+<div class="scale-box">
+    <div class="row scale">
+        <div class="scale">🚮</div>
+        <div class="box scale" style="background-color:rgb(144, 225, 159); border:1px solid rgb(129.6, 202.5, 143.1);"/>
+        <div class="box scale" style="background-color:rgb(144, 225, 159); border:1px solid rgb(129.6, 202.5, 143.1);"/>
+        <div class="box scale" style="background-color:rgb(144, 225, 159); border:1px solid rgb(129.6, 202.5, 143.1);"/>
+        <div class="box scale" style="background-color:rgb(144, 225, 159); border:1px solid rgb(129.6, 202.5, 143.1);"/>
+        <div class="box scale" style="background-color:rgb(144, 225, 159); border:1px solid rgb(129.6, 202.5, 143.1);"/>
+        <div class="scale">🐐</div>
+    </div>
+</div>
 </div>
 
 </foreignObject>
