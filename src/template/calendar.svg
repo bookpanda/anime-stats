@@ -1,9 +1,9 @@
-<svg id="gh-dark-mode-only" width="750" height="800" xmlns="http://www.w3.org/2000/svg">
+<svg id="gh-dark-mode-only" width="750" height="700" xmlns="http://www.w3.org/2000/svg">
 <style>
 svg {
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
   font-size: 12px;
-  line-height: 1px;
+  line-height: 12px;
 }
 #background {
   width: calc(100% - 10px);
@@ -67,11 +67,16 @@ svg {
 .row .scale {
     margin-right: 3px;
 }
+.la-main {
+    display: flex;
+    width: 700px;
+    /* margin-top: 10px; */
+    justify-content: space-between;
+}
 .la-container {
     display: flex;
-    width: 500px;
+    width: 300px;
     flex-direction: column;
-    margin-top: 10px;
 }
 .la-entry {
     display: flex;
@@ -81,11 +86,14 @@ svg {
     display: flex;
     justify-content: space-between;
 }
+.anime-title {
+    width: 250px;
+}
 </style>
 <g>
 <rect x="5" y="5" id="background" />
 <g>
-<foreignObject x="15" y="15" width="100%" height="800">
+<foreignObject x="15" y="15" width="100%" height="700">
 <div xmlns="http://www.w3.org/1999/xhtml" class="container">
     <div class="row">
         <div class="col">
@@ -113,7 +121,9 @@ svg {
     </div>
 
     <h2>Last 10 Animes</h2>
-    <div class="la-container">{{ lastAnimes }}</div>
+    <div class="la-main"> 
+        {{ lastAnimes }}
+    </div>
 
 </div>
 
