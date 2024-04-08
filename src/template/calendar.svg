@@ -28,14 +28,16 @@ svg {
 .box.invisible {
     background-color: transparent;
 }
-.days-box {
+.time-box {
     min-height: 10px;
-    width: 30px;
+    width: 10px;
     margin: 1.5px;
-    vertical-align: top;
     position: relative;
 }
-.days {
+.time-box.weekday {
+    width: 25px;
+}
+.time-legend {
     position: absolute;
     top: -18px;
     z-index: 10;
@@ -59,14 +61,14 @@ svg {
 
 <div xmlns="http://www.w3.org/1999/xhtml" class="row">
 <div class="col">
-	<div class="days-box" />
-	<div class="days-box" />
-	<div class="days-box"><p class="days">Mon</p></div>
-	<div class="days-box" />
-	<div class="days-box"><p class="days">Wed</p></div>
-	<div class="days-box" />
-	<div class="days-box"><p class="days">Fri</p></div>
-    <div class="days-box" />
+	<div class="time-box weekday" />
+	<div class="time-box weekday" />
+	<div class="time-box weekday"><p class="time-legend">Mon</p></div>
+	<div class="time-box weekday" />
+	<div class="time-box weekday"><p class="time-legend">Wed</p></div>
+	<div class="time-box weekday" />
+	<div class="time-box weekday"><p class="time-legend">Fri</p></div>
+    <div class="time-box weekday" />
 </div>
 {{ calendar }}
 </div>
