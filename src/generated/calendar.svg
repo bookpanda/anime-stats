@@ -1,5 +1,10 @@
 <svg id="gh-dark-mode-only" width="750" height="210" xmlns="http://www.w3.org/2000/svg">
 <style>
+svg {
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
+  font-size: 12px;
+  line-height: 21px;
+}
 #background {
   width: calc(100% - 10px);
   height: calc(100% - 10px);
@@ -12,7 +17,6 @@
 .box {
     width: 10px;
     min-height: 10px;
-    background-color: rgb(0,0,0);
     border-radius: 2px;
     margin: 1.5px;
     box-sizing: border-box;
@@ -23,6 +27,18 @@
 }
 .box.invisible {
     background-color: transparent;
+}
+.days-box {
+    min-height: 10px;
+    width: 30px;
+    margin: 1.5px;
+    vertical-align: top;
+    position: relative;
+}
+.days {
+    position: absolute;
+    top: -18px;
+    z-index: 10;
 }
 .row {
     display: flex;
@@ -43,6 +59,17 @@
 
 <div xmlns="http://www.w3.org/1999/xhtml" class="row">
 <div class="col">
+	<div class="days-box" />
+	<div class="days-box" />
+	<div class="days-box"><p class="days">Mon</p></div>
+	<div class="days-box" />
+	<div class="days-box"><p class="days">Wed</p></div>
+	<div class="days-box" />
+	<div class="days-box"><p class="days">Fri</p></div>
+    <div class="days-box" />
+</div>
+<div class="col">
+	<div class="box empty" />
 	<div class="box" style="background-color:rgb(42, 140, 69); border:1px solid rgb(37.800000000000004, 126, 62.1);"/>
 	<div class="box" style="background-color:rgb(42, 140, 69); border:1px solid rgb(37.800000000000004, 126, 62.1);"/>
 	<div class="box" style="background-color:rgb(42, 140, 69); border:1px solid rgb(37.800000000000004, 126, 62.1);"/>
@@ -52,6 +79,7 @@
 	<div class="box" style="background-color:rgb(42, 140, 69); border:1px solid rgb(37.800000000000004, 126, 62.1);"/>
 </div>
 <div class="col">
+	<div class="box empty" />
 	<div class="box" style="background-color:rgb(42, 140, 69); border:1px solid rgb(37.800000000000004, 126, 62.1);"/>
 	<div class="box" style="background-color:rgb(42, 140, 69); border:1px solid rgb(37.800000000000004, 126, 62.1);"/>
 	<div class="box" style="background-color:rgb(144, 225, 159); border:1px solid rgb(129.6, 202.5, 143.1);"/>
@@ -61,6 +89,7 @@
 	<div class="box" style="background-color:rgb(144, 225, 159); border:1px solid rgb(129.6, 202.5, 143.1);"/>
 </div>
 <div class="col">
+	<div class="box empty" />
 	<div class="box" style="background-color:rgb(144, 225, 159); border:1px solid rgb(129.6, 202.5, 143.1);"/>
 	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
 	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
@@ -70,6 +99,7 @@
 	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
 </div>
 <div class="col">
+	<div class="box empty" />
 	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
 	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
 	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
@@ -79,6 +109,7 @@
 	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
 </div>
 <div class="col">
+	<div class="box empty" />
 	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
 	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
 	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
@@ -88,6 +119,7 @@
 	<div class="box" style="background-color:rgb(91, 189, 114); border:1px solid rgb(81.9, 170.1, 102.60000000000001);"/>
 </div>
 <div class="col">
+	<div class="box empty" />
 	<div class="box" style="background-color:rgb(91, 189, 114); border:1px solid rgb(81.9, 170.1, 102.60000000000001);"/>
 	<div class="box" style="background-color:rgb(91, 189, 114); border:1px solid rgb(81.9, 170.1, 102.60000000000001);"/>
 	<div class="box" style="background-color:rgb(91, 189, 114); border:1px solid rgb(81.9, 170.1, 102.60000000000001);"/>
@@ -97,6 +129,7 @@
 	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
 </div>
 <div class="col">
+	<div class="box empty" />
 	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
 	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
 	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
@@ -106,6 +139,7 @@
 	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
 </div>
 <div class="col">
+	<div class="box empty" />
 	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
 	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
 	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
@@ -115,6 +149,7 @@
 	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
 </div>
 <div class="col">
+	<div class="box empty" />
 	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
 	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
 	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
@@ -124,6 +159,7 @@
 	<div class="box" style="background-color:rgb(91, 189, 114); border:1px solid rgb(81.9, 170.1, 102.60000000000001);"/>
 </div>
 <div class="col">
+	<div class="box empty" />
 	<div class="box" style="background-color:rgb(91, 189, 114); border:1px solid rgb(81.9, 170.1, 102.60000000000001);"/>
 	<div class="box" style="background-color:rgb(91, 189, 114); border:1px solid rgb(81.9, 170.1, 102.60000000000001);"/>
 	<div class="box" style="background-color:rgb(91, 189, 114); border:1px solid rgb(81.9, 170.1, 102.60000000000001);"/>
@@ -133,6 +169,7 @@
 	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
 </div>
 <div class="col">
+	<div class="box empty" />
 	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
 	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
 	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
@@ -142,6 +179,7 @@
 	<div class="box" style="background-color:rgb(59, 168, 86); border:1px solid rgb(53.1, 151.20000000000002, 77.4);"/>
 </div>
 <div class="col">
+	<div class="box empty" />
 	<div class="box" style="background-color:rgb(59, 168, 86); border:1px solid rgb(53.1, 151.20000000000002, 77.4);"/>
 	<div class="box" style="background-color:rgb(59, 168, 86); border:1px solid rgb(53.1, 151.20000000000002, 77.4);"/>
 	<div class="box" style="background-color:rgb(59, 168, 86); border:1px solid rgb(53.1, 151.20000000000002, 77.4);"/>
@@ -151,6 +189,7 @@
 	<div class="box" style="background-color:rgb(59, 168, 86); border:1px solid rgb(53.1, 151.20000000000002, 77.4);"/>
 </div>
 <div class="col">
+	<div class="box empty" />
 	<div class="box" style="background-color:rgb(59, 168, 86); border:1px solid rgb(53.1, 151.20000000000002, 77.4);"/>
 	<div class="box" style="background-color:rgb(59, 168, 86); border:1px solid rgb(53.1, 151.20000000000002, 77.4);"/>
 	<div class="box" style="background-color:rgb(59, 168, 86); border:1px solid rgb(53.1, 151.20000000000002, 77.4);"/>
@@ -160,6 +199,7 @@
 	<div class="box" style="background-color:rgb(59, 168, 86); border:1px solid rgb(53.1, 151.20000000000002, 77.4);"/>
 </div>
 <div class="col">
+	<div class="box empty" />
 	<div class="box" style="background-color:rgb(59, 168, 86); border:1px solid rgb(53.1, 151.20000000000002, 77.4);"/>
 	<div class="box" style="background-color:rgb(59, 168, 86); border:1px solid rgb(53.1, 151.20000000000002, 77.4);"/>
 	<div class="box" style="background-color:rgb(59, 168, 86); border:1px solid rgb(53.1, 151.20000000000002, 77.4);"/>
@@ -169,6 +209,7 @@
 	<div class="box" style="background-color:rgb(80, 182, 105); border:1px solid rgb(72, 163.8, 94.5);"/>
 </div>
 <div class="col">
+	<div class="box empty" />
 	<div class="box" style="background-color:rgb(80, 182, 105); border:1px solid rgb(72, 163.8, 94.5);"/>
 	<div class="box" style="background-color:rgb(80, 182, 105); border:1px solid rgb(72, 163.8, 94.5);"/>
 	<div class="box" style="background-color:rgb(80, 182, 105); border:1px solid rgb(72, 163.8, 94.5);"/>
@@ -178,6 +219,7 @@
 	<div class="box" style="background-color:rgb(80, 182, 105); border:1px solid rgb(72, 163.8, 94.5);"/>
 </div>
 <div class="col">
+	<div class="box empty" />
 	<div class="box" style="background-color:rgb(80, 182, 105); border:1px solid rgb(72, 163.8, 94.5);"/>
 	<div class="box" style="background-color:rgb(182, 233, 133); border:1px solid rgb(163.8, 209.70000000000002, 119.7);"/>
 	<div class="box" style="background-color:rgb(182, 233, 133); border:1px solid rgb(163.8, 209.70000000000002, 119.7);"/>
@@ -187,6 +229,7 @@
 	<div class="box" style="background-color:rgb(182, 233, 133); border:1px solid rgb(163.8, 209.70000000000002, 119.7);"/>
 </div>
 <div class="col">
+	<div class="box empty" />
 	<div class="box" style="background-color:rgb(182, 233, 133); border:1px solid rgb(163.8, 209.70000000000002, 119.7);"/>
 	<div class="box" style="background-color:rgb(182, 233, 133); border:1px solid rgb(163.8, 209.70000000000002, 119.7);"/>
 	<div class="box" style="background-color:rgb(182, 233, 133); border:1px solid rgb(163.8, 209.70000000000002, 119.7);"/>
@@ -196,6 +239,7 @@
 	<div class="box empty" />
 </div>
 <div class="col">
+	<div class="box empty" />
 	<div class="box" style="background-color:rgb(80, 182, 105); border:1px solid rgb(72, 163.8, 94.5);"/>
 	<div class="box" style="background-color:rgb(80, 182, 105); border:1px solid rgb(72, 163.8, 94.5);"/>
 	<div class="box" style="background-color:rgb(80, 182, 105); border:1px solid rgb(72, 163.8, 94.5);"/>
@@ -205,6 +249,7 @@
 	<div class="box" style="background-color:rgb(80, 182, 105); border:1px solid rgb(72, 163.8, 94.5);"/>
 </div>
 <div class="col">
+	<div class="box empty" />
 	<div class="box" style="background-color:rgb(80, 182, 105); border:1px solid rgb(72, 163.8, 94.5);"/>
 	<div class="box" style="background-color:rgb(80, 182, 105); border:1px solid rgb(72, 163.8, 94.5);"/>
 	<div class="box" style="background-color:rgb(80, 182, 105); border:1px solid rgb(72, 163.8, 94.5);"/>
@@ -214,6 +259,7 @@
 	<div class="box" style="background-color:rgb(80, 182, 105); border:1px solid rgb(72, 163.8, 94.5);"/>
 </div>
 <div class="col">
+	<div class="box empty" />
 	<div class="box" style="background-color:rgb(80, 182, 105); border:1px solid rgb(72, 163.8, 94.5);"/>
 	<div class="box" style="background-color:rgb(80, 182, 105); border:1px solid rgb(72, 163.8, 94.5);"/>
 	<div class="box" style="background-color:rgb(80, 182, 105); border:1px solid rgb(72, 163.8, 94.5);"/>
@@ -223,6 +269,7 @@
 	<div class="box" style="background-color:rgb(80, 182, 105); border:1px solid rgb(72, 163.8, 94.5);"/>
 </div>
 <div class="col">
+	<div class="box empty" />
 	<div class="box" style="background-color:rgb(80, 182, 105); border:1px solid rgb(72, 163.8, 94.5);"/>
 	<div class="box" style="background-color:rgb(80, 182, 105); border:1px solid rgb(72, 163.8, 94.5);"/>
 	<div class="box" style="background-color:rgb(80, 182, 105); border:1px solid rgb(72, 163.8, 94.5);"/>
@@ -232,6 +279,7 @@
 	<div class="box" style="background-color:rgb(80, 182, 105); border:1px solid rgb(72, 163.8, 94.5);"/>
 </div>
 <div class="col">
+	<div class="box empty" />
 	<div class="box" style="background-color:rgb(80, 182, 105); border:1px solid rgb(72, 163.8, 94.5);"/>
 	<div class="box" style="background-color:rgb(80, 182, 105); border:1px solid rgb(72, 163.8, 94.5);"/>
 	<div class="box" style="background-color:rgb(80, 182, 105); border:1px solid rgb(72, 163.8, 94.5);"/>
@@ -241,6 +289,7 @@
 	<div class="box" style="background-color:rgb(80, 182, 105); border:1px solid rgb(72, 163.8, 94.5);"/>
 </div>
 <div class="col">
+	<div class="box empty" />
 	<div class="box" style="background-color:rgb(80, 182, 105); border:1px solid rgb(72, 163.8, 94.5);"/>
 	<div class="box" style="background-color:rgb(80, 182, 105); border:1px solid rgb(72, 163.8, 94.5);"/>
 	<div class="box" style="background-color:rgb(80, 182, 105); border:1px solid rgb(72, 163.8, 94.5);"/>
@@ -250,6 +299,7 @@
 	<div class="box" style="background-color:rgb(91, 189, 114); border:1px solid rgb(81.9, 170.1, 102.60000000000001);"/>
 </div>
 <div class="col">
+	<div class="box empty" />
 	<div class="box" style="background-color:rgb(91, 189, 114); border:1px solid rgb(81.9, 170.1, 102.60000000000001);"/>
 	<div class="box" style="background-color:rgb(91, 189, 114); border:1px solid rgb(81.9, 170.1, 102.60000000000001);"/>
 	<div class="box" style="background-color:rgb(91, 189, 114); border:1px solid rgb(81.9, 170.1, 102.60000000000001);"/>
@@ -259,6 +309,7 @@
 	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5);"/>
 </div>
 <div class="col">
+	<div class="box empty" />
 	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5);"/>
 	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5);"/>
 	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5);"/>
@@ -268,6 +319,7 @@
 	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
 </div>
 <div class="col">
+	<div class="box empty" />
 	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
 	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
 	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
@@ -277,6 +329,7 @@
 	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
 </div>
 <div class="col">
+	<div class="box empty" />
 	<div class="box" style="background-color:rgb(155, 233, 168); border:1px solid rgb(139.5, 209.70000000000002, 151.20000000000002);"/>
 	<div class="box" style="background-color:rgb(155, 233, 168); border:1px solid rgb(139.5, 209.70000000000002, 151.20000000000002);"/>
 	<div class="box" style="background-color:rgb(155, 233, 168); border:1px solid rgb(139.5, 209.70000000000002, 151.20000000000002);"/>
@@ -286,6 +339,7 @@
 	<div class="box" style="background-color:rgb(155, 233, 168); border:1px solid rgb(139.5, 209.70000000000002, 151.20000000000002);"/>
 </div>
 <div class="col">
+	<div class="box empty" />
 	<div class="box" style="background-color:rgb(155, 233, 168); border:1px solid rgb(139.5, 209.70000000000002, 151.20000000000002);"/>
 	<div class="box" style="background-color:rgb(155, 233, 168); border:1px solid rgb(139.5, 209.70000000000002, 151.20000000000002);"/>
 	<div class="box" style="background-color:rgb(155, 233, 168); border:1px solid rgb(139.5, 209.70000000000002, 151.20000000000002);"/>
@@ -295,6 +349,7 @@
 	<div class="box" style="background-color:rgb(102, 197, 123); border:1px solid rgb(91.8, 177.3, 110.7);"/>
 </div>
 <div class="col">
+	<div class="box empty" />
 	<div class="box" style="background-color:rgb(102, 197, 123); border:1px solid rgb(91.8, 177.3, 110.7);"/>
 	<div class="box" style="background-color:rgb(102, 197, 123); border:1px solid rgb(91.8, 177.3, 110.7);"/>
 	<div class="box" style="background-color:rgb(144, 225, 159); border:1px solid rgb(129.6, 202.5, 143.1);"/>
@@ -304,6 +359,7 @@
 	<div class="box" style="background-color:rgb(144, 225, 159); border:1px solid rgb(129.6, 202.5, 143.1);"/>
 </div>
 <div class="col">
+	<div class="box empty" />
 	<div class="box" style="background-color:rgb(144, 225, 159); border:1px solid rgb(129.6, 202.5, 143.1);"/>
 	<div class="box" style="background-color:rgb(144, 225, 159); border:1px solid rgb(129.6, 202.5, 143.1);"/>
 	<div class="box" style="background-color:rgb(144, 225, 159); border:1px solid rgb(129.6, 202.5, 143.1);"/>
@@ -313,6 +369,7 @@
 	<div class="box" style="background-color:rgb(144, 225, 159); border:1px solid rgb(129.6, 202.5, 143.1);"/>
 </div>
 <div class="col">
+	<div class="box empty" />
 	<div class="box" style="background-color:rgb(47, 155, 75); border:1px solid rgb(42.300000000000004, 139.5, 67.5);"/>
 	<div class="box" style="background-color:rgb(144, 225, 159); border:1px solid rgb(129.6, 202.5, 143.1);"/>
 	<div class="box" style="background-color:rgb(144, 225, 159); border:1px solid rgb(129.6, 202.5, 143.1);"/>
@@ -322,6 +379,7 @@
 	<div class="box" style="background-color:rgb(144, 225, 159); border:1px solid rgb(129.6, 202.5, 143.1);"/>
 </div>
 <div class="col">
+	<div class="box empty" />
 	<div class="box" style="background-color:rgb(144, 225, 159); border:1px solid rgb(129.6, 202.5, 143.1);"/>
 	<div class="box" style="background-color:rgb(144, 225, 159); border:1px solid rgb(129.6, 202.5, 143.1);"/>
 	<div class="box" style="background-color:rgb(144, 225, 159); border:1px solid rgb(129.6, 202.5, 143.1);"/>
@@ -331,6 +389,7 @@
 	<div class="box" style="background-color:rgb(144, 225, 159); border:1px solid rgb(129.6, 202.5, 143.1);"/>
 </div>
 <div class="col">
+	<div class="box empty" />
 	<div class="box" style="background-color:rgb(144, 225, 159); border:1px solid rgb(129.6, 202.5, 143.1);"/>
 	<div class="box" style="background-color:rgb(144, 225, 159); border:1px solid rgb(129.6, 202.5, 143.1);"/>
 	<div class="box" style="background-color:rgb(144, 225, 159); border:1px solid rgb(129.6, 202.5, 143.1);"/>
@@ -340,6 +399,7 @@
 	<div class="box" style="background-color:rgb(201, 233, 110); border:1px solid rgb(180.9, 209.70000000000002, 99);"/>
 </div>
 <div class="col">
+	<div class="box empty" />
 	<div class="box" style="background-color:rgb(201, 233, 110); border:1px solid rgb(180.9, 209.70000000000002, 99);"/>
 	<div class="box" style="background-color:rgb(201, 233, 110); border:1px solid rgb(180.9, 209.70000000000002, 99);"/>
 	<div class="box" style="background-color:rgb(201, 233, 110); border:1px solid rgb(180.9, 209.70000000000002, 99);"/>
@@ -349,6 +409,7 @@
 	<div class="box" style="background-color:rgb(201, 233, 110); border:1px solid rgb(180.9, 209.70000000000002, 99);"/>
 </div>
 <div class="col">
+	<div class="box empty" />
 	<div class="box" style="background-color:rgb(201, 233, 110); border:1px solid rgb(180.9, 209.70000000000002, 99);"/>
 	<div class="box" style="background-color:rgb(201, 233, 110); border:1px solid rgb(180.9, 209.70000000000002, 99);"/>
 	<div class="box" style="background-color:rgb(201, 233, 110); border:1px solid rgb(180.9, 209.70000000000002, 99);"/>
@@ -358,6 +419,7 @@
 	<div class="box" style="background-color:rgb(173, 233, 145); border:1px solid rgb(155.70000000000002, 209.70000000000002, 130.5);"/>
 </div>
 <div class="col">
+	<div class="box empty" />
 	<div class="box" style="background-color:rgb(173, 233, 145); border:1px solid rgb(155.70000000000002, 209.70000000000002, 130.5);"/>
 	<div class="box" style="background-color:rgb(173, 233, 145); border:1px solid rgb(155.70000000000002, 209.70000000000002, 130.5);"/>
 	<div class="box" style="background-color:rgb(173, 233, 145); border:1px solid rgb(155.70000000000002, 209.70000000000002, 130.5);"/>
@@ -367,6 +429,7 @@
 	<div class="box" style="background-color:rgb(173, 233, 145); border:1px solid rgb(155.70000000000002, 209.70000000000002, 130.5);"/>
 </div>
 <div class="col">
+	<div class="box empty" />
 	<div class="box" style="background-color:rgb(173, 233, 145); border:1px solid rgb(155.70000000000002, 209.70000000000002, 130.5);"/>
 	<div class="box" style="background-color:rgb(47, 155, 75); border:1px solid rgb(42.300000000000004, 139.5, 67.5);"/>
 	<div class="box" style="background-color:rgb(47, 155, 75); border:1px solid rgb(42.300000000000004, 139.5, 67.5);"/>
@@ -376,6 +439,7 @@
 	<div class="box" style="background-color:rgb(47, 155, 75); border:1px solid rgb(42.300000000000004, 139.5, 67.5);"/>
 </div>
 <div class="col">
+	<div class="box empty" />
 	<div class="box" style="background-color:rgb(47, 155, 75); border:1px solid rgb(42.300000000000004, 139.5, 67.5);"/>
 	<div class="box" style="background-color:rgb(47, 155, 75); border:1px solid rgb(42.300000000000004, 139.5, 67.5);"/>
 	<div class="box" style="background-color:rgb(47, 155, 75); border:1px solid rgb(42.300000000000004, 139.5, 67.5);"/>
@@ -385,6 +449,7 @@
 	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
 </div>
 <div class="col">
+	<div class="box empty" />
 	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
 	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
 	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
@@ -394,6 +459,7 @@
 	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
 </div>
 <div class="col">
+	<div class="box empty" />
 	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
 	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
 	<div class="box empty" />
@@ -403,6 +469,7 @@
 	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135);"/>
 </div>
 <div class="col">
+	<div class="box empty" />
 	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135);"/>
 	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135);"/>
 	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135);"/>
@@ -416,11 +483,13 @@
 	<div class="box empty" />
 	<div class="box empty" />
 	<div class="box empty" />
+	<div class="box empty" />
 	<div class="box" style="background-color:rgb(42, 140, 69); border:1px solid rgb(37.800000000000004, 126, 62.1);"/>
 	<div class="box" style="background-color:rgb(42, 140, 69); border:1px solid rgb(37.800000000000004, 126, 62.1);"/>
 	<div class="box" style="background-color:rgb(42, 140, 69); border:1px solid rgb(37.800000000000004, 126, 62.1);"/>
 </div>
 <div class="col">
+	<div class="box empty" />
 	<div class="box" style="background-color:rgb(42, 140, 69); border:1px solid rgb(37.800000000000004, 126, 62.1);"/>
 	<div class="box" style="background-color:rgb(42, 140, 69); border:1px solid rgb(37.800000000000004, 126, 62.1);"/>
 	<div class="box" style="background-color:rgb(42, 140, 69); border:1px solid rgb(37.800000000000004, 126, 62.1);"/>
@@ -430,6 +499,7 @@
 	<div class="box" style="background-color:rgb(42, 140, 69); border:1px solid rgb(37.800000000000004, 126, 62.1);"/>
 </div>
 <div class="col">
+	<div class="box empty" />
 	<div class="box" style="background-color:rgb(42, 140, 69); border:1px solid rgb(37.800000000000004, 126, 62.1);"/>
 	<div class="box" style="background-color:rgb(42, 140, 69); border:1px solid rgb(37.800000000000004, 126, 62.1);"/>
 	<div class="box empty" />
@@ -439,6 +509,7 @@
 	<div class="box" style="background-color:rgb(45, 150, 73); border:1px solid rgb(40.5, 135, 65.7);"/>
 </div>
 <div class="col">
+	<div class="box empty" />
 	<div class="box" style="background-color:rgb(45, 150, 73); border:1px solid rgb(40.5, 135, 65.7);"/>
 	<div class="box" style="background-color:rgb(45, 150, 73); border:1px solid rgb(40.5, 135, 65.7);"/>
 	<div class="box" style="background-color:rgb(45, 150, 73); border:1px solid rgb(40.5, 135, 65.7);"/>
@@ -448,6 +519,7 @@
 	<div class="box" style="background-color:rgb(45, 150, 73); border:1px solid rgb(40.5, 135, 65.7);"/>
 </div>
 <div class="col">
+	<div class="box empty" />
 	<div class="box" style="background-color:rgb(45, 150, 73); border:1px solid rgb(40.5, 135, 65.7);"/>
 	<div class="box" style="background-color:rgb(45, 150, 73); border:1px solid rgb(40.5, 135, 65.7);"/>
 	<div class="box" style="background-color:rgb(45, 150, 73); border:1px solid rgb(40.5, 135, 65.7);"/>
@@ -457,6 +529,7 @@
 	<div class="box" style="background-color:rgb(247, 234, 53); border:1px solid rgb(222.3, 210.6, 47.7);"/>
 </div>
 <div class="col">
+	<div class="box empty" />
 	<div class="box" style="background-color:rgb(247, 234, 53); border:1px solid rgb(222.3, 210.6, 47.7);"/>
 	<div class="box" style="background-color:rgb(247, 234, 53); border:1px solid rgb(222.3, 210.6, 47.7);"/>
 	<div class="box" style="background-color:rgb(247, 234, 53); border:1px solid rgb(222.3, 210.6, 47.7);"/>
@@ -466,6 +539,7 @@
 	<div class="box" style="background-color:rgb(102, 197, 123); border:1px solid rgb(91.8, 177.3, 110.7);"/>
 </div>
 <div class="col">
+	<div class="box empty" />
 	<div class="box" style="background-color:rgb(102, 197, 123); border:1px solid rgb(91.8, 177.3, 110.7);"/>
 	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5);"/>
 	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5);"/>
@@ -475,6 +549,7 @@
 	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5);"/>
 </div>
 <div class="col">
+	<div class="box empty" />
 	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
 	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135);"/>
 	<div class="box" style="background-color:rgb(80, 182, 105); border:1px solid rgb(72, 163.8, 94.5);"/>
@@ -484,6 +559,7 @@
 	<div class="box" style="background-color:rgb(91, 189, 114); border:1px solid rgb(81.9, 170.1, 102.60000000000001);"/>
 </div>
 <div class="col">
+	<div class="box empty" />
 	<div class="box" style="background-color:rgb(91, 189, 114); border:1px solid rgb(81.9, 170.1, 102.60000000000001);"/>
 	<div class="box" style="background-color:rgb(91, 189, 114); border:1px solid rgb(81.9, 170.1, 102.60000000000001);"/>
 	<div class="box" style="background-color:rgb(32, 110, 57); border:1px solid rgb(28.8, 99, 51.300000000000004);"/>
@@ -493,6 +569,7 @@
 	<div class="box" style="background-color:rgb(32, 110, 57); border:1px solid rgb(28.8, 99, 51.300000000000004);"/>
 </div>
 <div class="col">
+	<div class="box empty" />
 	<div class="box" style="background-color:rgb(32, 110, 57); border:1px solid rgb(28.8, 99, 51.300000000000004);"/>
 	<div class="box" style="background-color:rgb(32, 110, 57); border:1px solid rgb(28.8, 99, 51.300000000000004);"/>
 	<div class="box" style="background-color:rgb(32, 110, 57); border:1px solid rgb(28.8, 99, 51.300000000000004);"/>
@@ -502,6 +579,7 @@
 	<div class="box" style="background-color:rgb(32, 110, 57); border:1px solid rgb(28.8, 99, 51.300000000000004);"/>
 </div>
 <div class="col">
+	<div class="box empty" />
 	<div class="box" style="background-color:rgb(32, 110, 57); border:1px solid rgb(28.8, 99, 51.300000000000004);"/>
 	<div class="box" style="background-color:rgb(32, 110, 57); border:1px solid rgb(28.8, 99, 51.300000000000004);"/>
 	<div class="box" style="background-color:rgb(32, 110, 57); border:1px solid rgb(28.8, 99, 51.300000000000004);"/>
@@ -511,6 +589,7 @@
 	<div class="box empty" />
 </div>
 <div class="col">
+	<div class="box empty" />
 	<div class="box empty" />
 	<div class="box empty" />
 </div>
