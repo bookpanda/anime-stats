@@ -3,7 +3,7 @@
 svg {
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
   font-size: 12px;
-  line-height: 21px;
+  line-height: 1px;
 }
 #background {
   width: calc(100% - 10px);
@@ -43,7 +43,7 @@ svg {
 }
 .time-legend {
     position: absolute;
-    top: -18px;
+    top: -8px;
     z-index: 10;
 }
 .row {
@@ -72,12 +72,10 @@ svg {
     width: 500px;
     flex-direction: column;
     margin-top: 10px;
-    margin-bottom: -20px;
 }
 .la-entry {
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
 }
 .la-row {
     display: flex;
@@ -647,6 +645,7 @@ svg {
                 <h4>Frieren: Beyond Journey’s End</h4>
                 <h3>10</h3>
             </div>
+            <p>Tue Mar 19 2024 - Tue Apr 02 2024</p>
         </div>
 
         <div class="la-entry">
@@ -654,6 +653,7 @@ svg {
                 <h4>A Place Further Than the Universe</h4>
                 <h3>8.6</h3>
             </div>
+            <p>Tue Mar 12 2024 - Tue Mar 19 2024</p>
         </div>
 
         <div class="la-entry">
@@ -661,6 +661,7 @@ svg {
                 <h4>Violet Evergarden: the Movie</h4>
                 <h3>8.7</h3>
             </div>
+            <p>Tue Mar 12 2024 - Tue Mar 12 2024</p>
         </div>
 
         <div class="la-entry">
@@ -668,6 +669,7 @@ svg {
                 <h4>Violet Evergarden: Special</h4>
                 <h3>8.2</h3>
             </div>
+            <p>Mon Mar 11 2024 - Mon Mar 11 2024</p>
         </div>
 
         <div class="la-entry">
@@ -675,6 +677,7 @@ svg {
                 <h4>Violet Evergarden: Eternity and the Auto Memory Doll</h4>
                 <h3>8.3</h3>
             </div>
+            <p>Sun Mar 10 2024 - Sun Mar 10 2024</p>
         </div>
 
         <div class="la-entry">
@@ -682,6 +685,7 @@ svg {
                 <h4>Violet Evergarden</h4>
                 <h3>8.8</h3>
             </div>
+            <p>Mon Mar 04 2024 - Sat Mar 09 2024</p>
         </div>
 
         <div class="la-entry">
@@ -689,6 +693,7 @@ svg {
                 <h4>ERASED</h4>
                 <h3>8.5</h3>
             </div>
+            <p>Fri Mar 01 2024 - Sun Mar 03 2024</p>
         </div>
 
         <div class="la-entry">
@@ -696,6 +701,7 @@ svg {
                 <h4>The Promised Neverland Season 2</h4>
                 <h3>7</h3>
             </div>
+            <p>Tue Feb 20 2024 - Tue Feb 27 2024</p>
         </div>
 
         <div class="la-entry">
@@ -703,6 +709,7 @@ svg {
                 <h4>The Promised Neverland</h4>
                 <h3>9.2</h3>
             </div>
+            <p>Sat Feb 17 2024 - Wed Feb 21 2024</p>
         </div>
 
         <div class="la-entry">
@@ -710,6 +717,7 @@ svg {
                 <h4>Made in Abyss: The Golden City of the Scorching Sun</h4>
                 <h3>9.2</h3>
             </div>
+            <p>Thu Feb 08 2024 - Fri Feb 16 2024</p>
         </div>
 </div>
 

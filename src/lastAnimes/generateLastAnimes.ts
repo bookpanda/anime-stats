@@ -8,6 +8,7 @@ export const generateLastAnimes = (entries: Entry[]) => {
                 <h4>${entries.media.title.english}</h4>
                 <h3>${entries.score}</h3>
             </div>
+            <p>${entries.startedAt.date.toDateString()} - ${entries.completedAt.date.toDateString()}</p>
         </div>\n`;
         console.log(
             entries.media.title.english,
