@@ -32,14 +32,14 @@ const colorRange: {
         blue: 78,
     },
     "8": {
-        red: 65,
-        green: 196,
-        blue: 100,
-    },
-    "7": {
         red: 155,
         green: 233,
         blue: 168,
+    },
+    "7": {
+        red: 247,
+        green: 234,
+        blue: 53,
     },
     "6": {
         red: 247,

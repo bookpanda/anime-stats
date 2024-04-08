@@ -21,6 +21,9 @@
     background-color: rgba(235,237,240,255);
     border: 1px solid rgba(223,225,228,255);
 }
+.box.invisible {
+    background-color: transparent;
+}
 .row {
     display: flex;
     flex-direction: row;
