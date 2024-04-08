@@ -33,6 +33,8 @@ export const generateCalendar = (entries: Entry[]) => {
 
     let calendar = `<div class="col">\n`;
     calendar += `\t<div class="time-box"><p class="time-legend">${monthAbbr(startDate)}</p></div>\n`;
+    const seenMonths = new Set<number>();
+    seenMonths.add(startDate.getMonth());
     if (startDate.getDay() !== 0) {
         for (let i = 0; i < startDate.getDay(); i++) {
             calendar += `\t<div class="box invisible" />\n`;
@@ -45,7 +47,12 @@ export const generateCalendar = (entries: Entry[]) => {
         const day = new Date(daySlot);
         if (day.getDay() === 0 && !isSameDay(day, startDate)) {
             calendar += `<div class="col">\n`;
-            calendar += `\t<div class="time-box"><p class="time-legend">${monthAbbr(startDate)}</p></div>\n`;
+            if (!seenMonths.has(day.getMonth())) {
+                seenMonths.add(day.getMonth());
+                calendar += `\t<div class="time-box"><p class="time-legend">${monthAbbr(day)}</p></div>\n`;
+            } else {
+                calendar += `\t<div class="time-box"></div>\n`;
+            }
         }
         if (score === 0) {
             calendar += `\t<div class="box empty" />\n`;
