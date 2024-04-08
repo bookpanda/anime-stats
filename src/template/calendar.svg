@@ -99,6 +99,7 @@ svg {
     </div>
 
     <h2>Last 10 Animes</h2>
+    <div>{{ lastAnimes }}</div>
 
 </div>
 
