@@ -87,7 +87,7 @@ export const loadAnilistData = async (username: string, status: string) => {
     }
 
     data.sort((a, b) => {
-        return a.startedAt.date.getTime() - b.startedAt.date.getTime();
+        return a.completedAt.date.getTime() - b.completedAt.date.getTime();
     });
 
     const __filename = fileURLToPath(import.meta.url);
