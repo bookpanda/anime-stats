@@ -6,7 +6,7 @@
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
-        "codegen": "graphql-codegen --config src/codegen.ts",
+        "codegen": "graphql-codegen --config src/graphql/codegen.ts",
         "load": "npx tsx src/loadData.ts",
         "gen": "npx tsx src/updateReadme.ts"
     },

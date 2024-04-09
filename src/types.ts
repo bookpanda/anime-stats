@@ -12,6 +12,7 @@ interface Entry {
             large: string;
         };
         episodes: number;
+        siteUrl: string;
     };
     startedAt: {
         date: Date;

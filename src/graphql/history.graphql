@@ -20,6 +20,7 @@ query GetAnimeHistory(
                         large
                     }
                     episodes
+                    siteUrl
                 }
                 startedAt {
                     year
