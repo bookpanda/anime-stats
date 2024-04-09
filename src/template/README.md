@@ -1,24 +1,30 @@
 <style>
 .la-main {
     display: flex;
-    width: 700px;
+    width: 800px;
     justify-content: space-between;
 }
 .la-container {
     display: flex;
-    width: 300px;
+    width: 380px;
     flex-direction: column;
 }
 .la-entry {
+    width: 100%;
     display: flex;
-    flex-direction: column;
+    margin-bottom: 10px;
+    justify-content: space-between;
 }
 .la-row {
+    width: calc(100% - 80px);
     display: flex;
     justify-content: space-between;
 }
 .anime-title {
     width: 250px;
+}
+.anime-cover {
+    height: 100px;
 }
 </style>
 

@@ -7,11 +7,14 @@ export const generateLastAnimes = (entries: Entry[]) => {
             lastAnimes += `</div>\n<div class="la-container">`;
         }
         lastAnimes += `<div class="la-entry">
+            <img src="${entry.media.coverImage.large}" alt="${entry.media.title.english}" class="anime-cover">
             <div class="la-row">
-                <a href="${entry.media.siteUrl}"><h4 class="anime-title">${entry.media.title.english}</h4></a>
+                <div>
+                    <a href="${entry.media.siteUrl}"><h4 class="anime-title">${entry.media.title.english}</h4></a>
+                    <p>${slashDateFormat(entry.startedAt.date)} - ${slashDateFormat(entry.completedAt.date)} (${daysAgo(entry.completedAt.date)} days ago)</p>
+                </div>
                 <h3>${entry.score}</h3>
             </div>
-            <p>${slashDateFormat(entry.startedAt.date)} - ${slashDateFormat(entry.completedAt.date)} (${daysAgo(entry.completedAt.date)} days ago)</p>
         </div>\n`;
         idx++;
     }
