@@ -1,0 +1,52 @@
+<svg id="gh-dark-mode-only" width="750" height="500" xmlns="http://www.w3.org/2000/svg">
+<style>
+svg {
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
+  font-size: 12px;
+  line-height: 12px;
+}
+#background {
+  width: 100%;
+  height: 100%;
+  fill: white;
+  rx: 6px;
+  ry: 6px;
+}
+.la-main {
+    display: flex;
+    width: 800px;
+    justify-content: space-between;
+}
+.la-container {
+    display: flex;
+    width: 380px;
+    flex-direction: column;
+}
+.la-entry {
+    width: 100%;
+    display: flex;
+    margin-bottom: 10px;
+    justify-content: space-between;
+}
+.la-row {
+    width: calc(100% - 80px);
+    display: flex;
+    justify-content: space-between;
+}
+.anime-title {
+    width: 250px;
+}
+.anime-cover {
+    height: 100px;
+}
+</style>
+
+<rect x="0" y="0" id="background" />
+
+<foreignObject x="15" y="15" width="100%" height="800">
+<h2>Last 10 Animes</h2>
+<div xmlns="http://www.w3.org/1999/xhtml" class="la-main">
+    {{ lastAnimes }}
+</div>
+</foreignObject>
+</svg>
