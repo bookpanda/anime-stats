@@ -1,6 +1,6 @@
 import fs from "fs";
 
-export const modifySVG = (
+export const modifyFile = (
     filePath: string,
     outputFilePath: string,
     modifications: { [selector: string]: string },

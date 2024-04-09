@@ -3,7 +3,7 @@ import { fileURLToPath } from "url";
 import { generateCalendar } from "./calendar/generateCalendar";
 import { generateLastAnimes } from "./lastAnimes/generateLastAnimes";
 import { loadAnilistData } from "./loadAnilistData";
-import { modifySVG } from "./modifySVG";
+import { modifyFile } from "./modifyFile";
 
 const entries = await loadAnilistData("bookpanda", "COMPLETED");
 const calendar = generateCalendar(entries);
@@ -11,17 +11,29 @@ const lastAnimes = generateLastAnimes(entries);
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-const filePath = path.join(__dirname, "template/calendar.svg");
-const outputFilePath = path.join(__dirname, "generated/calendar.svg");
-const modifications = {
+let filePath = path.join(__dirname, "template/calendar.svg");
+let outputFilePath = path.join(__dirname, "generated/calendar.svg");
+const modCalendar = {
     "{{ calendar }}": calendar,
-    "{{ lastAnimes }}": lastAnimes,
 };
 
-modifySVG(filePath, outputFilePath, modifications, (err) => {
+modifyFile(filePath, outputFilePath, modCalendar, (err) => {
     if (err) {
         console.error("Error modifying SVG:", err);
     } else {
         console.log("SVG modified successfully.");
+    }
+});
+
+filePath = path.join(__dirname, "template/README.md");
+outputFilePath = path.join(__dirname, "../README.md");
+const modLastAnimes = {
+    "{{ lastAnimes }}": lastAnimes,
+};
+modifyFile(filePath, outputFilePath, modLastAnimes, (err) => {
+    if (err) {
+        console.error("Error modifying README:", err);
+    } else {
+        console.log("README modified successfully.");
     }
 });
