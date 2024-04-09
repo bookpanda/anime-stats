@@ -43,7 +43,7 @@ svg {
 }
 .time-legend {
     position: absolute;
-    top: -8px;
+    top: -13px;
     z-index: 10;
 }
 .row {
@@ -70,7 +70,6 @@ svg {
 .la-main {
     display: flex;
     width: 700px;
-    /* margin-top: 10px; */
     justify-content: space-between;
 }
 .la-container {
@@ -109,7 +108,7 @@ svg {
         {{ calendar }}
     </div>
     <div class="scale-box">
-        <div class="row scale">
+        <div class="row">
             <div class="scale">🚮</div>
             <div class="box scale" style="background-color:rgb(211, 44, 44); border:1px solid rgb(189.9, 39.6, 39.6);"/>
             <div class="box scale" style="background-color:rgb(247, 234, 53); border:1px solid rgb(222.3, 210.6, 47.7);"/>
