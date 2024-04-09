@@ -1,7 +1,34 @@
+<style>
+.la-main {
+    display: flex;
+    width: 700px;
+    justify-content: space-between;
+}
+.la-container {
+    display: flex;
+    width: 300px;
+    flex-direction: column;
+}
+.la-entry {
+    display: flex;
+    flex-direction: column;
+}
+.la-row {
+    display: flex;
+    justify-content: space-between;
+}
+.anime-title {
+    width: 250px;
+}
+</style>
+
 # anime-stats
 
 <img src="./src/generated/calendar.svg" />
-<div class="la-container">
+
+<h2>Last 10 Animes</h2>
+<div class="la-main"> 
+    <div class="la-container">
         <div class="la-entry">
             <div class="la-row">
                 <a href="366538451"><h4 class="anime-title">Frieren: Beyond Journey’s End</h4></a>
@@ -9,6 +36,7 @@
             </div>
             <p>19/3/2024 - 2/4/2024</p>
         </div>
+
         <div class="la-entry">
             <div class="la-row">
                 <a href="312106728"><h4 class="anime-title">A Place Further Than the Universe</h4></a>
@@ -40,7 +68,6 @@
             </div>
             <p>10/3/2024 - 10/3/2024</p>
         </div>
-
 </div>
 <div class="la-container">
         <div class="la-entry">
@@ -82,5 +109,5 @@
             </div>
             <p>8/2/2024 - 16/2/2024</p>
         </div>
-
+</div>
 </div>
