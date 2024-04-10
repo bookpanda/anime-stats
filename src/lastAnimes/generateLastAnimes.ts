@@ -11,12 +11,11 @@ export const generateLastAnimes = (entries: Entry[]) => {
         const rightEntry = lastEntries[i + half];
         table.push([
             `<img src="${leftEntry.media.coverImage.large}" alt="${leftEntry.media.title.english}" style="height:100px" />`,
-            `${leftEntry.media.title.english} <br/> ${slashDateFormat(leftEntry.startedAt.date)} - ${slashDateFormat(leftEntry.completedAt.date)} (${daysAgo(leftEntry.completedAt.date)} days ago) <br/> ${leftEntry.score}`,
+            `<a href="${leftEntry.media.siteUrl}" target="_blank"><b>${leftEntry.media.title.english}</b></a> <br/> ${slashDateFormat(leftEntry.startedAt.date)} - ${slashDateFormat(leftEntry.completedAt.date)} (${daysAgo(leftEntry.completedAt.date)} days ago) <br/> <h3>${leftEntry.score}/10</h3>`,
             `<img src="${rightEntry.media.coverImage.large}" alt="${rightEntry.media.title.english}" style="height:100px" />`,
-            `${rightEntry.media.title.english} <br/> ${slashDateFormat(rightEntry.startedAt.date)} - ${slashDateFormat(rightEntry.completedAt.date)} (${daysAgo(rightEntry.completedAt.date)} days ago) <br/> ${rightEntry.score}`,
+            `<a href="${leftEntry.media.siteUrl}" target="_blank"><b>${rightEntry.media.title.english}</b></a> <br/> ${slashDateFormat(rightEntry.startedAt.date)} - ${slashDateFormat(rightEntry.completedAt.date)} (${daysAgo(rightEntry.completedAt.date)} days ago) <br/> <h3>${rightEntry.score}/10</h3>`,
         ]);
     }
-
     const lastAnimes = markdownTable(table);
 
     return lastAnimes;
