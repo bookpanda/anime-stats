@@ -34,7 +34,7 @@ const daysAgo = (date: Date) => {
 };
 
 const genImage = (entry: Entry) => {
-    return `<img src="${entry.media.coverImage.large}" alt="${entry.media.title.english}" />`;
+    return `<img src="${entry.media.coverImage.large}" alt="${entry.media.title.english}" style="height:100px;width:auto" />`;
 };
 
 const genInfo = (entry: Entry) => {
