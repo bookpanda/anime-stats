@@ -10,13 +10,15 @@ export const generateLastAnimes = (entries: Entry[]) => {
         const leftEntry = lastEntries[i];
         const rightEntry = lastEntries[i + half];
         table.push([
-            `<img src="${leftEntry.media.coverImage.large}" alt="${leftEntry.media.title.english}" style="height:100px" />`,
-            `<a href="${leftEntry.media.siteUrl}" target="_blank"><b>${leftEntry.media.title.english}</b></a> <br/> ${slashDateFormat(leftEntry.startedAt.date)} - ${slashDateFormat(leftEntry.completedAt.date)} (${daysAgo(leftEntry.completedAt.date)} days ago) <br/> <h3>${leftEntry.score}/10</h3>`,
-            `<img src="${rightEntry.media.coverImage.large}" alt="${rightEntry.media.title.english}" style="height:100px" />`,
-            `<a href="${leftEntry.media.siteUrl}" target="_blank"><b>${rightEntry.media.title.english}</b></a> <br/> ${slashDateFormat(rightEntry.startedAt.date)} - ${slashDateFormat(rightEntry.completedAt.date)} (${daysAgo(rightEntry.completedAt.date)} days ago) <br/> <h3>${rightEntry.score}/10</h3>`,
+            genImage(leftEntry),
+            genInfo(leftEntry),
+            genImage(rightEntry),
+            genInfo(rightEntry),
         ]);
     }
-    const lastAnimes = markdownTable(table);
+    const lastAnimes = markdownTable(table, {
+        align: ["c", "l", "c", "l"],
+    });
 
     return lastAnimes;
 };
@@ -29,4 +31,12 @@ const daysAgo = (date: Date) => {
     const now = new Date();
     const diff = now.getTime() - date.getTime();
     return Math.floor(diff / (1000 * 60 * 60 * 24));
+};
+
+const genImage = (entry: Entry) => {
+    return `<img src="${entry.media.coverImage.large}" alt="${entry.media.title.english}" style="height:100px" />`;
+};
+
+const genInfo = (entry: Entry) => {
+    return `<a href="${entry.media.siteUrl}" target="_blank"><b>${entry.media.title.english}</b></a> <br/> ${slashDateFormat(entry.startedAt.date)} - ${slashDateFormat(entry.completedAt.date)} (${daysAgo(entry.completedAt.date)} days ago) <br/> <h3>${entry.score}/10</h3>`;
 };
