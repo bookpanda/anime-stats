@@ -7,7 +7,7 @@ export const generateLastAnimes = (entries: Entry[]) => {
             lastAnimes += `</div>\n<div class="la-container">`;
         }
         lastAnimes += `<div class="la-entry">
-            <img src="${entry.media.coverImage.large}" alt="${entry.media.title.english}" class="anime-cover">
+            <img src="${entry.media.coverImage.large}" alt="${entry.media.title.english}" class="anime-cover" />
             <div class="la-row">
                 <div>
                     <a href="${entry.media.siteUrl}"><h4 class="anime-title">${entry.media.title.english}</h4></a>
