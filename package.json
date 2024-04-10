@@ -35,5 +35,6 @@
     "graphql-request": "^6.1.0",
     "graphql-tag": "^2.12.6",
     "markdown-table": "^3.0.3"
-  }
+  },
+  "packageManager": "pnpm@8.7.1"
 }
