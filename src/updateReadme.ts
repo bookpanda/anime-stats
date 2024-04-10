@@ -1,11 +1,45 @@
 import path from "path";
 import { fileURLToPath } from "url";
 import { generateCalendar } from "./calendar/generateCalendar";
+import data from "./data/data.json";
 import { generateLastAnimes } from "./lastAnimes/generateLastAnimes";
-import { loadAnilistData } from "./loadAnilistData";
 import { modifyFile } from "./modifyFile";
 
-const entries = await loadAnilistData("bookpanda", "COMPLETED");
+// const entries = await loadAnilistData("bookpanda", "COMPLETED");
+const entries: Entry[] = [];
+for (const entry of data) {
+    const a: Entry = {
+        id: entry.id,
+        status: entry.status,
+        progress: entry.progress,
+        media: {
+            title: {
+                english: entry.media.title.english || "",
+                userPreferred: entry.media.title.userPreferred || "",
+            },
+            coverImage: {
+                color: entry.media.coverImage.color || "",
+                large: entry.media.coverImage.large,
+            },
+            episodes: entry.media.episodes,
+            siteUrl: entry.media.siteUrl,
+        },
+        startedAt: {
+            date: new Date(entry.startedAt.date),
+            day: entry.startedAt.day,
+            month: entry.startedAt.month,
+            year: entry.startedAt.year,
+        },
+        completedAt: {
+            date: new Date(entry.completedAt.date),
+            day: entry.completedAt.day,
+            month: entry.completedAt.month,
+            year: entry.completedAt.year,
+        },
+        score: entry.score,
+    };
+    entries.push(a);
+}
 const calendar = generateCalendar(entries);
 const lastAnimes = generateLastAnimes(entries);
 
