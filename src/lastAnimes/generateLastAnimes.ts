@@ -3,6 +3,7 @@ import { markdownTable } from "markdown-table";
 export const generateLastAnimes = (entries: Entry[]) => {
     const lastEntries = entries.slice(-10).reverse();
     const table: string[][] = [];
+    table.push(["Cover", "Anime", "Cover", "Anime"]);
 
     const half = lastEntries.length / 2;
     for (let i = 0; i < half; i++) {
