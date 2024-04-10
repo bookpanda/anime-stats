@@ -1,1 +1,1 @@
-const ANILIST_USERNAME = "bookpanda";
+export const ANILIST_USERNAME = "bookpanda";
