@@ -5,7 +5,7 @@ import data from "./data/data.json";
 import { generateLastAnimes } from "./lastAnimes/generateLastAnimes";
 import { modifyFile } from "./modifyFile";
 
-// const entries = await loadAnilistData("bookpanda", "COMPLETED");
+// const entries = await loadAnilistData(ANILIST_USERNAME, "COMPLETED");
 const entries: Entry[] = [];
 for (const entry of data) {
     const a: Entry = {
