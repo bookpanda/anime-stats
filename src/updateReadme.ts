@@ -25,8 +25,8 @@ modifyFile(filePath, outputFilePath, modCalendar, (err) => {
     }
 });
 
-filePath = path.join(__dirname, "template/lastAnime.svg");
-outputFilePath = path.join(__dirname, "generated/lastAnime.svg");
+filePath = path.join(__dirname, "template/README.md");
+outputFilePath = path.join(__dirname, "../README.md");
 const modLastAnimes = {
     "{{ lastAnimes }}": lastAnimes,
 };

@@ -1,6 +1,9 @@
+import { cssClasses } from "./cssClasses";
+
 export const generateLastAnimes = (entries: Entry[]) => {
     const lastEntries = entries.slice(-10).reverse();
-    let lastAnimes = `<div class="la-container">`;
+    let lastAnimes = `<div class="la-main">
+        <div class="la-container">`;
     let idx = 0;
     for (const entry of lastEntries) {
         if (idx === 5) {
@@ -18,7 +21,14 @@ export const generateLastAnimes = (entries: Entry[]) => {
         </div>\n`;
         idx++;
     }
-    lastAnimes += `</div>`;
+    lastAnimes += `\t</div>\n</div>`;
+
+    for (const ccs of cssClasses) {
+        lastAnimes = lastAnimes.replace(
+            new RegExp(`class="${ccs.name}"`, "g"),
+            `style="${ccs.css}"`
+        );
+    }
 
     return lastAnimes;
 };
