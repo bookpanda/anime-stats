@@ -1,35 +1,5 @@
 [
   {
-    "id": 322971868,
-    "status": "COMPLETED",
-    "progress": 10,
-    "media": {
-      "title": {
-        "english": "KONOSUBA -God's blessing on this wonderful world! 2",
-        "userPreferred": "Kono Subarashii Sekai ni Shukufuku wo! 2"
-      },
-      "coverImage": {
-        "color": "#f1a150",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21699-Fkbnkl9ZC6fW.png"
-      },
-      "episodes": 10,
-      "siteUrl": "https://anilist.co/anime/21699"
-    },
-    "startedAt": {
-      "year": 2023,
-      "month": 3,
-      "day": 11,
-      "date": "2023-03-11T00:00:00.000Z"
-    },
-    "completedAt": {
-      "year": 2023,
-      "month": 3,
-      "day": 15,
-      "date": "2023-03-15T00:00:00.000Z"
-    },
-    "score": 8.4
-  },
-  {
     "id": 322971870,
     "status": "COMPLETED",
     "progress": 1,
