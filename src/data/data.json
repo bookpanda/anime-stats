@@ -1,35 +1,5 @@
 [
   {
-    "id": 322971870,
-    "status": "COMPLETED",
-    "progress": 1,
-    "media": {
-      "title": {
-        "english": "KONOSUBA -God's blessing on this wonderful world!- Legend of Crimson",
-        "userPreferred": "Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu"
-      },
-      "coverImage": {
-        "color": "#5dbbe4",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx102976-WcNjDFdQbdCv.png"
-      },
-      "episodes": 1,
-      "siteUrl": "https://anilist.co/anime/102976"
-    },
-    "startedAt": {
-      "year": 2023,
-      "month": 3,
-      "day": 18,
-      "date": "2023-03-18T00:00:00.000Z"
-    },
-    "completedAt": {
-      "year": 2023,
-      "month": 3,
-      "day": 18,
-      "date": "2023-03-18T00:00:00.000Z"
-    },
-    "score": 8.3
-  },
-  {
     "id": 330470324,
     "status": "COMPLETED",
     "progress": 1,
