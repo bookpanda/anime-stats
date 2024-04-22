@@ -87,16 +87,6 @@ svg {
         </div>
         <div class="col">
 	<div class="time-box"><p class="time-legend">Apr</p></div>
-	<div class="box invisible" />
-	<div class="box invisible" />
-	<div class="box invisible" />
-	<div class="box invisible" />
-	<div class="box invisible" />
-	<div class="box invisible" />
-	<div class="box" style="background-color:rgb(144, 225, 159); border:1px solid rgb(129.6, 202.5, 143.1);"/>
-</div>
-<div class="col">
-	<div class="time-box"></div>
 	<div class="box" style="background-color:rgb(144, 225, 159); border:1px solid rgb(129.6, 202.5, 143.1);"/>
 	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
 	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
@@ -617,6 +607,7 @@ svg {
 </div>
 <div class="col">
 	<div class="time-box"></div>
+	<div class="box empty" />
 	<div class="box empty" />
 </div>
 
