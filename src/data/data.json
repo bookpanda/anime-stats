@@ -1,35 +1,5 @@
 [
   {
-    "id": 312107416,
-    "status": "COMPLETED",
-    "progress": 4,
-    "media": {
-      "title": {
-        "english": "Kaguya-sama: Love is War -The First Kiss That Never Ends-",
-        "userPreferred": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai"
-      },
-      "coverImage": {
-        "color": "#e45d78",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151384-gv0q8wOE6D58.jpg"
-      },
-      "episodes": 4,
-      "siteUrl": "https://anilist.co/anime/151384"
-    },
-    "startedAt": {
-      "year": 2023,
-      "month": 4,
-      "day": 6,
-      "date": "2023-04-06T00:00:00.000Z"
-    },
-    "completedAt": {
-      "year": 2023,
-      "month": 4,
-      "day": 7,
-      "date": "2023-04-07T00:00:00.000Z"
-    },
-    "score": 8.6
-  },
-  {
     "id": 327657728,
     "status": "COMPLETED",
     "progress": 24,
