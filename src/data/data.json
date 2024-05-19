@@ -1,35 +1,5 @@
 [
   {
-    "id": 334571172,
-    "status": "COMPLETED",
-    "progress": 1,
-    "media": {
-      "title": {
-        "english": "Suzume",
-        "userPreferred": "Suzume no Tojimari"
-      },
-      "coverImage": {
-        "color": "#43bbe4",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142770-dDaDIRnsv5jN.jpg"
-      },
-      "episodes": 1,
-      "siteUrl": "https://anilist.co/anime/142770"
-    },
-    "startedAt": {
-      "year": 2023,
-      "month": 4,
-      "day": 19,
-      "date": "2023-04-19T00:00:00.000Z"
-    },
-    "completedAt": {
-      "year": 2023,
-      "month": 4,
-      "day": 19,
-      "date": "2023-04-19T00:00:00.000Z"
-    },
-    "score": 8.2
-  },
-  {
     "id": 312106849,
     "status": "COMPLETED",
     "progress": 12,
@@ -1258,5 +1228,35 @@
       "date": "2024-05-10T00:00:00.000Z"
     },
     "score": 8
+  },
+  {
+    "id": 387976388,
+    "status": "COMPLETED",
+    "progress": 24,
+    "media": {
+      "title": {
+        "english": "The Apothecary Diaries",
+        "userPreferred": "Kusuriya no Hitorigoto"
+      },
+      "coverImage": {
+        "color": "#f1865d",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx161645-bX5S28Cc1Nnk.jpg"
+      },
+      "episodes": 24,
+      "siteUrl": "https://anilist.co/anime/161645"
+    },
+    "startedAt": {
+      "year": 2024,
+      "month": 4,
+      "day": 24,
+      "date": "2024-04-24T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2024,
+      "month": 5,
+      "day": 18,
+      "date": "2024-05-18T00:00:00.000Z"
+    },
+    "score": 9
   }
 ]
