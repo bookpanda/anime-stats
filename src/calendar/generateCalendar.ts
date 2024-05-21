@@ -8,26 +8,32 @@ export const generateCalendar = (entries: Entry[]) => {
     now.getDate() - 365
   );
   const scoreSlots: { [day: string]: number } = {};
+  const countSlots: { [day: string]: number } = {};
   for (
     let day = startDate;
     day <= now;
     day = new Date(day.getTime() + 1000 * 3600 * 24)
   ) {
     scoreSlots[day.toDateString()] = 0;
+    countSlots[day.toDateString()] = 0;
   }
   for (const entry of entries) {
     const score = entry.score;
     const startedAt = entry.startedAt.date;
     const completedAt = entry.completedAt.date;
 
+    let day = startedAt;
+    if (day < startDate) day = startDate;
+
     for (
-      let day = startedAt;
+      ;
       day <= completedAt;
       day = new Date(day.getTime() + 1000 * 3600 * 24)
     ) {
-      if (scoreSlots[day.toDateString()] < score) {
-        scoreSlots[day.toDateString()] = score;
-      }
+      let cou = countSlots[day.toDateString()];
+      let oldScore = scoreSlots[day.toDateString()];
+      scoreSlots[day.toDateString()] = (oldScore * cou + score) / (cou + 1);
+      countSlots[day.toDateString()]++;
     }
   }
 
