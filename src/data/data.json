@@ -1,35 +1,5 @@
 [
   {
-    "id": 333954973,
-    "status": "COMPLETED",
-    "progress": 13,
-    "media": {
-      "title": {
-        "english": "LAID-BACK CAMP SEASON2",
-        "userPreferred": "Yuru Camp△ SEASON 2"
-      },
-      "coverImage": {
-        "color": "#5da1e4",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104459-pywEKGQON613.jpg"
-      },
-      "episodes": 13,
-      "siteUrl": "https://anilist.co/anime/104459"
-    },
-    "startedAt": {
-      "year": 2023,
-      "month": 4,
-      "day": 24,
-      "date": "2023-04-24T00:00:00.000Z"
-    },
-    "completedAt": {
-      "year": 2023,
-      "month": 4,
-      "day": 30,
-      "date": "2023-04-30T00:00:00.000Z"
-    },
-    "score": 8.4
-  },
-  {
     "id": 333957814,
     "status": "COMPLETED",
     "progress": 1,
