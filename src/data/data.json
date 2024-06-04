@@ -1168,5 +1168,35 @@
       "date": "2024-05-18T00:00:00.000Z"
     },
     "score": 9
+  },
+  {
+    "id": 375977500,
+    "status": "COMPLETED",
+    "progress": 12,
+    "media": {
+      "title": {
+        "english": null,
+        "userPreferred": "Himouto! Umaru-chan"
+      },
+      "coverImage": {
+        "color": "#e4d643",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20987-9Tq7kZTeJPMo.jpg"
+      },
+      "episodes": 12,
+      "siteUrl": "https://anilist.co/anime/20987"
+    },
+    "startedAt": {
+      "year": 2024,
+      "month": 5,
+      "day": 21,
+      "date": "2024-05-21T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2024,
+      "month": 6,
+      "day": 3,
+      "date": "2024-06-03T00:00:00.000Z"
+    },
+    "score": 6.6
   }
 ]
