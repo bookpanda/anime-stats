@@ -38,5 +38,5 @@ const genImage = (entry: Entry) => {
 };
 
 const genInfo = (entry: Entry) => {
-  return `<a href="${entry.media.siteUrl}" target="_blank"><b>${entry.media.title.english}</b></a> <br/> ${slashDateFormat(entry.startedAt.date)} - ${slashDateFormat(entry.completedAt.date)} (${daysAgo(entry.completedAt.date)} days ago) <br/> <h3>${entry.score}/10</h3>`;
+  return `<a href="${entry.media.siteUrl}" target="_blank"><b>${entry.media.title.english ?? entry.media.title.userPreferred}</b></a> <br/> ${slashDateFormat(entry.startedAt.date)} - ${slashDateFormat(entry.completedAt.date)} (${daysAgo(entry.completedAt.date)} days ago) <br/> <h3>${entry.score}/10</h3>`;
 };
