@@ -1198,5 +1198,35 @@
       "date": "2024-06-03T00:00:00.000Z"
     },
     "score": 6.6
+  },
+  {
+    "id": 375977505,
+    "status": "COMPLETED",
+    "progress": 12,
+    "media": {
+      "title": {
+        "english": "Himouto! Umaru-chan R",
+        "userPreferred": "Himouto! Umaru-chan R"
+      },
+      "coverImage": {
+        "color": "#1a93f1",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98572-zJQd23nzJips.jpg"
+      },
+      "episodes": 12,
+      "siteUrl": "https://anilist.co/anime/98572"
+    },
+    "startedAt": {
+      "year": 2024,
+      "month": 6,
+      "day": 4,
+      "date": "2024-06-04T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2024,
+      "month": 6,
+      "day": 8,
+      "date": "2024-06-08T00:00:00.000Z"
+    },
+    "score": 7
   }
 ]
