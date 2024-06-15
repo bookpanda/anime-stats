@@ -41,6 +41,10 @@ const daysAgo = (date: Date) => {
   return Math.floor(diff / (1000 * 60 * 60 * 24));
 };
 
+const truncateString = (str: string, maxLength: number) => {
+  return str.length > maxLength ? str.substring(0, maxLength - 3) + "..." : str;
+};
+
 const genImage = (entry: Entry) => {
   try {
     return `<img src="${entry.media.coverImage.large}" alt="${entry.media.title.english}" style="width:70px;height:auto" />`;
@@ -52,7 +56,8 @@ const genImage = (entry: Entry) => {
 
 const genInfo = (entry: Entry) => {
   try {
-    return `<a href="${entry.media.siteUrl}" target="_blank"><b>${entry.media.title.english ?? entry.media.title.userPreferred}</b></a> <br/> ${slashDateFormat(entry.startedAt.date)} - ${slashDateFormat(entry.completedAt.date)} (${daysAgo(entry.completedAt.date)} days ago) <br/> <h3>${entry.score}/10</h3>`;
+    const title = entry.media.title.english ?? entry.media.title.userPreferred;
+    return `<a href="${entry.media.siteUrl}" target="_blank"><b>${truncateString(title, 50)}</b></a> <br/> ${slashDateFormat(entry.startedAt.date)} - ${slashDateFormat(entry.completedAt.date)} (${daysAgo(entry.completedAt.date)} days ago) <br/> <h3>${entry.score}/10</h3>`;
   } catch (e) {
     console.error("Error generating info:", e);
     return "";
