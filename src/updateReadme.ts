@@ -43,7 +43,7 @@ const entries = await loadAnilistData(ANILIST_USERNAME, "COMPLETED");
 //   entries.push(a);
 // }
 const calendar = generateCalendar(entries);
-const lastAnimes = generateLastAnimes(entries);
+const lastAnimes = generateLastAnimes(entries, 0, 10);
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);

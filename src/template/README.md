@@ -6,6 +6,11 @@
 
 {{ lastAnimes }}
 
+<details>
+  <summary>Last 100 Animes</summary>
+      {{ last100Animes }}
+</details>
+
 ## Why?
 
 When engineering managers are recruiting, they are not only looking for someone with technical prowess, but also

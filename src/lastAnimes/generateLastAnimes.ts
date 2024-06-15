@@ -1,14 +1,19 @@
 import { markdownTable } from "markdown-table";
 
-export const generateLastAnimes = (entries: Entry[]) => {
+export const generateLastAnimes = (
+  entries: Entry[],
+  start: number,
+  end: number
+) => {
   const lastEntries = entries.slice(-10).reverse();
+  // const lastEntries = entries.slice(start, end).reverse();
   const table: string[][] = [];
   table.push(["Cover", "Anime", "Cover", "Anime"]);
 
-  const half = lastEntries.length / 2;
-  for (let i = 0; i < half; i++) {
+  // const half = lastEntries.length / 2;
+  for (let i = 0; i < lastEntries.length; i += 2) {
     const leftEntry = lastEntries[i];
-    const rightEntry = lastEntries[i + half];
+    const rightEntry = lastEntries[i + 1];
     table.push([
       genImage(leftEntry),
       genInfo(leftEntry),
