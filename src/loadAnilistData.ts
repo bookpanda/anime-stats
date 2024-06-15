@@ -61,7 +61,7 @@ export const loadAnilistData = async (username: string, status: string) => {
         media.completedAt.month,
         media.completedAt.day
       );
-      if (completedAt < startDate) continue;
+      // if (completedAt < startDate) continue;
 
       data.push({
         ...media,

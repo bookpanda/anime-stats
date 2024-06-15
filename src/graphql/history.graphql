@@ -4,7 +4,13 @@ query GetAnimeHistory(
   $status: MediaListStatus
   $format: ScoreFormat
 ) {
-  MediaListCollection(userName: $userName, type: $type, status: $status) {
+  MediaListCollection(
+    userName: $userName
+    type: $type
+    status: $status
+    forceSingleCompletedList: true
+    sort: FINISHED_ON
+  ) {
     lists {
       entries {
         id

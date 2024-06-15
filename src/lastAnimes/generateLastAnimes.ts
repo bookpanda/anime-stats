@@ -5,12 +5,15 @@ export const generateLastAnimes = (
   start: number,
   end: number
 ) => {
-  const lastEntries = entries.slice(-10).reverse();
-  // const lastEntries = entries.slice(start, end).reverse();
+  let lastEntries = entries.slice(-Math.min(entries.length, end));
+  if (start > 0) {
+    lastEntries = lastEntries.slice(0, -start);
+  }
+  lastEntries = lastEntries.reverse();
+
   const table: string[][] = [];
   table.push(["Cover", "Anime", "Cover", "Anime"]);
 
-  // const half = lastEntries.length / 2;
   for (let i = 0; i < lastEntries.length; i += 2) {
     const leftEntry = lastEntries[i];
     const rightEntry = lastEntries[i + 1];
@@ -39,9 +42,19 @@ const daysAgo = (date: Date) => {
 };
 
 const genImage = (entry: Entry) => {
-  return `<img src="${entry.media.coverImage.large}" alt="${entry.media.title.english}" style="width:70px;height:auto" />`;
+  try {
+    return `<img src="${entry.media.coverImage.large}" alt="${entry.media.title.english}" style="width:70px;height:auto" />`;
+  } catch (e) {
+    console.error("Error generating image:", e);
+    return "";
+  }
 };
 
 const genInfo = (entry: Entry) => {
-  return `<a href="${entry.media.siteUrl}" target="_blank"><b>${entry.media.title.english ?? entry.media.title.userPreferred}</b></a> <br/> ${slashDateFormat(entry.startedAt.date)} - ${slashDateFormat(entry.completedAt.date)} (${daysAgo(entry.completedAt.date)} days ago) <br/> <h3>${entry.score}/10</h3>`;
+  try {
+    return `<a href="${entry.media.siteUrl}" target="_blank"><b>${entry.media.title.english ?? entry.media.title.userPreferred}</b></a> <br/> ${slashDateFormat(entry.startedAt.date)} - ${slashDateFormat(entry.completedAt.date)} (${daysAgo(entry.completedAt.date)} days ago) <br/> <h3>${entry.score}/10</h3>`;
+  } catch (e) {
+    console.error("Error generating info:", e);
+    return "";
+  }
 };

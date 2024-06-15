@@ -43,7 +43,8 @@ const entries = await loadAnilistData(ANILIST_USERNAME, "COMPLETED");
 //   entries.push(a);
 // }
 const calendar = generateCalendar(entries);
-const lastAnimes = generateLastAnimes(entries, 0, 10);
+const last10Animes = generateLastAnimes(entries, 0, 10);
+const last100Animes = generateLastAnimes(entries, 10, 100);
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -64,7 +65,8 @@ modifyFile(filePath, outputFilePath, modCalendar, (err) => {
 filePath = path.join(__dirname, "template/README.md");
 outputFilePath = path.join(__dirname, "../README.md");
 const modLastAnimes = {
-  "{{ lastAnimes }}": lastAnimes,
+  "{{ last10Animes }}": last10Animes,
+  "{{ last100Animes }}": last100Animes,
 };
 modifyFile(filePath, outputFilePath, modLastAnimes, (err) => {
   if (err) {
