@@ -86,17 +86,17 @@ svg {
             <div class="time-box weekday" />
         </div>
         <div class="col">
-	<div class="time-box"><p class="time-legend">Jun</p></div>
+	<div class="time-box"><p class="time-legend">Jul</p></div>
 	<div class="box invisible" />
 	<div class="box invisible" />
 	<div class="box invisible" />
 	<div class="box invisible" />
 	<div class="box invisible" />
-	<div class="box" style="background-color:rgb(59, 168, 86); border:1px solid rgb(53.1, 151.20000000000002, 77.4);"/>
+	<div class="box invisible" />
 	<div class="box" style="background-color:rgb(59, 168, 86); border:1px solid rgb(53.1, 151.20000000000002, 77.4);"/>
 </div>
 <div class="col">
-	<div class="time-box"><p class="time-legend">Jul</p></div>
+	<div class="time-box"></div>
 	<div class="box" style="background-color:rgb(59, 168, 86); border:1px solid rgb(53.1, 151.20000000000002, 77.4);"/>
 	<div class="box" style="background-color:rgb(59, 168, 86); border:1px solid rgb(53.1, 151.20000000000002, 77.4);"/>
 	<div class="box" style="background-color:rgb(59, 168, 86); border:1px solid rgb(53.1, 151.20000000000002, 77.4);"/>
@@ -576,7 +576,7 @@ svg {
 	<div class="box" style="background-color:rgb(247, 204, 93); border:1px solid rgb(222.3, 183.6, 83.7);"/>
 </div>
 <div class="col">
-	<div class="time-box"></div>
+	<div class="time-box"><p class="time-legend">Jun</p></div>
 	<div class="box" style="background-color:rgb(247, 204, 93); border:1px solid rgb(222.3, 183.6, 83.7);"/>
 	<div class="box" style="background-color:rgb(247, 204, 93); border:1px solid rgb(222.3, 183.6, 83.7);"/>
 	<div class="box" style="background-color:rgb(247, 234, 53); border:1px solid rgb(222.3, 210.6, 47.7);"/>
@@ -613,6 +613,10 @@ svg {
 	<div class="box empty" />
 	<div class="box empty" />
 	<div class="box empty" />
+	<div class="box empty" />
+</div>
+<div class="col">
+	<div class="time-box"></div>
 	<div class="box empty" />
 </div>
 
