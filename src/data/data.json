@@ -3178,5 +3178,35 @@
       "date": "2024-07-19T00:00:00.000Z"
     },
     "score": 8.6
+  },
+  {
+    "id": 380931723,
+    "status": "COMPLETED",
+    "progress": 8,
+    "media": {
+      "title": {
+        "english": "Demon Slayer: Kimetsu no Yaiba Hashira Training Arc",
+        "userPreferred": "Kimetsu no Yaiba: Hashira Geiko-hen"
+      },
+      "coverImage": {
+        "color": "#e4d6ae",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166240-PBV7zukIHW7V.png"
+      },
+      "episodes": 8,
+      "siteUrl": "https://anilist.co/anime/166240"
+    },
+    "startedAt": {
+      "year": 2024,
+      "month": 7,
+      "day": 20,
+      "date": "2024-07-20T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2024,
+      "month": 7,
+      "day": 21,
+      "date": "2024-07-21T00:00:00.000Z"
+    },
+    "score": 8.4
   }
 ]
