@@ -3268,5 +3268,35 @@
       "date": "2024-08-03T00:00:00.000Z"
     },
     "score": 8.3
+  },
+  {
+    "id": 411501589,
+    "status": "COMPLETED",
+    "progress": 13,
+    "media": {
+      "title": {
+        "english": "Girls Band Cry",
+        "userPreferred": "GIRLS BAND CRY"
+      },
+      "coverImage": {
+        "color": "#fff143",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx164212-xjkAkp6SKaCZ.jpg"
+      },
+      "episodes": 13,
+      "siteUrl": "https://anilist.co/anime/164212"
+    },
+    "startedAt": {
+      "year": 2024,
+      "month": 8,
+      "day": 4,
+      "date": "2024-08-04T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2024,
+      "month": 8,
+      "day": 7,
+      "date": "2024-08-07T00:00:00.000Z"
+    },
+    "score": 8.4
   }
 ]
