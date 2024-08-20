@@ -3298,5 +3298,35 @@
       "date": "2024-08-07T00:00:00.000Z"
     },
     "score": 8.4
+  },
+  {
+    "id": 421890362,
+    "status": "COMPLETED",
+    "progress": 26,
+    "media": {
+      "title": {
+        "english": "JoJo's Bizarre Adventure (TV)",
+        "userPreferred": "JoJo no Kimyou na Bouken (TV)"
+      },
+      "coverImage": {
+        "color": "#e4a15d",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14719-zexazmTOM4e1.jpg"
+      },
+      "episodes": 26,
+      "siteUrl": "https://anilist.co/anime/14719"
+    },
+    "startedAt": {
+      "year": 2024,
+      "month": 8,
+      "day": 8,
+      "date": "2024-08-08T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2024,
+      "month": 8,
+      "day": 19,
+      "date": "2024-08-19T00:00:00.000Z"
+    },
+    "score": 8.4
   }
 ]
