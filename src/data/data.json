@@ -3388,5 +3388,35 @@
       "date": "2024-09-06T00:00:00.000Z"
     },
     "score": 8.4
+  },
+  {
+    "id": 393075270,
+    "status": "COMPLETED",
+    "progress": 39,
+    "media": {
+      "title": {
+        "english": "JoJo's Bizarre Adventure: Diamond is Unbreakable",
+        "userPreferred": "JoJo no Kimyou na Bouken: Diamond wa Kudakenai"
+      },
+      "coverImage": {
+        "color": "#bb861a",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21450-VsNSWuTsHBMR.jpg"
+      },
+      "episodes": 39,
+      "siteUrl": "https://anilist.co/anime/21450"
+    },
+    "startedAt": {
+      "year": 2024,
+      "month": 9,
+      "day": 7,
+      "date": "2024-09-07T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2024,
+      "month": 9,
+      "day": 26,
+      "date": "2024-09-26T00:00:00.000Z"
+    },
+    "score": 8.4
   }
 ]
