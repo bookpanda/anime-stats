@@ -207,7 +207,7 @@
       "day": 3,
       "date": "2022-08-03T00:00:00.000Z"
     },
-    "score": 8.6
+    "score": 8.8
   },
   {
     "id": 312100058,
@@ -237,7 +237,7 @@
       "day": 6,
       "date": "2022-08-06T00:00:00.000Z"
     },
-    "score": 9.5
+    "score": 9.8
   },
   {
     "id": 312098637,
@@ -1707,7 +1707,7 @@
       "day": 17,
       "date": "2023-04-17T00:00:00.000Z"
     },
-    "score": 9.4
+    "score": 9.5
   },
   {
     "id": 334571172,
@@ -2997,7 +2997,7 @@
       "day": 10,
       "date": "2024-05-10T00:00:00.000Z"
     },
-    "score": 8
+    "score": 7.7
   },
   {
     "id": 387976388,
@@ -3508,5 +3508,35 @@
       "date": "2024-10-13T00:00:00.000Z"
     },
     "score": 8
+  },
+  {
+    "id": 402693810,
+    "status": "COMPLETED",
+    "progress": 24,
+    "media": {
+      "title": {
+        "english": "Delicious in Dungeon",
+        "userPreferred": "Dungeon Meshi"
+      },
+      "coverImage": {
+        "color": "#f18650",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153518-LEK6pAXtI03D.jpg"
+      },
+      "episodes": 24,
+      "siteUrl": "https://anilist.co/anime/153518"
+    },
+    "startedAt": {
+      "year": 2024,
+      "month": 10,
+      "day": 14,
+      "date": "2024-10-14T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2024,
+      "month": 10,
+      "day": 26,
+      "date": "2024-10-26T00:00:00.000Z"
+    },
+    "score": 8.8
   }
 ]
