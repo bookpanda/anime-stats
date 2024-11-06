@@ -88,7 +88,7 @@ svg {
         <div class="col">
 	<div class="time-box"><p class="time-legend">Nov</p></div>
 	<div class="box invisible" />
-	<div class="box" style="background-color:rgb(144, 225, 159); border:1px solid rgb(129.6, 202.5, 143.1);"/>
+	<div class="box invisible" />
 	<div class="box" style="background-color:rgb(144, 225, 159); border:1px solid rgb(129.6, 202.5, 143.1);"/>
 	<div class="box" style="background-color:rgb(144, 225, 159); border:1px solid rgb(129.6, 202.5, 143.1);"/>
 	<div class="box" style="background-color:rgb(144, 225, 159); border:1px solid rgb(129.6, 202.5, 143.1);"/>
@@ -593,23 +593,24 @@ svg {
 	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5);"/>
 	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5);"/>
 	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5);"/>
-	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5);"/>
+	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2);"/>
 </div>
 <div class="col">
 	<div class="time-box"></div>
-	<div class="box empty" />
-	<div class="box empty" />
-	<div class="box empty" />
-	<div class="box empty" />
-	<div class="box empty" />
-	<div class="box empty" />
-	<div class="box empty" />
+	<div class="box" style="background-color:rgb(45, 150, 73); border:1px solid rgb(40.5, 135, 65.7);"/>
+	<div class="box" style="background-color:rgb(45, 150, 73); border:1px solid rgb(40.5, 135, 65.7);"/>
+	<div class="box" style="background-color:rgb(45, 150, 73); border:1px solid rgb(40.5, 135, 65.7);"/>
+	<div class="box" style="background-color:rgb(45, 150, 73); border:1px solid rgb(40.5, 135, 65.7);"/>
+	<div class="box" style="background-color:rgb(45, 150, 73); border:1px solid rgb(40.5, 135, 65.7);"/>
+	<div class="box" style="background-color:rgb(45, 150, 73); border:1px solid rgb(40.5, 135, 65.7);"/>
+	<div class="box" style="background-color:rgb(45, 150, 73); border:1px solid rgb(40.5, 135, 65.7);"/>
 </div>
 <div class="col">
 	<div class="time-box"></div>
-	<div class="box empty" />
-	<div class="box empty" />
-	<div class="box empty" />
+	<div class="box" style="background-color:rgb(45, 150, 73); border:1px solid rgb(40.5, 135, 65.7);"/>
+	<div class="box" style="background-color:rgb(45, 150, 73); border:1px solid rgb(40.5, 135, 65.7);"/>
+	<div class="box" style="background-color:rgb(45, 150, 73); border:1px solid rgb(40.5, 135, 65.7);"/>
+	<div class="box" style="background-color:rgb(45, 150, 73); border:1px solid rgb(40.5, 135, 65.7);"/>
 </div>
 
     </div>
