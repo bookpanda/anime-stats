@@ -3568,5 +3568,35 @@
       "date": "2024-11-06T00:00:00.000Z"
     },
     "score": 9
+  },
+  {
+    "id": 334395484,
+    "status": "COMPLETED",
+    "progress": 25,
+    "media": {
+      "title": {
+        "english": "Code Geass: Lelouch of the Rebellion R2",
+        "userPreferred": "Code Geass: Hangyaku no Lelouch R2"
+      },
+      "coverImage": {
+        "color": "#e4bb50",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2904-Z6DhLHr1XWEH.jpg"
+      },
+      "episodes": 25,
+      "siteUrl": "https://anilist.co/anime/2904"
+    },
+    "startedAt": {
+      "year": 2024,
+      "month": 11,
+      "day": 7,
+      "date": "2024-11-07T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2024,
+      "month": 11,
+      "day": 27,
+      "date": "2024-11-27T00:00:00.000Z"
+    },
+    "score": 9.5
   }
 ]
