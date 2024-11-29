@@ -90,7 +90,7 @@ svg {
 	<div class="box invisible" />
 	<div class="box invisible" />
 	<div class="box invisible" />
-	<div class="box" style="background-color:rgb(201, 233, 110); border:1px solid rgb(180.9, 209.70000000000002, 99);"/>
+	<div class="box invisible" />
 	<div class="box" style="background-color:rgb(201, 233, 110); border:1px solid rgb(180.9, 209.70000000000002, 99);"/>
 	<div class="box" style="background-color:rgb(201, 233, 110); border:1px solid rgb(180.9, 209.70000000000002, 99);"/>
 	<div class="box" style="background-color:rgb(201, 233, 110); border:1px solid rgb(180.9, 209.70000000000002, 99);"/>
@@ -611,6 +611,7 @@ svg {
 	<div class="box" style="background-color:rgb(40, 135, 67); border:1px solid rgb(36, 121.5, 60.300000000000004);"/>
 	<div class="box" style="background-color:rgb(40, 135, 67); border:1px solid rgb(36, 121.5, 60.300000000000004);"/>
 	<div class="box" style="background-color:rgb(40, 135, 67); border:1px solid rgb(36, 121.5, 60.300000000000004);"/>
+	<div class="box empty" />
 	<div class="box empty" />
 </div>
 
