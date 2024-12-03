@@ -87,7 +87,7 @@ svg {
         </div>
         <div class="col">
 	<div class="time-box"><p class="time-legend">Dec</p></div>
-	<div class="box" style="background-color:rgb(201, 233, 110); border:1px solid rgb(180.9, 209.70000000000002, 99);"/>
+	<div class="box invisible" />
 	<div class="box" style="background-color:rgb(201, 233, 110); border:1px solid rgb(180.9, 209.70000000000002, 99);"/>
 	<div class="box" style="background-color:rgb(201, 233, 110); border:1px solid rgb(180.9, 209.70000000000002, 99);"/>
 	<div class="box" style="background-color:rgb(173, 233, 145); border:1px solid rgb(155.70000000000002, 209.70000000000002, 130.5);"/>
@@ -601,14 +601,15 @@ svg {
 	<div class="box" style="background-color:rgb(40, 135, 67); border:1px solid rgb(36, 121.5, 60.300000000000004);"/>
 	<div class="box" style="background-color:rgb(40, 135, 67); border:1px solid rgb(36, 121.5, 60.300000000000004);"/>
 	<div class="box" style="background-color:rgb(40, 135, 67); border:1px solid rgb(36, 121.5, 60.300000000000004);"/>
-	<div class="box empty" />
-	<div class="box empty" />
-	<div class="box empty" />
+	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
+	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
+	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
 </div>
 <div class="col">
 	<div class="time-box"></div>
-	<div class="box empty" />
-	<div class="box empty" />
+	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
+	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
+	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
 </div>
 
     </div>
