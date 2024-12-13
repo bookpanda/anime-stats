@@ -1170,36 +1170,6 @@
     "score": 8.7
   },
   {
-    "id": 312323874,
-    "status": "COMPLETED",
-    "progress": 25,
-    "media": {
-      "title": {
-        "english": "Re:ZERO -Starting Life in Another World-",
-        "userPreferred": "Re:Zero kara Hajimeru Isekai Seikatsu"
-      },
-      "coverImage": {
-        "color": "#f150ae",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21355-IHaS50pvLYd0.jpg"
-      },
-      "episodes": 25,
-      "siteUrl": "https://anilist.co/anime/21355"
-    },
-    "startedAt": {
-      "year": 2023,
-      "month": 1,
-      "day": 10,
-      "date": "2023-01-10T00:00:00.000Z"
-    },
-    "completedAt": {
-      "year": 2023,
-      "month": 1,
-      "day": 21,
-      "date": "2023-01-21T00:00:00.000Z"
-    },
-    "score": 8.4
-  },
-  {
     "id": 312323946,
     "status": "COMPLETED",
     "progress": 13,
@@ -3628,5 +3598,35 @@
       "date": "2024-12-03T00:00:00.000Z"
     },
     "score": 8.3
+  },
+  {
+    "id": 403405127,
+    "status": "COMPLETED",
+    "progress": 23,
+    "media": {
+      "title": {
+        "english": "Ranking of Kings",
+        "userPreferred": "Ousama Ranking"
+      },
+      "coverImage": {
+        "color": "#e4865d",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113717-fkqTxEqqga61.jpg"
+      },
+      "episodes": 23,
+      "siteUrl": "https://anilist.co/anime/113717"
+    },
+    "startedAt": {
+      "year": 2024,
+      "month": 12,
+      "day": 4,
+      "date": "2024-12-04T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2024,
+      "month": 12,
+      "day": 12,
+      "date": "2024-12-12T00:00:00.000Z"
+    },
+    "score": 8.2
   }
 ]
