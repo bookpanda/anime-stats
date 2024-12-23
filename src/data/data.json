@@ -1170,36 +1170,6 @@
     "score": 8.7
   },
   {
-    "id": 312323958,
-    "status": "COMPLETED",
-    "progress": 12,
-    "media": {
-      "title": {
-        "english": "Re:ZERO -Starting Life in Another World- Season 2 Part 2",
-        "userPreferred": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2"
-      },
-      "coverImage": {
-        "color": "#43d6f1",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx119661-GDbUZxrZMz01.png"
-      },
-      "episodes": 12,
-      "siteUrl": "https://anilist.co/anime/119661"
-    },
-    "startedAt": {
-      "year": 2023,
-      "month": 1,
-      "day": 27,
-      "date": "2023-01-27T00:00:00.000Z"
-    },
-    "completedAt": {
-      "year": 2023,
-      "month": 2,
-      "day": 3,
-      "date": "2023-02-03T00:00:00.000Z"
-    },
-    "score": 8.6
-  },
-  {
     "id": 312323935,
     "status": "COMPLETED",
     "progress": 2,
@@ -3628,5 +3598,35 @@
       "date": "2024-12-18T00:00:00.000Z"
     },
     "score": 8.4
+  },
+  {
+    "id": 312323946,
+    "status": "COMPLETED",
+    "progress": 13,
+    "media": {
+      "title": {
+        "english": "Re:ZERO -Starting Life in Another World- Season 2",
+        "userPreferred": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season"
+      },
+      "coverImage": {
+        "color": "#5dd6f1",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108632-lQWnmw7XaNOK.jpg"
+      },
+      "episodes": 13,
+      "siteUrl": "https://anilist.co/anime/108632"
+    },
+    "startedAt": {
+      "year": 2024,
+      "month": 12,
+      "day": 18,
+      "date": "2024-12-18T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2024,
+      "month": 12,
+      "day": 22,
+      "date": "2024-12-22T00:00:00.000Z"
+    },
+    "score": 8.3
   }
 ]
