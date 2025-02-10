@@ -3688,5 +3688,35 @@
       "date": "2025-01-06T00:00:00.000Z"
     },
     "score": 8.8
+  },
+  {
+    "id": 337815476,
+    "status": "COMPLETED",
+    "progress": 37,
+    "media": {
+      "title": {
+        "english": "Death Note",
+        "userPreferred": "DEATH NOTE"
+      },
+      "coverImage": {
+        "color": null,
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1535-4r88a1tsBEIz.jpg"
+      },
+      "episodes": 37,
+      "siteUrl": "https://anilist.co/anime/1535"
+    },
+    "startedAt": {
+      "year": 2025,
+      "month": 1,
+      "day": 12,
+      "date": "2025-01-12T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2025,
+      "month": 2,
+      "day": 9,
+      "date": "2025-02-09T00:00:00.000Z"
+    },
+    "score": 9
   }
 ]
