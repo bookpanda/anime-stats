@@ -1,3 +1,4 @@
+import { DENSITY_FACTOR } from "../../config/config";
 import { scoreColor } from "./scoreColor";
 
 export const generateCalendar = (entries: Entry[]) => {
@@ -9,6 +10,7 @@ export const generateCalendar = (entries: Entry[]) => {
   );
   const scoreSlots: { [day: string]: number } = {};
   const countSlots: { [day: string]: number } = {};
+  const densitySlots: { [day: string]: number } = {};
   for (
     let day = startDate;
     day <= now;
@@ -16,24 +18,37 @@ export const generateCalendar = (entries: Entry[]) => {
   ) {
     scoreSlots[day.toDateString()] = 0;
     countSlots[day.toDateString()] = 0;
+    densitySlots[day.toDateString()] = 0;
   }
   for (const entry of entries) {
     const score = entry.score;
     const startedAt = entry.startedAt.date;
     const completedAt = entry.completedAt.date;
+    const daysBetween =
+      (completedAt.getTime() - startedAt.getTime()) / (1000 * 60 * 60 * 24);
+    const density = Math.min(
+      (entry.media.episodes * DENSITY_FACTOR) / (daysBetween + 1),
+      1
+    );
+    console.log(
+      `daysBetween: ${daysBetween}, eps: ${entry.media.episodes}, density: ${density}`
+    );
 
-    let day = startedAt;
-    if (day < startDate) day = startDate;
+    // let day = startedAt;
+    // if (day < startDate) day = startDate;
+    let day = new Date(Math.max(startedAt.getTime(), startDate.getTime()));
 
     for (
       ;
       day <= completedAt;
       day = new Date(day.getTime() + 1000 * 3600 * 24)
     ) {
-      let cou = countSlots[day.toDateString()];
-      let oldScore = scoreSlots[day.toDateString()];
-      scoreSlots[day.toDateString()] = (oldScore * cou + score) / (cou + 1);
-      countSlots[day.toDateString()]++;
+      const dateStr = day.toDateString();
+      let cou = countSlots[dateStr];
+      let oldScore = scoreSlots[dateStr];
+      scoreSlots[dateStr] = (oldScore * cou + score) / (cou + 1);
+      countSlots[dateStr]++;
+      densitySlots[dateStr] = density;
     }
   }
 
@@ -50,6 +65,7 @@ export const generateCalendar = (entries: Entry[]) => {
   for (const daySlot in scoreSlots) {
     const score = scoreSlots[daySlot];
     const day = new Date(daySlot);
+    const density = densitySlots[daySlot];
     if (day.getDay() === 0 && !isSameDay(day, startDate)) {
       calendar += `<div class="col">\n`;
       if (!seenMonths.has(day.getMonth())) {
@@ -63,7 +79,7 @@ export const generateCalendar = (entries: Entry[]) => {
       calendar += `\t<div class="box empty" />\n`;
     } else {
       let colors = scoreColor(score);
-      calendar += `\t<div class="box" style="background-color:${colors[0]}; border:1px solid ${colors[1]};"/>\n`;
+      calendar += `\t<div class="box" style="background-color:${colors[0]}; border:1px solid ${colors[1]}; opacity:${density};"/>\n`;
     }
     if (day.getDay() === 6) {
       calendar += `</div>\n`;

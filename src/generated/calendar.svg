@@ -92,44 +92,44 @@ svg {
 	<div class="box invisible" />
 	<div class="box invisible" />
 	<div class="box invisible" />
-	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5);"/>
-	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5);"/>
+	<div class="box invisible" />
+	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5); opacity:0.9750000000000001;"/>
 </div>
 <div class="col">
 	<div class="time-box"></div>
-	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
-	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135);"/>
-	<div class="box" style="background-color:rgb(86, 186, 109); border:1px solid rgb(77.4, 167.4, 98.10000000000001);"/>
-	<div class="box" style="background-color:rgb(91, 189, 114); border:1px solid rgb(81.9, 170.1, 102.60000000000001);"/>
-	<div class="box" style="background-color:rgb(91, 189, 114); border:1px solid rgb(81.9, 170.1, 102.60000000000001);"/>
-	<div class="box" style="background-color:rgb(91, 189, 114); border:1px solid rgb(81.9, 170.1, 102.60000000000001);"/>
-	<div class="box" style="background-color:rgb(91, 189, 114); border:1px solid rgb(81.9, 170.1, 102.60000000000001);"/>
+	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126); opacity:0.45;"/>
+	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135); opacity:0.45;"/>
+	<div class="box" style="background-color:rgb(86, 186, 109); border:1px solid rgb(77.4, 167.4, 98.10000000000001); opacity:0.7312500000000001;"/>
+	<div class="box" style="background-color:rgb(91, 189, 114); border:1px solid rgb(81.9, 170.1, 102.60000000000001); opacity:0.7312500000000001;"/>
+	<div class="box" style="background-color:rgb(91, 189, 114); border:1px solid rgb(81.9, 170.1, 102.60000000000001); opacity:0.7312500000000001;"/>
+	<div class="box" style="background-color:rgb(91, 189, 114); border:1px solid rgb(81.9, 170.1, 102.60000000000001); opacity:0.7312500000000001;"/>
+	<div class="box" style="background-color:rgb(91, 189, 114); border:1px solid rgb(81.9, 170.1, 102.60000000000001); opacity:0.7312500000000001;"/>
 </div>
 <div class="col">
 	<div class="time-box"></div>
-	<div class="box" style="background-color:rgb(91, 189, 114); border:1px solid rgb(81.9, 170.1, 102.60000000000001);"/>
-	<div class="box" style="background-color:rgb(91, 189, 114); border:1px solid rgb(81.9, 170.1, 102.60000000000001);"/>
-	<div class="box" style="background-color:rgb(43, 145, 71); border:1px solid rgb(38.7, 130.5, 63.9);"/>
-	<div class="box" style="background-color:rgb(32, 110, 57); border:1px solid rgb(28.8, 99, 51.300000000000004);"/>
-	<div class="box" style="background-color:rgb(32, 110, 57); border:1px solid rgb(28.8, 99, 51.300000000000004);"/>
-	<div class="box" style="background-color:rgb(32, 110, 57); border:1px solid rgb(28.8, 99, 51.300000000000004);"/>
-	<div class="box" style="background-color:rgb(32, 110, 57); border:1px solid rgb(28.8, 99, 51.300000000000004);"/>
+	<div class="box" style="background-color:rgb(91, 189, 114); border:1px solid rgb(81.9, 170.1, 102.60000000000001); opacity:0.7312500000000001;"/>
+	<div class="box" style="background-color:rgb(91, 189, 114); border:1px solid rgb(81.9, 170.1, 102.60000000000001); opacity:0.7312500000000001;"/>
+	<div class="box" style="background-color:rgb(43, 145, 71); border:1px solid rgb(38.7, 130.5, 63.9); opacity:0.84;"/>
+	<div class="box" style="background-color:rgb(32, 110, 57); border:1px solid rgb(28.8, 99, 51.300000000000004); opacity:0.84;"/>
+	<div class="box" style="background-color:rgb(32, 110, 57); border:1px solid rgb(28.8, 99, 51.300000000000004); opacity:0.84;"/>
+	<div class="box" style="background-color:rgb(32, 110, 57); border:1px solid rgb(28.8, 99, 51.300000000000004); opacity:0.84;"/>
+	<div class="box" style="background-color:rgb(32, 110, 57); border:1px solid rgb(28.8, 99, 51.300000000000004); opacity:0.84;"/>
 </div>
 <div class="col">
 	<div class="time-box"></div>
-	<div class="box" style="background-color:rgb(32, 110, 57); border:1px solid rgb(28.8, 99, 51.300000000000004);"/>
-	<div class="box" style="background-color:rgb(32, 110, 57); border:1px solid rgb(28.8, 99, 51.300000000000004);"/>
-	<div class="box" style="background-color:rgb(32, 110, 57); border:1px solid rgb(28.8, 99, 51.300000000000004);"/>
-	<div class="box" style="background-color:rgb(32, 110, 57); border:1px solid rgb(28.8, 99, 51.300000000000004);"/>
-	<div class="box" style="background-color:rgb(32, 110, 57); border:1px solid rgb(28.8, 99, 51.300000000000004);"/>
-	<div class="box" style="background-color:rgb(32, 110, 57); border:1px solid rgb(28.8, 99, 51.300000000000004);"/>
-	<div class="box" style="background-color:rgb(32, 110, 57); border:1px solid rgb(28.8, 99, 51.300000000000004);"/>
+	<div class="box" style="background-color:rgb(32, 110, 57); border:1px solid rgb(28.8, 99, 51.300000000000004); opacity:0.84;"/>
+	<div class="box" style="background-color:rgb(32, 110, 57); border:1px solid rgb(28.8, 99, 51.300000000000004); opacity:0.84;"/>
+	<div class="box" style="background-color:rgb(32, 110, 57); border:1px solid rgb(28.8, 99, 51.300000000000004); opacity:0.84;"/>
+	<div class="box" style="background-color:rgb(32, 110, 57); border:1px solid rgb(28.8, 99, 51.300000000000004); opacity:0.84;"/>
+	<div class="box" style="background-color:rgb(32, 110, 57); border:1px solid rgb(28.8, 99, 51.300000000000004); opacity:0.84;"/>
+	<div class="box" style="background-color:rgb(32, 110, 57); border:1px solid rgb(28.8, 99, 51.300000000000004); opacity:0.84;"/>
+	<div class="box" style="background-color:rgb(32, 110, 57); border:1px solid rgb(28.8, 99, 51.300000000000004); opacity:0.84;"/>
 </div>
 <div class="col">
 	<div class="time-box"></div>
-	<div class="box" style="background-color:rgb(32, 110, 57); border:1px solid rgb(28.8, 99, 51.300000000000004);"/>
-	<div class="box" style="background-color:rgb(32, 110, 57); border:1px solid rgb(28.8, 99, 51.300000000000004);"/>
-	<div class="box" style="background-color:rgb(32, 110, 57); border:1px solid rgb(28.8, 99, 51.300000000000004);"/>
+	<div class="box" style="background-color:rgb(32, 110, 57); border:1px solid rgb(28.8, 99, 51.300000000000004); opacity:0.84;"/>
+	<div class="box" style="background-color:rgb(32, 110, 57); border:1px solid rgb(28.8, 99, 51.300000000000004); opacity:0.84;"/>
+	<div class="box" style="background-color:rgb(32, 110, 57); border:1px solid rgb(28.8, 99, 51.300000000000004); opacity:0.84;"/>
 	<div class="box empty" />
 	<div class="box empty" />
 	<div class="box empty" />
@@ -151,104 +151,94 @@ svg {
 	<div class="box empty" />
 	<div class="box empty" />
 	<div class="box empty" />
-	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
-	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
-	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
+	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126); opacity:0.9750000000000001;"/>
+	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126); opacity:0.9750000000000001;"/>
+	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126); opacity:0.9750000000000001;"/>
 </div>
 <div class="col">
 	<div class="time-box"></div>
-	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
-	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
-	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
-	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2);"/>
-	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2);"/>
-	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2);"/>
-	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2);"/>
+	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126); opacity:0.9750000000000001;"/>
+	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126); opacity:0.9750000000000001;"/>
+	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126); opacity:0.9750000000000001;"/>
+	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:0.43200000000000005;"/>
+	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:0.43200000000000005;"/>
+	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:0.43200000000000005;"/>
+	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:0.43200000000000005;"/>
 </div>
 <div class="col">
 	<div class="time-box"></div>
-	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2);"/>
-	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2);"/>
-	<div class="box" style="background-color:rgb(117, 207, 136); border:1px solid rgb(105.3, 186.3, 122.4);"/>
-	<div class="box" style="background-color:rgb(117, 207, 136); border:1px solid rgb(105.3, 186.3, 122.4);"/>
-	<div class="box" style="background-color:rgb(117, 207, 136); border:1px solid rgb(105.3, 186.3, 122.4);"/>
-	<div class="box" style="background-color:rgb(117, 207, 136); border:1px solid rgb(105.3, 186.3, 122.4);"/>
-	<div class="box" style="background-color:rgb(117, 207, 136); border:1px solid rgb(105.3, 186.3, 122.4);"/>
+	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:0.43200000000000005;"/>
+	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:0.43200000000000005;"/>
+	<div class="box" style="background-color:rgb(117, 207, 136); border:1px solid rgb(105.3, 186.3, 122.4); opacity:0.43200000000000005;"/>
+	<div class="box" style="background-color:rgb(117, 207, 136); border:1px solid rgb(105.3, 186.3, 122.4); opacity:0.43200000000000005;"/>
+	<div class="box" style="background-color:rgb(117, 207, 136); border:1px solid rgb(105.3, 186.3, 122.4); opacity:0.43200000000000005;"/>
+	<div class="box" style="background-color:rgb(117, 207, 136); border:1px solid rgb(105.3, 186.3, 122.4); opacity:0.43200000000000005;"/>
+	<div class="box" style="background-color:rgb(117, 207, 136); border:1px solid rgb(105.3, 186.3, 122.4); opacity:0.43200000000000005;"/>
 </div>
 <div class="col">
 	<div class="time-box"><p class="time-legend">May</p></div>
-	<div class="box" style="background-color:rgb(117, 207, 136); border:1px solid rgb(105.3, 186.3, 122.4);"/>
-	<div class="box" style="background-color:rgb(117, 207, 136); border:1px solid rgb(105.3, 186.3, 122.4);"/>
-	<div class="box" style="background-color:rgb(117, 207, 136); border:1px solid rgb(105.3, 186.3, 122.4);"/>
-	<div class="box" style="background-color:rgb(117, 207, 136); border:1px solid rgb(105.3, 186.3, 122.4);"/>
-	<div class="box" style="background-color:rgb(117, 207, 136); border:1px solid rgb(105.3, 186.3, 122.4);"/>
-	<div class="box" style="background-color:rgb(117, 207, 136); border:1px solid rgb(105.3, 186.3, 122.4);"/>
-	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2);"/>
+	<div class="box" style="background-color:rgb(117, 207, 136); border:1px solid rgb(105.3, 186.3, 122.4); opacity:0.43200000000000005;"/>
+	<div class="box" style="background-color:rgb(117, 207, 136); border:1px solid rgb(105.3, 186.3, 122.4); opacity:0.43200000000000005;"/>
+	<div class="box" style="background-color:rgb(117, 207, 136); border:1px solid rgb(105.3, 186.3, 122.4); opacity:0.43200000000000005;"/>
+	<div class="box" style="background-color:rgb(117, 207, 136); border:1px solid rgb(105.3, 186.3, 122.4); opacity:0.43200000000000005;"/>
+	<div class="box" style="background-color:rgb(117, 207, 136); border:1px solid rgb(105.3, 186.3, 122.4); opacity:0.43200000000000005;"/>
+	<div class="box" style="background-color:rgb(117, 207, 136); border:1px solid rgb(105.3, 186.3, 122.4); opacity:0.43200000000000005;"/>
+	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:0.43200000000000005;"/>
 </div>
 <div class="col">
 	<div class="time-box"></div>
-	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2);"/>
-	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2);"/>
-	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2);"/>
-	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2);"/>
-	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2);"/>
-	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2);"/>
-	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2);"/>
+	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:0.43200000000000005;"/>
+	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:0.43200000000000005;"/>
+	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:0.43200000000000005;"/>
+	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:0.43200000000000005;"/>
+	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:0.43200000000000005;"/>
+	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:0.43200000000000005;"/>
+	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:0.43200000000000005;"/>
 </div>
 <div class="col">
 	<div class="time-box"></div>
 	<div class="box empty" />
 	<div class="box empty" />
-	<div class="box" style="background-color:rgb(247, 204, 93); border:1px solid rgb(222.3, 183.6, 83.7);"/>
-	<div class="box" style="background-color:rgb(247, 204, 93); border:1px solid rgb(222.3, 183.6, 83.7);"/>
-	<div class="box" style="background-color:rgb(247, 204, 93); border:1px solid rgb(222.3, 183.6, 83.7);"/>
-	<div class="box" style="background-color:rgb(247, 204, 93); border:1px solid rgb(222.3, 183.6, 83.7);"/>
-	<div class="box" style="background-color:rgb(247, 204, 93); border:1px solid rgb(222.3, 183.6, 83.7);"/>
+	<div class="box" style="background-color:rgb(247, 204, 93); border:1px solid rgb(222.3, 183.6, 83.7); opacity:0.38571428571428573;"/>
+	<div class="box" style="background-color:rgb(247, 204, 93); border:1px solid rgb(222.3, 183.6, 83.7); opacity:0.38571428571428573;"/>
+	<div class="box" style="background-color:rgb(247, 204, 93); border:1px solid rgb(222.3, 183.6, 83.7); opacity:0.38571428571428573;"/>
+	<div class="box" style="background-color:rgb(247, 204, 93); border:1px solid rgb(222.3, 183.6, 83.7); opacity:0.38571428571428573;"/>
+	<div class="box" style="background-color:rgb(247, 204, 93); border:1px solid rgb(222.3, 183.6, 83.7); opacity:0.38571428571428573;"/>
 </div>
 <div class="col">
 	<div class="time-box"></div>
-	<div class="box" style="background-color:rgb(247, 204, 93); border:1px solid rgb(222.3, 183.6, 83.7);"/>
-	<div class="box" style="background-color:rgb(247, 204, 93); border:1px solid rgb(222.3, 183.6, 83.7);"/>
-	<div class="box" style="background-color:rgb(247, 204, 93); border:1px solid rgb(222.3, 183.6, 83.7);"/>
-	<div class="box" style="background-color:rgb(247, 204, 93); border:1px solid rgb(222.3, 183.6, 83.7);"/>
-	<div class="box" style="background-color:rgb(247, 204, 93); border:1px solid rgb(222.3, 183.6, 83.7);"/>
-	<div class="box" style="background-color:rgb(247, 204, 93); border:1px solid rgb(222.3, 183.6, 83.7);"/>
-	<div class="box" style="background-color:rgb(247, 204, 93); border:1px solid rgb(222.3, 183.6, 83.7);"/>
+	<div class="box" style="background-color:rgb(247, 204, 93); border:1px solid rgb(222.3, 183.6, 83.7); opacity:0.38571428571428573;"/>
+	<div class="box" style="background-color:rgb(247, 204, 93); border:1px solid rgb(222.3, 183.6, 83.7); opacity:0.38571428571428573;"/>
+	<div class="box" style="background-color:rgb(247, 204, 93); border:1px solid rgb(222.3, 183.6, 83.7); opacity:0.38571428571428573;"/>
+	<div class="box" style="background-color:rgb(247, 204, 93); border:1px solid rgb(222.3, 183.6, 83.7); opacity:0.38571428571428573;"/>
+	<div class="box" style="background-color:rgb(247, 204, 93); border:1px solid rgb(222.3, 183.6, 83.7); opacity:0.38571428571428573;"/>
+	<div class="box" style="background-color:rgb(247, 204, 93); border:1px solid rgb(222.3, 183.6, 83.7); opacity:0.38571428571428573;"/>
+	<div class="box" style="background-color:rgb(247, 204, 93); border:1px solid rgb(222.3, 183.6, 83.7); opacity:0.38571428571428573;"/>
 </div>
 <div class="col">
 	<div class="time-box"><p class="time-legend">Jun</p></div>
-	<div class="box" style="background-color:rgb(247, 204, 93); border:1px solid rgb(222.3, 183.6, 83.7);"/>
-	<div class="box" style="background-color:rgb(247, 204, 93); border:1px solid rgb(222.3, 183.6, 83.7);"/>
-	<div class="box" style="background-color:rgb(247, 234, 53); border:1px solid rgb(222.3, 210.6, 47.7);"/>
-	<div class="box" style="background-color:rgb(247, 234, 53); border:1px solid rgb(222.3, 210.6, 47.7);"/>
-	<div class="box" style="background-color:rgb(247, 234, 53); border:1px solid rgb(222.3, 210.6, 47.7);"/>
-	<div class="box" style="background-color:rgb(247, 234, 53); border:1px solid rgb(222.3, 210.6, 47.7);"/>
-	<div class="box" style="background-color:rgb(247, 234, 53); border:1px solid rgb(222.3, 210.6, 47.7);"/>
+	<div class="box" style="background-color:rgb(247, 204, 93); border:1px solid rgb(222.3, 183.6, 83.7); opacity:0.38571428571428573;"/>
+	<div class="box" style="background-color:rgb(247, 204, 93); border:1px solid rgb(222.3, 183.6, 83.7); opacity:0.38571428571428573;"/>
+	<div class="box" style="background-color:rgb(247, 234, 53); border:1px solid rgb(222.3, 210.6, 47.7); opacity:1;"/>
+	<div class="box" style="background-color:rgb(247, 234, 53); border:1px solid rgb(222.3, 210.6, 47.7); opacity:1;"/>
+	<div class="box" style="background-color:rgb(247, 234, 53); border:1px solid rgb(222.3, 210.6, 47.7); opacity:1;"/>
+	<div class="box" style="background-color:rgb(247, 234, 53); border:1px solid rgb(222.3, 210.6, 47.7); opacity:1;"/>
+	<div class="box" style="background-color:rgb(247, 234, 53); border:1px solid rgb(222.3, 210.6, 47.7); opacity:1;"/>
 </div>
 <div class="col">
 	<div class="time-box"></div>
-	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5);"/>
-	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5);"/>
-	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5);"/>
-	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5);"/>
-	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5);"/>
-	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5);"/>
-	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5);"/>
+	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5); opacity:0.65;"/>
+	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5); opacity:0.65;"/>
+	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5); opacity:0.65;"/>
+	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5); opacity:0.65;"/>
+	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5); opacity:0.65;"/>
+	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5); opacity:0.65;"/>
+	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5); opacity:0.65;"/>
 </div>
 <div class="col">
 	<div class="time-box"></div>
-	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5);"/>
-	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5);"/>
-	<div class="box empty" />
-	<div class="box empty" />
-	<div class="box empty" />
-	<div class="box empty" />
-	<div class="box empty" />
-</div>
-<div class="col">
-	<div class="time-box"></div>
-	<div class="box empty" />
-	<div class="box empty" />
+	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5); opacity:0.65;"/>
+	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5); opacity:0.65;"/>
 	<div class="box empty" />
 	<div class="box empty" />
 	<div class="box empty" />
@@ -263,255 +253,265 @@ svg {
 	<div class="box empty" />
 	<div class="box empty" />
 	<div class="box empty" />
-	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
+	<div class="box empty" />
+</div>
+<div class="col">
+	<div class="time-box"></div>
+	<div class="box empty" />
+	<div class="box empty" />
+	<div class="box empty" />
+	<div class="box empty" />
+	<div class="box empty" />
+	<div class="box empty" />
+	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9); opacity:0.99;"/>
 </div>
 <div class="col">
 	<div class="time-box"><p class="time-legend">Jul</p></div>
-	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
-	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
-	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
-	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
+	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9); opacity:0.99;"/>
+	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9); opacity:0.99;"/>
+	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9); opacity:0.99;"/>
+	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9); opacity:0.99;"/>
 	<div class="box empty" />
-	<div class="box" style="background-color:rgb(91, 189, 114); border:1px solid rgb(81.9, 170.1, 102.60000000000001);"/>
-	<div class="box" style="background-color:rgb(91, 189, 114); border:1px solid rgb(81.9, 170.1, 102.60000000000001);"/>
+	<div class="box" style="background-color:rgb(91, 189, 114); border:1px solid rgb(81.9, 170.1, 102.60000000000001); opacity:0.675;"/>
+	<div class="box" style="background-color:rgb(91, 189, 114); border:1px solid rgb(81.9, 170.1, 102.60000000000001); opacity:0.675;"/>
 </div>
 <div class="col">
 	<div class="time-box"></div>
-	<div class="box" style="background-color:rgb(91, 189, 114); border:1px solid rgb(81.9, 170.1, 102.60000000000001);"/>
-	<div class="box" style="background-color:rgb(91, 189, 114); border:1px solid rgb(81.9, 170.1, 102.60000000000001);"/>
-	<div class="box" style="background-color:rgb(91, 189, 114); border:1px solid rgb(81.9, 170.1, 102.60000000000001);"/>
-	<div class="box" style="background-color:rgb(91, 189, 114); border:1px solid rgb(81.9, 170.1, 102.60000000000001);"/>
-	<div class="box" style="background-color:rgb(91, 189, 114); border:1px solid rgb(81.9, 170.1, 102.60000000000001);"/>
-	<div class="box" style="background-color:rgb(91, 189, 114); border:1px solid rgb(81.9, 170.1, 102.60000000000001);"/>
-	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
+	<div class="box" style="background-color:rgb(91, 189, 114); border:1px solid rgb(81.9, 170.1, 102.60000000000001); opacity:0.675;"/>
+	<div class="box" style="background-color:rgb(91, 189, 114); border:1px solid rgb(81.9, 170.1, 102.60000000000001); opacity:0.675;"/>
+	<div class="box" style="background-color:rgb(91, 189, 114); border:1px solid rgb(81.9, 170.1, 102.60000000000001); opacity:0.675;"/>
+	<div class="box" style="background-color:rgb(91, 189, 114); border:1px solid rgb(81.9, 170.1, 102.60000000000001); opacity:0.675;"/>
+	<div class="box" style="background-color:rgb(91, 189, 114); border:1px solid rgb(81.9, 170.1, 102.60000000000001); opacity:0.675;"/>
+	<div class="box" style="background-color:rgb(91, 189, 114); border:1px solid rgb(81.9, 170.1, 102.60000000000001); opacity:0.675;"/>
+	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9); opacity:1;"/>
 </div>
 <div class="col">
 	<div class="time-box"></div>
-	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
-	<div class="box" style="background-color:rgb(144, 225, 159); border:1px solid rgb(129.6, 202.5, 143.1);"/>
-	<div class="box" style="background-color:rgb(144, 225, 159); border:1px solid rgb(129.6, 202.5, 143.1);"/>
-	<div class="box" style="background-color:rgb(144, 225, 159); border:1px solid rgb(129.6, 202.5, 143.1);"/>
-	<div class="box" style="background-color:rgb(144, 225, 159); border:1px solid rgb(129.6, 202.5, 143.1);"/>
-	<div class="box" style="background-color:rgb(144, 225, 159); border:1px solid rgb(129.6, 202.5, 143.1);"/>
-	<div class="box" style="background-color:rgb(144, 225, 159); border:1px solid rgb(129.6, 202.5, 143.1);"/>
+	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9); opacity:1;"/>
+	<div class="box" style="background-color:rgb(144, 225, 159); border:1px solid rgb(129.6, 202.5, 143.1); opacity:0.7714285714285715;"/>
+	<div class="box" style="background-color:rgb(144, 225, 159); border:1px solid rgb(129.6, 202.5, 143.1); opacity:0.7714285714285715;"/>
+	<div class="box" style="background-color:rgb(144, 225, 159); border:1px solid rgb(129.6, 202.5, 143.1); opacity:0.7714285714285715;"/>
+	<div class="box" style="background-color:rgb(144, 225, 159); border:1px solid rgb(129.6, 202.5, 143.1); opacity:0.7714285714285715;"/>
+	<div class="box" style="background-color:rgb(144, 225, 159); border:1px solid rgb(129.6, 202.5, 143.1); opacity:0.7714285714285715;"/>
+	<div class="box" style="background-color:rgb(144, 225, 159); border:1px solid rgb(129.6, 202.5, 143.1); opacity:0.7714285714285715;"/>
 </div>
 <div class="col">
 	<div class="time-box"></div>
-	<div class="box" style="background-color:rgb(144, 225, 159); border:1px solid rgb(129.6, 202.5, 143.1);"/>
-	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
-	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
-	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
-	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
-	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
-	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
+	<div class="box" style="background-color:rgb(144, 225, 159); border:1px solid rgb(129.6, 202.5, 143.1); opacity:0.7714285714285715;"/>
+	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126); opacity:0.9;"/>
+	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126); opacity:0.9;"/>
+	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126); opacity:0.9;"/>
+	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126); opacity:0.9;"/>
+	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126); opacity:0.9;"/>
+	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126); opacity:0.9;"/>
 </div>
 <div class="col">
 	<div class="time-box"><p class="time-legend">Aug</p></div>
-	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
-	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
-	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
-	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
-	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135);"/>
-	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135);"/>
-	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135);"/>
+	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9); opacity:1;"/>
+	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9); opacity:1;"/>
+	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9); opacity:1;"/>
+	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9); opacity:1;"/>
+	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135); opacity:0.9750000000000001;"/>
+	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135); opacity:0.9750000000000001;"/>
+	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135); opacity:0.9750000000000001;"/>
 </div>
 <div class="col">
 	<div class="time-box"></div>
-	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135);"/>
-	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135);"/>
-	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135);"/>
-	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135);"/>
-	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135);"/>
-	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135);"/>
-	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135);"/>
+	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135); opacity:0.9750000000000001;"/>
+	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135); opacity:0.9750000000000001;"/>
+	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135); opacity:0.9750000000000001;"/>
+	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135); opacity:0.9750000000000001;"/>
+	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135); opacity:0.9750000000000001;"/>
+	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135); opacity:0.9750000000000001;"/>
+	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135); opacity:0.9750000000000001;"/>
 </div>
 <div class="col">
 	<div class="time-box"></div>
-	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135);"/>
-	<div class="box" style="background-color:rgb(128, 215, 145); border:1px solid rgb(115.2, 193.5, 130.5);"/>
-	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
-	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
-	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
-	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
-	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
+	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135); opacity:0.9750000000000001;"/>
+	<div class="box" style="background-color:rgb(128, 215, 145); border:1px solid rgb(115.2, 193.5, 130.5); opacity:0.9;"/>
+	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126); opacity:0.9;"/>
+	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126); opacity:0.9;"/>
+	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126); opacity:0.9;"/>
+	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126); opacity:0.9;"/>
+	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126); opacity:0.9;"/>
 </div>
 <div class="col">
 	<div class="time-box"></div>
-	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
-	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
-	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
-	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
-	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
-	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
-	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
+	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126); opacity:0.9;"/>
+	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126); opacity:0.9;"/>
+	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126); opacity:0.9;"/>
+	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126); opacity:0.9;"/>
+	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126); opacity:0.9;"/>
+	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126); opacity:0.9;"/>
+	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9); opacity:1;"/>
 </div>
 <div class="col">
 	<div class="time-box"><p class="time-legend">Sep</p></div>
-	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
-	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
-	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
-	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
-	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
-	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
-	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
+	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9); opacity:1;"/>
+	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9); opacity:1;"/>
+	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9); opacity:1;"/>
+	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9); opacity:1;"/>
+	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9); opacity:1;"/>
+	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9); opacity:1;"/>
+	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9); opacity:0.8775000000000001;"/>
 </div>
 <div class="col">
 	<div class="time-box"></div>
-	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
-	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
-	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
-	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
-	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
-	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
-	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
+	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9); opacity:0.8775000000000001;"/>
+	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9); opacity:0.8775000000000001;"/>
+	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9); opacity:0.8775000000000001;"/>
+	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9); opacity:0.8775000000000001;"/>
+	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9); opacity:0.8775000000000001;"/>
+	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9); opacity:0.8775000000000001;"/>
+	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9); opacity:0.8775000000000001;"/>
 </div>
 <div class="col">
 	<div class="time-box"></div>
-	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
-	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
-	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
-	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
-	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
-	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
-	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
+	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9); opacity:0.8775000000000001;"/>
+	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9); opacity:0.8775000000000001;"/>
+	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9); opacity:0.8775000000000001;"/>
+	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9); opacity:0.8775000000000001;"/>
+	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9); opacity:0.8775000000000001;"/>
+	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9); opacity:0.8775000000000001;"/>
+	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9); opacity:0.8775000000000001;"/>
 </div>
 <div class="col">
 	<div class="time-box"></div>
-	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
-	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
-	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
-	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
-	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
-	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135);"/>
-	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135);"/>
+	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9); opacity:0.8775000000000001;"/>
+	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9); opacity:0.8775000000000001;"/>
+	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9); opacity:0.8775000000000001;"/>
+	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9); opacity:0.8775000000000001;"/>
+	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126); opacity:0.7714285714285715;"/>
+	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135); opacity:0.7714285714285715;"/>
+	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135); opacity:0.7714285714285715;"/>
 </div>
 <div class="col">
 	<div class="time-box"></div>
-	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135);"/>
-	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135);"/>
-	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135);"/>
-	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135);"/>
-	<div class="box" style="background-color:rgb(80, 182, 105); border:1px solid rgb(72, 163.8, 94.5);"/>
-	<div class="box" style="background-color:rgb(80, 182, 105); border:1px solid rgb(72, 163.8, 94.5);"/>
-	<div class="box" style="background-color:rgb(80, 182, 105); border:1px solid rgb(72, 163.8, 94.5);"/>
+	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135); opacity:0.7714285714285715;"/>
+	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135); opacity:0.7714285714285715;"/>
+	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135); opacity:0.7714285714285715;"/>
+	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135); opacity:0.7714285714285715;"/>
+	<div class="box" style="background-color:rgb(80, 182, 105); border:1px solid rgb(72, 163.8, 94.5); opacity:0.9750000000000001;"/>
+	<div class="box" style="background-color:rgb(80, 182, 105); border:1px solid rgb(72, 163.8, 94.5); opacity:0.9750000000000001;"/>
+	<div class="box" style="background-color:rgb(80, 182, 105); border:1px solid rgb(72, 163.8, 94.5); opacity:0.9750000000000001;"/>
 </div>
 <div class="col">
 	<div class="time-box"><p class="time-legend">Oct</p></div>
-	<div class="box" style="background-color:rgb(80, 182, 105); border:1px solid rgb(72, 163.8, 94.5);"/>
-	<div class="box" style="background-color:rgb(80, 182, 105); border:1px solid rgb(72, 163.8, 94.5);"/>
-	<div class="box" style="background-color:rgb(80, 182, 105); border:1px solid rgb(72, 163.8, 94.5);"/>
-	<div class="box" style="background-color:rgb(155, 233, 168); border:1px solid rgb(139.5, 209.70000000000002, 151.20000000000002);"/>
-	<div class="box" style="background-color:rgb(155, 233, 168); border:1px solid rgb(139.5, 209.70000000000002, 151.20000000000002);"/>
-	<div class="box" style="background-color:rgb(155, 233, 168); border:1px solid rgb(139.5, 209.70000000000002, 151.20000000000002);"/>
-	<div class="box" style="background-color:rgb(155, 233, 168); border:1px solid rgb(139.5, 209.70000000000002, 151.20000000000002);"/>
+	<div class="box" style="background-color:rgb(80, 182, 105); border:1px solid rgb(72, 163.8, 94.5); opacity:0.9750000000000001;"/>
+	<div class="box" style="background-color:rgb(80, 182, 105); border:1px solid rgb(72, 163.8, 94.5); opacity:0.9750000000000001;"/>
+	<div class="box" style="background-color:rgb(80, 182, 105); border:1px solid rgb(72, 163.8, 94.5); opacity:0.9750000000000001;"/>
+	<div class="box" style="background-color:rgb(155, 233, 168); border:1px solid rgb(139.5, 209.70000000000002, 151.20000000000002); opacity:1;"/>
+	<div class="box" style="background-color:rgb(155, 233, 168); border:1px solid rgb(139.5, 209.70000000000002, 151.20000000000002); opacity:1;"/>
+	<div class="box" style="background-color:rgb(155, 233, 168); border:1px solid rgb(139.5, 209.70000000000002, 151.20000000000002); opacity:1;"/>
+	<div class="box" style="background-color:rgb(155, 233, 168); border:1px solid rgb(139.5, 209.70000000000002, 151.20000000000002); opacity:1;"/>
 </div>
 <div class="col">
 	<div class="time-box"></div>
-	<div class="box" style="background-color:rgb(155, 233, 168); border:1px solid rgb(139.5, 209.70000000000002, 151.20000000000002);"/>
-	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5);"/>
-	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5);"/>
-	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5);"/>
-	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5);"/>
-	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5);"/>
-	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5);"/>
+	<div class="box" style="background-color:rgb(155, 233, 168); border:1px solid rgb(139.5, 209.70000000000002, 151.20000000000002); opacity:1;"/>
+	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5); opacity:0.8307692307692308;"/>
+	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5); opacity:0.8307692307692308;"/>
+	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5); opacity:0.8307692307692308;"/>
+	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5); opacity:0.8307692307692308;"/>
+	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5); opacity:0.8307692307692308;"/>
+	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5); opacity:0.8307692307692308;"/>
 </div>
 <div class="col">
 	<div class="time-box"></div>
-	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5);"/>
-	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5);"/>
-	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5);"/>
-	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5);"/>
-	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5);"/>
-	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5);"/>
-	<div class="box" style="background-color:rgb(59, 168, 86); border:1px solid rgb(53.1, 151.20000000000002, 77.4);"/>
+	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5); opacity:0.8307692307692308;"/>
+	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5); opacity:0.8307692307692308;"/>
+	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5); opacity:0.8307692307692308;"/>
+	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5); opacity:0.8307692307692308;"/>
+	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5); opacity:0.8307692307692308;"/>
+	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5); opacity:0.8307692307692308;"/>
+	<div class="box" style="background-color:rgb(59, 168, 86); border:1px solid rgb(53.1, 151.20000000000002, 77.4); opacity:0.9375;"/>
 </div>
 <div class="col">
 	<div class="time-box"></div>
-	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2);"/>
-	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2);"/>
-	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2);"/>
-	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2);"/>
-	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2);"/>
-	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2);"/>
-	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2);"/>
+	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:0.9375;"/>
+	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:0.9375;"/>
+	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:0.9375;"/>
+	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:0.9375;"/>
+	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:0.9375;"/>
+	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:0.9375;"/>
+	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:0.9375;"/>
 </div>
 <div class="col">
 	<div class="time-box"><p class="time-legend">Nov</p></div>
-	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2);"/>
-	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2);"/>
-	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2);"/>
-	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2);"/>
-	<div class="box" style="background-color:rgb(40, 135, 67); border:1px solid rgb(36, 121.5, 60.300000000000004);"/>
-	<div class="box" style="background-color:rgb(40, 135, 67); border:1px solid rgb(36, 121.5, 60.300000000000004);"/>
-	<div class="box" style="background-color:rgb(40, 135, 67); border:1px solid rgb(36, 121.5, 60.300000000000004);"/>
+	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:0.9375;"/>
+	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:0.9375;"/>
+	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:0.9375;"/>
+	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:0.9375;"/>
+	<div class="box" style="background-color:rgb(40, 135, 67); border:1px solid rgb(36, 121.5, 60.300000000000004); opacity:0.5357142857142857;"/>
+	<div class="box" style="background-color:rgb(40, 135, 67); border:1px solid rgb(36, 121.5, 60.300000000000004); opacity:0.5357142857142857;"/>
+	<div class="box" style="background-color:rgb(40, 135, 67); border:1px solid rgb(36, 121.5, 60.300000000000004); opacity:0.5357142857142857;"/>
 </div>
 <div class="col">
 	<div class="time-box"></div>
-	<div class="box" style="background-color:rgb(40, 135, 67); border:1px solid rgb(36, 121.5, 60.300000000000004);"/>
-	<div class="box" style="background-color:rgb(40, 135, 67); border:1px solid rgb(36, 121.5, 60.300000000000004);"/>
-	<div class="box" style="background-color:rgb(40, 135, 67); border:1px solid rgb(36, 121.5, 60.300000000000004);"/>
-	<div class="box" style="background-color:rgb(40, 135, 67); border:1px solid rgb(36, 121.5, 60.300000000000004);"/>
-	<div class="box" style="background-color:rgb(40, 135, 67); border:1px solid rgb(36, 121.5, 60.300000000000004);"/>
-	<div class="box" style="background-color:rgb(40, 135, 67); border:1px solid rgb(36, 121.5, 60.300000000000004);"/>
-	<div class="box" style="background-color:rgb(40, 135, 67); border:1px solid rgb(36, 121.5, 60.300000000000004);"/>
+	<div class="box" style="background-color:rgb(40, 135, 67); border:1px solid rgb(36, 121.5, 60.300000000000004); opacity:0.5357142857142857;"/>
+	<div class="box" style="background-color:rgb(40, 135, 67); border:1px solid rgb(36, 121.5, 60.300000000000004); opacity:0.5357142857142857;"/>
+	<div class="box" style="background-color:rgb(40, 135, 67); border:1px solid rgb(36, 121.5, 60.300000000000004); opacity:0.5357142857142857;"/>
+	<div class="box" style="background-color:rgb(40, 135, 67); border:1px solid rgb(36, 121.5, 60.300000000000004); opacity:0.5357142857142857;"/>
+	<div class="box" style="background-color:rgb(40, 135, 67); border:1px solid rgb(36, 121.5, 60.300000000000004); opacity:0.5357142857142857;"/>
+	<div class="box" style="background-color:rgb(40, 135, 67); border:1px solid rgb(36, 121.5, 60.300000000000004); opacity:0.5357142857142857;"/>
+	<div class="box" style="background-color:rgb(40, 135, 67); border:1px solid rgb(36, 121.5, 60.300000000000004); opacity:0.5357142857142857;"/>
 </div>
 <div class="col">
 	<div class="time-box"></div>
-	<div class="box" style="background-color:rgb(40, 135, 67); border:1px solid rgb(36, 121.5, 60.300000000000004);"/>
-	<div class="box" style="background-color:rgb(40, 135, 67); border:1px solid rgb(36, 121.5, 60.300000000000004);"/>
-	<div class="box" style="background-color:rgb(40, 135, 67); border:1px solid rgb(36, 121.5, 60.300000000000004);"/>
-	<div class="box" style="background-color:rgb(40, 135, 67); border:1px solid rgb(36, 121.5, 60.300000000000004);"/>
-	<div class="box" style="background-color:rgb(40, 135, 67); border:1px solid rgb(36, 121.5, 60.300000000000004);"/>
-	<div class="box" style="background-color:rgb(40, 135, 67); border:1px solid rgb(36, 121.5, 60.300000000000004);"/>
-	<div class="box" style="background-color:rgb(40, 135, 67); border:1px solid rgb(36, 121.5, 60.300000000000004);"/>
+	<div class="box" style="background-color:rgb(40, 135, 67); border:1px solid rgb(36, 121.5, 60.300000000000004); opacity:0.5357142857142857;"/>
+	<div class="box" style="background-color:rgb(40, 135, 67); border:1px solid rgb(36, 121.5, 60.300000000000004); opacity:0.5357142857142857;"/>
+	<div class="box" style="background-color:rgb(40, 135, 67); border:1px solid rgb(36, 121.5, 60.300000000000004); opacity:0.5357142857142857;"/>
+	<div class="box" style="background-color:rgb(40, 135, 67); border:1px solid rgb(36, 121.5, 60.300000000000004); opacity:0.5357142857142857;"/>
+	<div class="box" style="background-color:rgb(40, 135, 67); border:1px solid rgb(36, 121.5, 60.300000000000004); opacity:0.5357142857142857;"/>
+	<div class="box" style="background-color:rgb(40, 135, 67); border:1px solid rgb(36, 121.5, 60.300000000000004); opacity:0.5357142857142857;"/>
+	<div class="box" style="background-color:rgb(40, 135, 67); border:1px solid rgb(36, 121.5, 60.300000000000004); opacity:0.5357142857142857;"/>
 </div>
 <div class="col">
 	<div class="time-box"></div>
-	<div class="box" style="background-color:rgb(40, 135, 67); border:1px solid rgb(36, 121.5, 60.300000000000004);"/>
-	<div class="box" style="background-color:rgb(40, 135, 67); border:1px solid rgb(36, 121.5, 60.300000000000004);"/>
-	<div class="box" style="background-color:rgb(40, 135, 67); border:1px solid rgb(36, 121.5, 60.300000000000004);"/>
-	<div class="box" style="background-color:rgb(40, 135, 67); border:1px solid rgb(36, 121.5, 60.300000000000004);"/>
-	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
-	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
-	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
+	<div class="box" style="background-color:rgb(40, 135, 67); border:1px solid rgb(36, 121.5, 60.300000000000004); opacity:0.5357142857142857;"/>
+	<div class="box" style="background-color:rgb(40, 135, 67); border:1px solid rgb(36, 121.5, 60.300000000000004); opacity:0.5357142857142857;"/>
+	<div class="box" style="background-color:rgb(40, 135, 67); border:1px solid rgb(36, 121.5, 60.300000000000004); opacity:0.5357142857142857;"/>
+	<div class="box" style="background-color:rgb(40, 135, 67); border:1px solid rgb(36, 121.5, 60.300000000000004); opacity:0.5357142857142857;"/>
+	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126); opacity:0.9;"/>
+	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126); opacity:0.9;"/>
+	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126); opacity:0.9;"/>
 </div>
 <div class="col">
 	<div class="time-box"><p class="time-legend">Dec</p></div>
-	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
-	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
-	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
-	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135);"/>
-	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135);"/>
-	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135);"/>
-	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135);"/>
+	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126); opacity:0.9;"/>
+	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126); opacity:0.9;"/>
+	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126); opacity:0.9;"/>
+	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135); opacity:1;"/>
+	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135); opacity:1;"/>
+	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135); opacity:1;"/>
+	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135); opacity:1;"/>
 </div>
 <div class="col">
 	<div class="time-box"></div>
-	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135);"/>
-	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135);"/>
-	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135);"/>
-	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135);"/>
-	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
-	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
-	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
+	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135); opacity:1;"/>
+	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135); opacity:1;"/>
+	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135); opacity:1;"/>
+	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135); opacity:1;"/>
+	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126); opacity:1;"/>
+	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9); opacity:1;"/>
+	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9); opacity:1;"/>
 </div>
 <div class="col">
 	<div class="time-box"></div>
-	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
-	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
-	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9);"/>
-	<div class="box" style="background-color:rgb(117, 207, 136); border:1px solid rgb(105.3, 186.3, 122.4);"/>
-	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
-	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
-	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126);"/>
+	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9); opacity:1;"/>
+	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9); opacity:1;"/>
+	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9); opacity:1;"/>
+	<div class="box" style="background-color:rgb(117, 207, 136); border:1px solid rgb(105.3, 186.3, 122.4); opacity:1;"/>
+	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126); opacity:1;"/>
+	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126); opacity:1;"/>
+	<div class="box" style="background-color:rgb(123, 211, 140); border:1px solid rgb(110.7, 189.9, 126); opacity:1;"/>
 </div>
 <div class="col">
 	<div class="time-box"></div>
-	<div class="box" style="background-color:rgb(91, 189, 113); border:1px solid rgb(81.9, 170.1, 101.7);"/>
-	<div class="box" style="background-color:rgb(59, 168, 86); border:1px solid rgb(53.1, 151.20000000000002, 77.4);"/>
-	<div class="box" style="background-color:rgb(59, 168, 86); border:1px solid rgb(53.1, 151.20000000000002, 77.4);"/>
-	<div class="box" style="background-color:rgb(59, 168, 86); border:1px solid rgb(53.1, 151.20000000000002, 77.4);"/>
-	<div class="box" style="background-color:rgb(59, 168, 86); border:1px solid rgb(53.1, 151.20000000000002, 77.4);"/>
+	<div class="box" style="background-color:rgb(91, 189, 113); border:1px solid rgb(81.9, 170.1, 101.7); opacity:1;"/>
+	<div class="box" style="background-color:rgb(59, 168, 86); border:1px solid rgb(53.1, 151.20000000000002, 77.4); opacity:1;"/>
+	<div class="box" style="background-color:rgb(59, 168, 86); border:1px solid rgb(53.1, 151.20000000000002, 77.4); opacity:1;"/>
+	<div class="box" style="background-color:rgb(59, 168, 86); border:1px solid rgb(53.1, 151.20000000000002, 77.4); opacity:1;"/>
+	<div class="box" style="background-color:rgb(59, 168, 86); border:1px solid rgb(53.1, 151.20000000000002, 77.4); opacity:1;"/>
 	<div class="box empty" />
 	<div class="box empty" />
 </div>
@@ -519,16 +519,16 @@ svg {
 	<div class="time-box"></div>
 	<div class="box empty" />
 	<div class="box empty" />
-	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5);"/>
-	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5);"/>
-	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5);"/>
-	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5);"/>
-	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5);"/>
+	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5); opacity:0.7714285714285715;"/>
+	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5); opacity:0.7714285714285715;"/>
+	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5); opacity:0.7714285714285715;"/>
+	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5); opacity:0.7714285714285715;"/>
+	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5); opacity:0.7714285714285715;"/>
 </div>
 <div class="col">
 	<div class="time-box"><p class="time-legend">Jan</p></div>
-	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5);"/>
-	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5);"/>
+	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5); opacity:0.7714285714285715;"/>
+	<div class="box" style="background-color:rgb(70, 175, 95); border:1px solid rgb(63, 157.5, 85.5); opacity:0.7714285714285715;"/>
 	<div class="box empty" />
 	<div class="box empty" />
 	<div class="box empty" />
@@ -537,68 +537,48 @@ svg {
 </div>
 <div class="col">
 	<div class="time-box"></div>
-	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2);"/>
-	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2);"/>
-	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2);"/>
-	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2);"/>
-	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2);"/>
-	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2);"/>
-	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2);"/>
+	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:0.5741379310344829;"/>
+	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:0.5741379310344829;"/>
+	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:0.5741379310344829;"/>
+	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:0.5741379310344829;"/>
+	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:0.5741379310344829;"/>
+	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:0.5741379310344829;"/>
+	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:0.5741379310344829;"/>
 </div>
 <div class="col">
 	<div class="time-box"></div>
-	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2);"/>
-	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2);"/>
-	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2);"/>
-	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2);"/>
-	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2);"/>
-	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2);"/>
-	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2);"/>
+	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:0.5741379310344829;"/>
+	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:0.5741379310344829;"/>
+	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:0.5741379310344829;"/>
+	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:0.5741379310344829;"/>
+	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:0.5741379310344829;"/>
+	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:0.5741379310344829;"/>
+	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:0.5741379310344829;"/>
 </div>
 <div class="col">
 	<div class="time-box"></div>
-	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2);"/>
-	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2);"/>
-	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2);"/>
-	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2);"/>
-	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2);"/>
-	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2);"/>
-	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2);"/>
+	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:0.5741379310344829;"/>
+	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:0.5741379310344829;"/>
+	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:0.5741379310344829;"/>
+	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:0.5741379310344829;"/>
+	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:0.5741379310344829;"/>
+	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:0.5741379310344829;"/>
+	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:0.5741379310344829;"/>
 </div>
 <div class="col">
 	<div class="time-box"><p class="time-legend">Feb</p></div>
-	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2);"/>
-	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2);"/>
-	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2);"/>
-	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2);"/>
-	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2);"/>
-	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2);"/>
-	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2);"/>
+	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:0.5741379310344829;"/>
+	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:0.5741379310344829;"/>
+	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:0.5741379310344829;"/>
+	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:0.5741379310344829;"/>
+	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:0.5741379310344829;"/>
+	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:0.5741379310344829;"/>
+	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:0.5741379310344829;"/>
 </div>
 <div class="col">
 	<div class="time-box"></div>
-	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2);"/>
+	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:0.5741379310344829;"/>
 	<div class="box empty" />
-	<div class="box empty" />
-	<div class="box empty" />
-	<div class="box empty" />
-	<div class="box empty" />
-	<div class="box empty" />
-</div>
-<div class="col">
-	<div class="time-box"></div>
-	<div class="box empty" />
-	<div class="box empty" />
-	<div class="box empty" />
-	<div class="box empty" />
-	<div class="box empty" />
-	<div class="box empty" />
-	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135);"/>
-</div>
-<div class="col">
-	<div class="time-box"></div>
-	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135);"/>
-	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135);"/>
 	<div class="box empty" />
 	<div class="box empty" />
 	<div class="box empty" />
@@ -613,6 +593,30 @@ svg {
 	<div class="box empty" />
 	<div class="box empty" />
 	<div class="box empty" />
+	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135); opacity:1;"/>
+</div>
+<div class="col">
+	<div class="time-box"></div>
+	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135); opacity:1;"/>
+	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135); opacity:1;"/>
+	<div class="box empty" />
+	<div class="box empty" />
+	<div class="box empty" />
+	<div class="box empty" />
+	<div class="box empty" />
+</div>
+<div class="col">
+	<div class="time-box"></div>
+	<div class="box empty" />
+	<div class="box empty" />
+	<div class="box empty" />
+	<div class="box empty" />
+	<div class="box empty" />
+	<div class="box empty" />
+	<div class="box empty" />
+</div>
+<div class="col">
+	<div class="time-box"></div>
 	<div class="box empty" />
 </div>
 
