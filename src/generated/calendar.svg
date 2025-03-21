@@ -90,7 +90,7 @@ svg {
 	<div class="box invisible" />
 	<div class="box invisible" />
 	<div class="box invisible" />
-	<div class="box" style="background-color:rgb(32, 110, 57); border:1px solid rgb(28.8, 99, 51.300000000000004); opacity:0.84;"/>
+	<div class="box invisible" />
 	<div class="box" style="background-color:rgb(32, 110, 57); border:1px solid rgb(28.8, 99, 51.300000000000004); opacity:0.84;"/>
 	<div class="box" style="background-color:rgb(32, 110, 57); border:1px solid rgb(28.8, 99, 51.300000000000004); opacity:0.84;"/>
 	<div class="box" style="background-color:rgb(32, 110, 57); border:1px solid rgb(28.8, 99, 51.300000000000004); opacity:0.84;"/>
@@ -609,6 +609,7 @@ svg {
 	<div class="time-box"></div>
 	<div class="box" style="background-color:rgb(102, 197, 123); border:1px solid rgb(91.8, 177.3, 110.7); opacity:1;"/>
 	<div class="box" style="background-color:rgb(102, 197, 123); border:1px solid rgb(91.8, 177.3, 110.7); opacity:1;"/>
+	<div class="box empty" />
 	<div class="box empty" />
 	<div class="box empty" />
 	<div class="box empty" />
