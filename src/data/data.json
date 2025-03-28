@@ -3778,5 +3778,35 @@
       "date": "2025-03-17T00:00:00.000Z"
     },
     "score": 8.5
+  },
+  {
+    "id": 404769863,
+    "status": "COMPLETED",
+    "progress": 12,
+    "media": {
+      "title": {
+        "english": "Solo Leveling",
+        "userPreferred": "Ore dake Level Up na Ken"
+      },
+      "coverImage": {
+        "color": "#35bbf1",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151807-yxY3olrjZH4k.png"
+      },
+      "episodes": 12,
+      "siteUrl": "https://anilist.co/anime/151807"
+    },
+    "startedAt": {
+      "year": 2025,
+      "month": 3,
+      "day": 23,
+      "date": "2025-03-23T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2025,
+      "month": 3,
+      "day": 28,
+      "date": "2025-03-28T00:00:00.000Z"
+    },
+    "score": 8.3
   }
 ]
