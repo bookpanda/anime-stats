@@ -3868,5 +3868,35 @@
       "date": "2025-04-08T00:00:00.000Z"
     },
     "score": 9
+  },
+  {
+    "id": 360001869,
+    "status": "COMPLETED",
+    "progress": 15,
+    "media": {
+      "title": {
+        "english": "Bakemonogatari",
+        "userPreferred": "Bakemonogatari"
+      },
+      "coverImage": {
+        "color": "#4393e4",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5081-9GocceQ5Z865.jpg"
+      },
+      "episodes": 15,
+      "siteUrl": "https://anilist.co/anime/5081"
+    },
+    "startedAt": {
+      "year": 2025,
+      "month": 5,
+      "day": 13,
+      "date": "2025-05-13T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2025,
+      "month": 5,
+      "day": 19,
+      "date": "2025-05-19T00:00:00.000Z"
+    },
+    "score": 8.2
   }
 ]

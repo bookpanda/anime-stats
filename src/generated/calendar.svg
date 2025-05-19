@@ -87,16 +87,6 @@ svg {
         </div>
         <div class="col">
 	<div class="time-box"><p class="time-legend">May</p></div>
-	<div class="box invisible" />
-	<div class="box invisible" />
-	<div class="box invisible" />
-	<div class="box invisible" />
-	<div class="box invisible" />
-	<div class="box invisible" />
-	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:0.43200000000000005;"/>
-</div>
-<div class="col">
-	<div class="time-box"></div>
 	<div class="box empty" />
 	<div class="box empty" />
 	<div class="box" style="background-color:rgb(247, 204, 93); border:1px solid rgb(222.3, 183.6, 83.7); opacity:0.38571428571428573;"/>
@@ -609,15 +599,16 @@ svg {
 	<div class="time-box"></div>
 	<div class="box empty" />
 	<div class="box empty" />
-	<div class="box empty" />
-	<div class="box empty" />
-	<div class="box empty" />
-	<div class="box empty" />
-	<div class="box empty" />
+	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135); opacity:0.9642857142857143;"/>
+	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135); opacity:0.9642857142857143;"/>
+	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135); opacity:0.9642857142857143;"/>
+	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135); opacity:0.9642857142857143;"/>
+	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135); opacity:0.9642857142857143;"/>
 </div>
 <div class="col">
 	<div class="time-box"></div>
-	<div class="box empty" />
+	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135); opacity:0.9642857142857143;"/>
+	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135); opacity:0.9642857142857143;"/>
 </div>
 
     </div>
