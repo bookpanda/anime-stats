@@ -90,7 +90,7 @@ svg {
 	<div class="box invisible" />
 	<div class="box invisible" />
 	<div class="box invisible" />
-	<div class="box" style="background-color:rgb(247, 204, 93); border:1px solid rgb(222.3, 183.6, 83.7); opacity:0.38571428571428573;"/>
+	<div class="box invisible" />
 	<div class="box" style="background-color:rgb(247, 204, 93); border:1px solid rgb(222.3, 183.6, 83.7); opacity:0.38571428571428573;"/>
 	<div class="box" style="background-color:rgb(247, 204, 93); border:1px solid rgb(222.3, 183.6, 83.7); opacity:0.38571428571428573;"/>
 	<div class="box" style="background-color:rgb(247, 204, 93); border:1px solid rgb(222.3, 183.6, 83.7); opacity:0.38571428571428573;"/>
@@ -608,10 +608,11 @@ svg {
 <div class="col">
 	<div class="time-box"></div>
 	<div class="box" style="background-color:rgb(133, 218, 150); border:1px solid rgb(119.7, 196.20000000000002, 135); opacity:0.9642857142857143;"/>
-	<div class="box" style="background-color:rgb(128, 215, 145); border:1px solid rgb(115.2, 193.5, 130.5); opacity:0.45;"/>
-	<div class="box empty" />
-	<div class="box empty" />
-	<div class="box empty" />
+	<div class="box" style="background-color:rgb(133, 218, 149); border:1px solid rgb(119.7, 196.20000000000002, 134.1); opacity:0.99;"/>
+	<div class="box" style="background-color:rgb(144, 225, 159); border:1px solid rgb(129.6, 202.5, 143.1); opacity:0.99;"/>
+	<div class="box" style="background-color:rgb(144, 225, 159); border:1px solid rgb(129.6, 202.5, 143.1); opacity:0.99;"/>
+	<div class="box" style="background-color:rgb(144, 225, 159); border:1px solid rgb(129.6, 202.5, 143.1); opacity:0.99;"/>
+	<div class="box" style="background-color:rgb(144, 225, 159); border:1px solid rgb(129.6, 202.5, 143.1); opacity:0.99;"/>
 </div>
 
     </div>
