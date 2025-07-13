@@ -4048,5 +4048,65 @@
       "date": "2025-06-23T00:00:00.000Z"
     },
     "score": 8.4
+  },
+  {
+    "id": 393151550,
+    "status": "COMPLETED",
+    "progress": 26,
+    "media": {
+      "title": {
+        "english": "Monogatari Series Second Season",
+        "userPreferred": "Monogatari Series: Second Season"
+      },
+      "coverImage": {
+        "color": "#43a1e4",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17074-xMhVAZsEDH66.png"
+      },
+      "episodes": 26,
+      "siteUrl": "https://anilist.co/anime/17074"
+    },
+    "startedAt": {
+      "year": 2025,
+      "month": 6,
+      "day": 24,
+      "date": "2025-06-24T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2025,
+      "month": 7,
+      "day": 9,
+      "date": "2025-07-09T00:00:00.000Z"
+    },
+    "score": 8.6
+  },
+  {
+    "id": 444501660,
+    "status": "COMPLETED",
+    "progress": 5,
+    "media": {
+      "title": {
+        "english": "Hanamonogatari",
+        "userPreferred": "Hanamonogatari"
+      },
+      "coverImage": {
+        "color": "#e4865d",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20593-ri6S0Qt3mFkv.jpg"
+      },
+      "episodes": 5,
+      "siteUrl": "https://anilist.co/anime/20593"
+    },
+    "startedAt": {
+      "year": 2025,
+      "month": 7,
+      "day": 10,
+      "date": "2025-07-10T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2025,
+      "month": 7,
+      "day": 13,
+      "date": "2025-07-13T00:00:00.000Z"
+    },
+    "score": 7.8
   }
 ]
