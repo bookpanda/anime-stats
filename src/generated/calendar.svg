@@ -87,7 +87,7 @@ svg {
         </div>
         <div class="col">
 	<div class="time-box"><p class="time-legend">Jul</p></div>
-	<div class="box" style="background-color:rgb(91, 189, 114); border:1px solid rgb(81.9, 170.1, 102.60000000000001); opacity:0.675;"/>
+	<div class="box invisible" />
 	<div class="box" style="background-color:rgb(91, 189, 114); border:1px solid rgb(81.9, 170.1, 102.60000000000001); opacity:0.675;"/>
 	<div class="box" style="background-color:rgb(91, 189, 114); border:1px solid rgb(81.9, 170.1, 102.60000000000001); opacity:0.675;"/>
 	<div class="box" style="background-color:rgb(91, 189, 114); border:1px solid rgb(81.9, 170.1, 102.60000000000001); opacity:0.675;"/>
@@ -608,7 +608,8 @@ svg {
 <div class="col">
 	<div class="time-box"></div>
 	<div class="box" style="background-color:rgb(173, 233, 145); border:1px solid rgb(155.70000000000002, 209.70000000000002, 130.5); opacity:0.5625;"/>
-	<div class="box empty" />
+	<div class="box" style="background-color:rgb(155, 233, 168); border:1px solid rgb(139.5, 209.70000000000002, 151.20000000000002); opacity:0.9;"/>
+	<div class="box" style="background-color:rgb(155, 233, 168); border:1px solid rgb(139.5, 209.70000000000002, 151.20000000000002); opacity:0.9;"/>
 </div>
 
     </div>

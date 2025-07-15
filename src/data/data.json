@@ -4108,5 +4108,35 @@
       "date": "2025-07-13T00:00:00.000Z"
     },
     "score": 7.8
+  },
+  {
+    "id": 444501630,
+    "status": "COMPLETED",
+    "progress": 4,
+    "media": {
+      "title": {
+        "english": "Tsukimonogatari",
+        "userPreferred": "Tsukimonogatari"
+      },
+      "coverImage": {
+        "color": "#e4ae5d",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20918-8Gp6nJpbjFgr.jpg"
+      },
+      "episodes": 4,
+      "siteUrl": "https://anilist.co/anime/20918"
+    },
+    "startedAt": {
+      "year": 2025,
+      "month": 7,
+      "day": 14,
+      "date": "2025-07-14T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2025,
+      "month": 7,
+      "day": 15,
+      "date": "2025-07-15T00:00:00.000Z"
+    },
+    "score": 8
   }
 ]
