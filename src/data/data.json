@@ -4258,5 +4258,35 @@
       "date": "2025-08-16T00:00:00.000Z"
     },
     "score": 9.2
+  },
+  {
+    "id": 420064038,
+    "status": "COMPLETED",
+    "progress": 14,
+    "media": {
+      "title": {
+        "english": "MONOGATARI Series: OFF & MONSTER Season",
+        "userPreferred": "Monogatari Series: Off & Monster Season"
+      },
+      "coverImage": {
+        "color": "#f17843",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx173533-9DN3nHtT2FBm.png"
+      },
+      "episodes": 14,
+      "siteUrl": "https://anilist.co/anime/173533"
+    },
+    "startedAt": {
+      "year": 2025,
+      "month": 8,
+      "day": 15,
+      "date": "2025-08-15T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2025,
+      "month": 9,
+      "day": 4,
+      "date": "2025-09-04T00:00:00.000Z"
+    },
+    "score": 8.5
   }
 ]
