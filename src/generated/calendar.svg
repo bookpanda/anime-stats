@@ -91,7 +91,7 @@ svg {
 	<div class="box invisible" />
 	<div class="box invisible" />
 	<div class="box invisible" />
-	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9); opacity:0.8775000000000001;"/>
+	<div class="box invisible" />
 	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9); opacity:0.8775000000000001;"/>
 	<div class="box" style="background-color:rgb(112, 204, 131); border:1px solid rgb(100.8, 183.6, 117.9); opacity:0.8775000000000001;"/>
 </div>
@@ -237,11 +237,11 @@ svg {
 </div>
 <div class="col">
 	<div class="time-box"></div>
-	<div class="box" style="background-color:rgb(91, 189, 113); border:1px solid rgb(81.9, 170.1, 101.7); opacity:1;"/>
-	<div class="box" style="background-color:rgb(59, 168, 86); border:1px solid rgb(53.1, 151.20000000000002, 77.4); opacity:1;"/>
-	<div class="box" style="background-color:rgb(59, 168, 86); border:1px solid rgb(53.1, 151.20000000000002, 77.4); opacity:1;"/>
-	<div class="box" style="background-color:rgb(59, 168, 86); border:1px solid rgb(53.1, 151.20000000000002, 77.4); opacity:1;"/>
-	<div class="box" style="background-color:rgb(59, 168, 86); border:1px solid rgb(53.1, 151.20000000000002, 77.4); opacity:1;"/>
+	<div class="box" style="background-color:rgb(102, 197, 123); border:1px solid rgb(91.8, 177.3, 110.7); opacity:1;"/>
+	<div class="box" style="background-color:rgb(80, 182, 105); border:1px solid rgb(72, 163.8, 94.5); opacity:1;"/>
+	<div class="box" style="background-color:rgb(80, 182, 105); border:1px solid rgb(72, 163.8, 94.5); opacity:1;"/>
+	<div class="box" style="background-color:rgb(80, 182, 105); border:1px solid rgb(72, 163.8, 94.5); opacity:1;"/>
+	<div class="box" style="background-color:rgb(80, 182, 105); border:1px solid rgb(72, 163.8, 94.5); opacity:1;"/>
 	<div class="box empty" />
 	<div class="box empty" />
 </div>
@@ -387,9 +387,9 @@ svg {
 </div>
 <div class="col">
 	<div class="time-box"><p class="time-legend">Apr</p></div>
-	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:1;"/>
-	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:1;"/>
-	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:1;"/>
+	<div class="box" style="background-color:rgb(91, 189, 114); border:1px solid rgb(81.9, 170.1, 102.60000000000001); opacity:1;"/>
+	<div class="box" style="background-color:rgb(91, 189, 114); border:1px solid rgb(81.9, 170.1, 102.60000000000001); opacity:1;"/>
+	<div class="box" style="background-color:rgb(91, 189, 114); border:1px solid rgb(81.9, 170.1, 102.60000000000001); opacity:1;"/>
 	<div class="box empty" />
 	<div class="box empty" />
 	<div class="box empty" />
@@ -602,12 +602,13 @@ svg {
 	<div class="box" style="background-color:rgb(102, 197, 123); border:1px solid rgb(91.8, 177.3, 110.7); opacity:0.3;"/>
 	<div class="box" style="background-color:rgb(102, 197, 123); border:1px solid rgb(91.8, 177.3, 110.7); opacity:0.3;"/>
 	<div class="box" style="background-color:rgb(102, 197, 123); border:1px solid rgb(91.8, 177.3, 110.7); opacity:0.3;"/>
-	<div class="box" style="background-color:rgb(42, 140, 69); border:1px solid rgb(37.800000000000004, 126, 62.1); opacity:0.9;"/>
-	<div class="box" style="background-color:rgb(42, 140, 69); border:1px solid rgb(37.800000000000004, 126, 62.1); opacity:0.9;"/>
+	<div class="box" style="background-color:rgb(47, 155, 75); border:1px solid rgb(42.300000000000004, 139.5, 67.5); opacity:0.9;"/>
+	<div class="box" style="background-color:rgb(47, 155, 75); border:1px solid rgb(42.300000000000004, 139.5, 67.5); opacity:0.9;"/>
 </div>
 <div class="col">
 	<div class="time-box"></div>
-	<div class="box" style="background-color:rgb(42, 140, 69); border:1px solid rgb(37.800000000000004, 126, 62.1); opacity:0.9;"/>
+	<div class="box" style="background-color:rgb(47, 155, 75); border:1px solid rgb(42.300000000000004, 139.5, 67.5); opacity:0.9;"/>
+	<div class="box empty" />
 	<div class="box empty" />
 	<div class="box empty" />
 	<div class="box empty" />
