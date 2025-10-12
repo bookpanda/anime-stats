@@ -4260,6 +4260,36 @@
     "score": 9.2
   },
   {
+    "id": 510737432,
+    "status": "COMPLETED",
+    "progress": 1,
+    "media": {
+      "title": {
+        "english": "MONOGATARI Series: OFF & MONSTER Season - A Cruel Fairy Tale: The Beautiful Princess",
+        "userPreferred": "Monogatari Series: Off & Monster Season - Zankoku Douwa: Utsukushi-hime"
+      },
+      "coverImage": {
+        "color": "#c98650",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b180332-pbtkiF3TjfBQ.png"
+      },
+      "episodes": 1,
+      "siteUrl": "https://anilist.co/anime/180332"
+    },
+    "startedAt": {
+      "year": 2025,
+      "month": 8,
+      "day": 24,
+      "date": "2025-08-24T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2025,
+      "month": 8,
+      "day": 24,
+      "date": "2025-08-24T00:00:00.000Z"
+    },
+    "score": 8.2
+  },
+  {
     "id": 420064038,
     "status": "COMPLETED",
     "progress": 14,

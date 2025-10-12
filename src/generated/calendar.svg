@@ -92,7 +92,7 @@ svg {
 	<div class="box invisible" />
 	<div class="box invisible" />
 	<div class="box invisible" />
-	<div class="box" style="background-color:rgb(155, 233, 168); border:1px solid rgb(139.5, 209.70000000000002, 151.20000000000002); opacity:1;"/>
+	<div class="box invisible" />
 	<div class="box" style="background-color:rgb(155, 233, 168); border:1px solid rgb(139.5, 209.70000000000002, 151.20000000000002); opacity:1;"/>
 </div>
 <div class="col">
@@ -547,7 +547,7 @@ svg {
 </div>
 <div class="col">
 	<div class="time-box"></div>
-	<div class="box" style="background-color:rgb(102, 197, 123); border:1px solid rgb(91.8, 177.3, 110.7); opacity:0.3;"/>
+	<div class="box" style="background-color:rgb(117, 207, 136); border:1px solid rgb(105.3, 186.3, 122.4); opacity:0.3;"/>
 	<div class="box" style="background-color:rgb(102, 197, 123); border:1px solid rgb(91.8, 177.3, 110.7); opacity:0.3;"/>
 	<div class="box" style="background-color:rgb(102, 197, 123); border:1px solid rgb(91.8, 177.3, 110.7); opacity:0.3;"/>
 	<div class="box" style="background-color:rgb(102, 197, 123); border:1px solid rgb(91.8, 177.3, 110.7); opacity:0.3;"/>
@@ -613,6 +613,10 @@ svg {
 	<div class="box empty" />
 	<div class="box empty" />
 	<div class="box empty" />
+	<div class="box empty" />
+</div>
+<div class="col">
+	<div class="time-box"></div>
 	<div class="box empty" />
 </div>
 
