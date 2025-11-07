@@ -4438,5 +4438,35 @@
       "date": "2025-10-26T00:00:00.000Z"
     },
     "score": 8.3
+  },
+  {
+    "id": 393075288,
+    "status": "COMPLETED",
+    "progress": 26,
+    "media": {
+      "title": {
+        "english": "JoJo's Bizarre Adventure: STONE OCEAN Part 2",
+        "userPreferred": "JoJo no Kimyou na Bouken: Stone Ocean Part 2"
+      },
+      "coverImage": {
+        "color": "#1ad643",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146722-hiZU7M33fBhn.jpg"
+      },
+      "episodes": 26,
+      "siteUrl": "https://anilist.co/anime/146722"
+    },
+    "startedAt": {
+      "year": 2025,
+      "month": 10,
+      "day": 26,
+      "date": "2025-10-26T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2025,
+      "month": 11,
+      "day": 7,
+      "date": "2025-11-07T00:00:00.000Z"
+    },
+    "score": 8.4
   }
 ]
