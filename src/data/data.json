@@ -4528,5 +4528,35 @@
       "date": "2025-11-19T00:00:00.000Z"
     },
     "score": 9
+  },
+  {
+    "id": 501204547,
+    "status": "COMPLETED",
+    "progress": 13,
+    "media": {
+      "title": {
+        "english": "Lord of Mysteries",
+        "userPreferred": "Guimi Zhi Zhu"
+      },
+      "coverImage": {
+        "color": "#aed6e4",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137667-zHFOF6qbpksP.jpg"
+      },
+      "episodes": 13,
+      "siteUrl": "https://anilist.co/anime/137667"
+    },
+    "startedAt": {
+      "year": 2025,
+      "month": 11,
+      "day": 20,
+      "date": "2025-11-20T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2025,
+      "month": 12,
+      "day": 1,
+      "date": "2025-12-01T00:00:00.000Z"
+    },
+    "score": 9.3
   }
 ]
