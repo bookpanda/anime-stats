@@ -1617,7 +1617,7 @@
       "day": 17,
       "date": "2023-04-17T00:00:00.000Z"
     },
-    "score": 9.5
+    "score": 9.6
   },
   {
     "id": 334571172,
@@ -4377,7 +4377,7 @@
       "day": 20,
       "date": "2025-09-20T00:00:00.000Z"
     },
-    "score": 9.6
+    "score": 9.7
   },
   {
     "id": 393075278,
@@ -4618,5 +4618,35 @@
       "date": "2025-12-26T00:00:00.000Z"
     },
     "score": 8.5
+  },
+  {
+    "id": 456410935,
+    "status": "COMPLETED",
+    "progress": 74,
+    "media": {
+      "title": {
+        "english": "Monster",
+        "userPreferred": "MONSTER"
+      },
+      "coverImage": {
+        "color": null,
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19-gtMC64182sm4.jpg"
+      },
+      "episodes": 74,
+      "siteUrl": "https://anilist.co/anime/19"
+    },
+    "startedAt": {
+      "year": 2025,
+      "month": 12,
+      "day": 26,
+      "date": "2025-12-26T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2026,
+      "month": 1,
+      "day": 28,
+      "date": "2026-01-28T00:00:00.000Z"
+    },
+    "score": 9.5
   }
 ]
