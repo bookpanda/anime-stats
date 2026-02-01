@@ -86,17 +86,17 @@ svg {
             <div class="time-box weekday" />
         </div>
         <div class="col">
-	<div class="time-box"><p class="time-legend">Jan</p></div>
+	<div class="time-box"><p class="time-legend">Feb</p></div>
 	<div class="box invisible" />
 	<div class="box invisible" />
 	<div class="box invisible" />
 	<div class="box invisible" />
 	<div class="box invisible" />
-	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:0.5741379310344829;"/>
+	<div class="box invisible" />
 	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:0.5741379310344829;"/>
 </div>
 <div class="col">
-	<div class="time-box"><p class="time-legend">Feb</p></div>
+	<div class="time-box"></div>
 	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:0.5741379310344829;"/>
 	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:0.5741379310344829;"/>
 	<div class="box" style="background-color:rgb(49, 161, 78); border:1px solid rgb(44.1, 144.9, 70.2); opacity:0.5741379310344829;"/>
@@ -576,7 +576,7 @@ svg {
 	<div class="box" style="background-color:rgb(40, 135, 67); border:1px solid rgb(36, 121.5, 60.300000000000004); opacity:0.9794117647058824;"/>
 </div>
 <div class="col">
-	<div class="time-box"></div>
+	<div class="time-box"><p class="time-legend">Jan</p></div>
 	<div class="box" style="background-color:rgb(40, 135, 67); border:1px solid rgb(36, 121.5, 60.300000000000004); opacity:0.9794117647058824;"/>
 	<div class="box" style="background-color:rgb(40, 135, 67); border:1px solid rgb(36, 121.5, 60.300000000000004); opacity:0.9794117647058824;"/>
 	<div class="box" style="background-color:rgb(40, 135, 67); border:1px solid rgb(36, 121.5, 60.300000000000004); opacity:0.9794117647058824;"/>
@@ -613,6 +613,10 @@ svg {
 	<div class="box" style="background-color:rgb(40, 135, 67); border:1px solid rgb(36, 121.5, 60.300000000000004); opacity:0.9794117647058824;"/>
 	<div class="box" style="background-color:rgb(102, 197, 123); border:1px solid rgb(91.8, 177.3, 110.7); opacity:0.9;"/>
 	<div class="box empty" />
+	<div class="box empty" />
+</div>
+<div class="col">
+	<div class="time-box"></div>
 	<div class="box empty" />
 </div>
 
