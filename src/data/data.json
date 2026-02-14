@@ -4738,5 +4738,35 @@
       "date": "2026-02-10T00:00:00.000Z"
     },
     "score": 8.5
+  },
+  {
+    "id": 506247209,
+    "status": "COMPLETED",
+    "progress": 13,
+    "media": {
+      "title": {
+        "english": "Umamusume: Cinderella Gray",
+        "userPreferred": "Uma Musume: Cinderella Gray"
+      },
+      "coverImage": {
+        "color": "#1aa1d6",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180516-lebpoKLkw6E3.jpg"
+      },
+      "episodes": 13,
+      "siteUrl": "https://anilist.co/anime/180516"
+    },
+    "startedAt": {
+      "year": 2026,
+      "month": 2,
+      "day": 11,
+      "date": "2026-02-11T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2026,
+      "month": 2,
+      "day": 14,
+      "date": "2026-02-14T00:00:00.000Z"
+    },
+    "score": 8.7
   }
 ]
