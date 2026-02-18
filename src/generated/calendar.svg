@@ -88,7 +88,7 @@ svg {
         <div class="col">
 	<div class="time-box"><p class="time-legend">Feb</p></div>
 	<div class="box invisible" />
-	<div class="box empty" />
+	<div class="box invisible" />
 	<div class="box empty" />
 	<div class="box empty" />
 	<div class="box empty" />
@@ -607,6 +607,7 @@ svg {
 </div>
 <div class="col">
 	<div class="time-box"></div>
+	<div class="box empty" />
 	<div class="box empty" />
 	<div class="box empty" />
 	<div class="box empty" />
