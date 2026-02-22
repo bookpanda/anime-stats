@@ -4767,7 +4767,7 @@
       "day": 14,
       "date": "2026-02-14T00:00:00.000Z"
     },
-    "score": 8.7
+    "score": 9
   },
   {
     "id": 513449162,
@@ -4798,5 +4798,65 @@
       "date": "2026-02-19T00:00:00.000Z"
     },
     "score": 9
+  },
+  {
+    "id": 513449056,
+    "status": "COMPLETED",
+    "progress": 4,
+    "media": {
+      "title": {
+        "english": "Umamusume: Pretty Derby - Road to the Top",
+        "userPreferred": "Uma Musume: Pretty Derby - ROAD TO THE TOP"
+      },
+      "coverImage": {
+        "color": "#5086fe",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx148370-db0LjJfaOCg9.jpg"
+      },
+      "episodes": 4,
+      "siteUrl": "https://anilist.co/anime/148370"
+    },
+    "startedAt": {
+      "year": 2026,
+      "month": 2,
+      "day": 20,
+      "date": "2026-02-20T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2026,
+      "month": 2,
+      "day": 21,
+      "date": "2026-02-21T00:00:00.000Z"
+    },
+    "score": 7.8
+  },
+  {
+    "id": 513448108,
+    "status": "COMPLETED",
+    "progress": 1,
+    "media": {
+      "title": {
+        "english": "Umamusume: Pretty Derby - Beginning of a New Era",
+        "userPreferred": "Uma Musume: Pretty Derby - Shin Jidai no Tobira"
+      },
+      "coverImage": {
+        "color": "#f1bb43",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172420-4LjhmwpNMHti.jpg"
+      },
+      "episodes": 1,
+      "siteUrl": "https://anilist.co/anime/172420"
+    },
+    "startedAt": {
+      "year": 2026,
+      "month": 2,
+      "day": 21,
+      "date": "2026-02-21T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2026,
+      "month": 2,
+      "day": 22,
+      "date": "2026-02-22T00:00:00.000Z"
+    },
+    "score": 8.4
   }
 ]
