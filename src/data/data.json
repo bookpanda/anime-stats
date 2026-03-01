@@ -4858,5 +4858,35 @@
       "date": "2026-02-22T00:00:00.000Z"
     },
     "score": 8.4
+  },
+  {
+    "id": 536888158,
+    "status": "COMPLETED",
+    "progress": 13,
+    "media": {
+      "title": {
+        "english": "Umamusume: Pretty Derby Season 3",
+        "userPreferred": "Uma Musume: Pretty Derby Season 3"
+      },
+      "coverImage": {
+        "color": "#f1436b",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx156632-QnKMOaso3n2y.jpg"
+      },
+      "episodes": 13,
+      "siteUrl": "https://anilist.co/anime/156632"
+    },
+    "startedAt": {
+      "year": 2026,
+      "month": 2,
+      "day": 23,
+      "date": "2026-02-23T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2026,
+      "month": 3,
+      "day": 1,
+      "date": "2026-03-01T00:00:00.000Z"
+    },
+    "score": 8
   }
 ]
