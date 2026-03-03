@@ -4918,5 +4918,35 @@
       "date": "2026-03-02T00:00:00.000Z"
     },
     "score": 8
+  },
+  {
+    "id": 444501530,
+    "status": "COMPLETED",
+    "progress": 1,
+    "media": {
+      "title": {
+        "english": "Kizumonogatari Part 2: Nekketsu",
+        "userPreferred": "Kizumonogatari II: Nekketsu-hen"
+      },
+      "coverImage": {
+        "color": "#28aee4",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21399-VTAdAqc8u5AE.png"
+      },
+      "episodes": 1,
+      "siteUrl": "https://anilist.co/anime/21399"
+    },
+    "startedAt": {
+      "year": 2026,
+      "month": 3,
+      "day": 3,
+      "date": "2026-03-03T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2026,
+      "month": 3,
+      "day": 3,
+      "date": "2026-03-03T00:00:00.000Z"
+    },
+    "score": 8.1
   }
 ]
