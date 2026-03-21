@@ -91,7 +91,7 @@ svg {
 	<div class="box invisible" />
 	<div class="box invisible" />
 	<div class="box invisible" />
-	<div class="box empty" />
+	<div class="box invisible" />
 	<div class="box empty" />
 	<div class="box empty" />
 </div>
@@ -607,6 +607,7 @@ svg {
 </div>
 <div class="col">
 	<div class="time-box"></div>
+	<div class="box empty" />
 	<div class="box empty" />
 	<div class="box empty" />
 	<div class="box empty" />
