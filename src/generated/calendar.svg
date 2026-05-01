@@ -86,17 +86,17 @@ svg {
             <div class="time-box weekday" />
         </div>
         <div class="col">
-	<div class="time-box"><p class="time-legend">Apr</p></div>
+	<div class="time-box"><p class="time-legend">May</p></div>
 	<div class="box invisible" />
 	<div class="box invisible" />
 	<div class="box invisible" />
-	<div class="box empty" />
+	<div class="box invisible" />
 	<div class="box empty" />
 	<div class="box empty" />
 	<div class="box empty" />
 </div>
 <div class="col">
-	<div class="time-box"><p class="time-legend">May</p></div>
+	<div class="time-box"></div>
 	<div class="box empty" />
 	<div class="box empty" />
 	<div class="box empty" />
@@ -576,7 +576,7 @@ svg {
 	<div class="box empty" />
 </div>
 <div class="col">
-	<div class="time-box"></div>
+	<div class="time-box"><p class="time-legend">Apr</p></div>
 	<div class="box empty" />
 	<div class="box empty" />
 	<div class="box empty" />
@@ -607,6 +607,7 @@ svg {
 </div>
 <div class="col">
 	<div class="time-box"></div>
+	<div class="box empty" />
 	<div class="box empty" />
 	<div class="box empty" />
 	<div class="box empty" />
