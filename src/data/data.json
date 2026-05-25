@@ -5038,5 +5038,35 @@
       "date": "2026-05-18T00:00:00.000Z"
     },
     "score": 8
+  },
+  {
+    "id": 380776739,
+    "status": "COMPLETED",
+    "progress": 12,
+    "media": {
+      "title": {
+        "english": "JUJUTSU KAISEN Season 3: The Culling Game Part 1",
+        "userPreferred": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen"
+      },
+      "coverImage": {
+        "color": "#78aee4",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172463-LnXqHzt74SJL.jpg"
+      },
+      "episodes": 12,
+      "siteUrl": "https://anilist.co/anime/172463"
+    },
+    "startedAt": {
+      "year": 2026,
+      "month": 5,
+      "day": 18,
+      "date": "2026-05-18T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2026,
+      "month": 5,
+      "day": 25,
+      "date": "2026-05-25T00:00:00.000Z"
+    },
+    "score": 9.2
   }
 ]
