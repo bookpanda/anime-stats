@@ -89,7 +89,7 @@ svg {
 	<div class="time-box"><p class="time-legend">May</p></div>
 	<div class="box invisible" />
 	<div class="box invisible" />
-	<div class="box empty" />
+	<div class="box invisible" />
 	<div class="box empty" />
 	<div class="box empty" />
 	<div class="box empty" />
@@ -609,6 +609,7 @@ svg {
 	<div class="time-box"></div>
 	<div class="box" style="background-color:rgb(45, 150, 73); border:1px solid rgb(40.5, 135, 65.7); opacity:0.675;"/>
 	<div class="box" style="background-color:rgb(45, 150, 73); border:1px solid rgb(40.5, 135, 65.7); opacity:0.675;"/>
+	<div class="box empty" />
 	<div class="box empty" />
 	<div class="box empty" />
 </div>
