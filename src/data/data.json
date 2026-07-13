@@ -5218,5 +5218,35 @@
       "date": "2026-07-03T00:00:00.000Z"
     },
     "score": 9.4
+  },
+  {
+    "id": 524615017,
+    "status": "COMPLETED",
+    "progress": 16,
+    "media": {
+      "title": {
+        "english": "Classroom of the Elite 4th Season: Second Year, First Semester",
+        "userPreferred": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season 2-nensei-hen Ichi Gakki"
+      },
+      "coverImage": {
+        "color": "#aec9e4",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180745-OEZaBeEdWozn.png"
+      },
+      "episodes": 16,
+      "siteUrl": "https://anilist.co/anime/180745"
+    },
+    "startedAt": {
+      "year": 2026,
+      "month": 7,
+      "day": 6,
+      "date": "2026-07-06T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2026,
+      "month": 7,
+      "day": 13,
+      "date": "2026-07-13T00:00:00.000Z"
+    },
+    "score": 8.4
   }
 ]
