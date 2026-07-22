@@ -420,6 +420,36 @@
     "score": 6.8
   },
   {
+    "id": 312103756,
+    "status": "COMPLETED",
+    "progress": 12,
+    "media": {
+      "title": {
+        "english": "Komi Can’t Communicate",
+        "userPreferred": "Komi-san wa, Komyushou desu."
+      },
+      "coverImage": {
+        "color": null,
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx133965-9TZBS4m4yvED.png"
+      },
+      "episodes": 12,
+      "siteUrl": "https://anilist.co/anime/133965"
+    },
+    "startedAt": {
+      "year": 2022,
+      "month": 10,
+      "day": 13,
+      "date": "2022-10-13T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2022,
+      "month": 10,
+      "day": 16,
+      "date": "2022-10-16T00:00:00.000Z"
+    },
+    "score": 8.3
+  },
+  {
     "id": 312103745,
     "status": "COMPLETED",
     "progress": 12,
