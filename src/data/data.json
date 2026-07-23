@@ -19,13 +19,13 @@
       "year": 2022,
       "month": 7,
       "day": 1,
-      "date": "2022-06-30T17:00:00.000Z"
+      "date": "2022-07-01T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2022,
       "month": 7,
       "day": 1,
-      "date": "2022-06-30T17:00:00.000Z"
+      "date": "2022-07-01T00:00:00.000Z"
     },
     "score": 7.4
   },
@@ -49,13 +49,13 @@
       "year": 2022,
       "month": 7,
       "day": 4,
-      "date": "2022-07-03T17:00:00.000Z"
+      "date": "2022-07-04T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2022,
       "month": 7,
       "day": 4,
-      "date": "2022-07-03T17:00:00.000Z"
+      "date": "2022-07-04T00:00:00.000Z"
     },
     "score": 6.8
   },
@@ -79,13 +79,13 @@
       "year": 2022,
       "month": 7,
       "day": 7,
-      "date": "2022-07-06T17:00:00.000Z"
+      "date": "2022-07-07T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2022,
       "month": 7,
       "day": 8,
-      "date": "2022-07-07T17:00:00.000Z"
+      "date": "2022-07-08T00:00:00.000Z"
     },
     "score": 7
   },
@@ -100,7 +100,7 @@
       },
       "coverImage": {
         "color": "#c9f1f1",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140960-vN39AmOWrVB5.jpg"
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140960-Kb6R5nYQfjmP.jpg"
       },
       "episodes": 12,
       "siteUrl": "https://anilist.co/anime/140960"
@@ -109,13 +109,13 @@
       "year": 2022,
       "month": 7,
       "day": 12,
-      "date": "2022-07-11T17:00:00.000Z"
+      "date": "2022-07-12T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2022,
       "month": 7,
       "day": 18,
-      "date": "2022-07-17T17:00:00.000Z"
+      "date": "2022-07-18T00:00:00.000Z"
     },
     "score": 8.2
   },
@@ -130,7 +130,7 @@
       },
       "coverImage": {
         "color": "#f1a143",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16498-73IhOXpJZiMF.jpg"
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16498-buvcRTBx4NSm.jpg"
       },
       "episodes": 25,
       "siteUrl": "https://anilist.co/anime/16498"
@@ -139,13 +139,13 @@
       "year": 2022,
       "month": 7,
       "day": 20,
-      "date": "2022-07-19T17:00:00.000Z"
+      "date": "2022-07-20T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2022,
       "month": 7,
       "day": 26,
-      "date": "2022-07-25T17:00:00.000Z"
+      "date": "2022-07-26T00:00:00.000Z"
     },
     "score": 8.5
   },
@@ -156,10 +156,10 @@
     "media": {
       "title": {
         "english": "Attack on Titan Season 2",
-        "userPreferred": "Shingeki no Kyojin 2"
+        "userPreferred": "Shingeki no Kyojin Season 2"
       },
       "coverImage": {
-        "color": "#6AA66F",
+        "color": "#e47850",
         "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20958-HuFJyr54Mmir.jpg"
       },
       "episodes": 12,
@@ -169,13 +169,13 @@
       "year": 2022,
       "month": 7,
       "day": 26,
-      "date": "2022-07-25T17:00:00.000Z"
+      "date": "2022-07-26T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2022,
       "month": 7,
       "day": 29,
-      "date": "2022-07-28T17:00:00.000Z"
+      "date": "2022-07-29T00:00:00.000Z"
     },
     "score": 8.5
   },
@@ -186,7 +186,7 @@
     "media": {
       "title": {
         "english": "Attack on Titan Season 3",
-        "userPreferred": "Shingeki no Kyojin 3"
+        "userPreferred": "Shingeki no Kyojin Season 3"
       },
       "coverImage": {
         "color": "#4386e4",
@@ -199,13 +199,13 @@
       "year": 2022,
       "month": 7,
       "day": 29,
-      "date": "2022-07-28T17:00:00.000Z"
+      "date": "2022-07-29T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2022,
       "month": 8,
       "day": 3,
-      "date": "2022-08-02T17:00:00.000Z"
+      "date": "2022-08-03T00:00:00.000Z"
     },
     "score": 8.8
   },
@@ -216,11 +216,11 @@
     "media": {
       "title": {
         "english": "Attack on Titan Season 3 Part 2",
-        "userPreferred": "Shingeki no Kyojin 3 Part 2"
+        "userPreferred": "Shingeki no Kyojin Season 3 Part 2"
       },
       "coverImage": {
-        "color": "#fea150",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104578-LaZYFkmhinfB.jpg"
+        "color": "#e49350",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx104578-k61nx3LPjvgd.jpg"
       },
       "episodes": 10,
       "siteUrl": "https://anilist.co/anime/104578"
@@ -229,13 +229,13 @@
       "year": 2022,
       "month": 8,
       "day": 3,
-      "date": "2022-08-02T17:00:00.000Z"
+      "date": "2022-08-03T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2022,
       "month": 8,
       "day": 6,
-      "date": "2022-08-05T17:00:00.000Z"
+      "date": "2022-08-06T00:00:00.000Z"
     },
     "score": 9.8
   },
@@ -250,7 +250,7 @@
       },
       "coverImage": {
         "color": "#ae6b35",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110277-8KkJy3Cvj9aO.jpg"
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx110277-sKUNXAsWMNFw.jpg"
       },
       "episodes": 16,
       "siteUrl": "https://anilist.co/anime/110277"
@@ -259,13 +259,13 @@
       "year": 2022,
       "month": 8,
       "day": 6,
-      "date": "2022-08-05T17:00:00.000Z"
+      "date": "2022-08-06T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2022,
       "month": 8,
       "day": 11,
-      "date": "2022-08-10T17:00:00.000Z"
+      "date": "2022-08-11T00:00:00.000Z"
     },
     "score": 9.3
   },
@@ -279,8 +279,8 @@
         "userPreferred": "Shingeki no Kyojin: The Final Season Part 2"
       },
       "coverImage": {
-        "color": "#35a1f1",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131681-wY63AzNuMRoO.jpg"
+        "color": "#35a1e4",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131681-5ooUqvqNtee1.jpg"
       },
       "episodes": 12,
       "siteUrl": "https://anilist.co/anime/131681"
@@ -289,13 +289,13 @@
       "year": 2022,
       "month": 8,
       "day": 11,
-      "date": "2022-08-10T17:00:00.000Z"
+      "date": "2022-08-11T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2022,
       "month": 8,
       "day": 13,
-      "date": "2022-08-12T17:00:00.000Z"
+      "date": "2022-08-13T00:00:00.000Z"
     },
     "score": 9.2
   },
@@ -319,13 +319,13 @@
       "year": 2022,
       "month": 10,
       "day": 4,
-      "date": "2022-10-03T17:00:00.000Z"
+      "date": "2022-10-04T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2022,
       "month": 10,
       "day": 4,
-      "date": "2022-10-03T17:00:00.000Z"
+      "date": "2022-10-04T00:00:00.000Z"
     },
     "score": 8.1
   },
@@ -340,7 +340,7 @@
       },
       "coverImage": {
         "color": "#0da1e4",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21519-fPhvy69vnQqS.png"
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21519-SUo3ZQuCbYhJ.png"
       },
       "episodes": 1,
       "siteUrl": "https://anilist.co/anime/21519"
@@ -349,13 +349,13 @@
       "year": 2022,
       "month": 10,
       "day": 11,
-      "date": "2022-10-10T17:00:00.000Z"
+      "date": "2022-10-11T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2022,
       "month": 10,
       "day": 11,
-      "date": "2022-10-10T17:00:00.000Z"
+      "date": "2022-10-11T00:00:00.000Z"
     },
     "score": 9.3
   },
@@ -370,7 +370,7 @@
       },
       "coverImage": {
         "color": "#5dbbe4",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20954-UMb6Kl7ZL8Ke.jpg"
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20954-sYRfE5jQRtSB.jpg"
       },
       "episodes": 1,
       "siteUrl": "https://anilist.co/anime/20954"
@@ -379,13 +379,13 @@
       "year": 2022,
       "month": 10,
       "day": 11,
-      "date": "2022-10-10T17:00:00.000Z"
+      "date": "2022-10-11T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2022,
       "month": 10,
       "day": 11,
-      "date": "2022-10-10T17:00:00.000Z"
+      "date": "2022-10-11T00:00:00.000Z"
     },
     "score": 8.7
   },
@@ -399,8 +399,8 @@
         "userPreferred": "Kotonoha no Niwa"
       },
       "coverImage": {
-        "color": "#93e45d",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16782-1AekGIzlPy8a.jpg"
+        "color": "#93e450",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16782-qpFGk18UqaHn.jpg"
       },
       "episodes": 1,
       "siteUrl": "https://anilist.co/anime/16782"
@@ -409,13 +409,13 @@
       "year": 2022,
       "month": 10,
       "day": 12,
-      "date": "2022-10-11T17:00:00.000Z"
+      "date": "2022-10-12T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2022,
       "month": 10,
       "day": 13,
-      "date": "2022-10-12T17:00:00.000Z"
+      "date": "2022-10-13T00:00:00.000Z"
     },
     "score": 6.8
   },
@@ -439,13 +439,13 @@
       "year": 2022,
       "month": 10,
       "day": 13,
-      "date": "2022-10-12T17:00:00.000Z"
+      "date": "2022-10-13T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2022,
       "month": 10,
       "day": 16,
-      "date": "2022-10-15T17:00:00.000Z"
+      "date": "2022-10-16T00:00:00.000Z"
     },
     "score": 8.3
   },
@@ -469,13 +469,13 @@
       "year": 2022,
       "month": 10,
       "day": 16,
-      "date": "2022-10-15T17:00:00.000Z"
+      "date": "2022-10-16T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2022,
       "month": 10,
       "day": 17,
-      "date": "2022-10-16T17:00:00.000Z"
+      "date": "2022-10-17T00:00:00.000Z"
     },
     "score": 8.3
   },
@@ -489,8 +489,8 @@
         "userPreferred": "Ansatsu Kyoushitsu"
       },
       "coverImage": {
-        "color": "#e4d650",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20755-q0b3Ok1cAbPd.jpg"
+        "color": "#f1e45d",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20755-dWrhs569YGUO.jpg"
       },
       "episodes": 22,
       "siteUrl": "https://anilist.co/anime/20755"
@@ -499,13 +499,13 @@
       "year": 2022,
       "month": 10,
       "day": 18,
-      "date": "2022-10-17T17:00:00.000Z"
+      "date": "2022-10-18T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2022,
       "month": 10,
       "day": 25,
-      "date": "2022-10-24T17:00:00.000Z"
+      "date": "2022-10-25T00:00:00.000Z"
     },
     "score": 8.2
   },
@@ -515,12 +515,12 @@
     "progress": 25,
     "media": {
       "title": {
-        "english": "Assassination Classroom 2",
-        "userPreferred": "Ansatsu Kyoushitsu 2"
+        "english": "Assassination Classroom Second Season",
+        "userPreferred": "Ansatsu Kyoushitsu 2nd Season"
       },
       "coverImage": {
-        "color": "#30CC22",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21170-aDHIDkp1L2jC.jpg"
+        "color": "#d6c91a",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21170-kbcfTTZGSaFt.jpg"
       },
       "episodes": 25,
       "siteUrl": "https://anilist.co/anime/21170"
@@ -529,13 +529,13 @@
       "year": 2022,
       "month": 10,
       "day": 25,
-      "date": "2022-10-24T17:00:00.000Z"
+      "date": "2022-10-25T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2022,
       "month": 11,
       "day": 4,
-      "date": "2022-11-03T17:00:00.000Z"
+      "date": "2022-11-04T00:00:00.000Z"
     },
     "score": 8.5
   },
@@ -550,7 +550,7 @@
       },
       "coverImage": {
         "color": "#e46b50",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx32-PMmJBerdDSma.jpg"
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx32-5JYsv0wc122I.jpg"
       },
       "episodes": 1,
       "siteUrl": "https://anilist.co/anime/32"
@@ -559,13 +559,13 @@
       "year": 2022,
       "month": 11,
       "day": 11,
-      "date": "2022-11-10T17:00:00.000Z"
+      "date": "2022-11-11T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2022,
       "month": 11,
       "day": 11,
-      "date": "2022-11-10T17:00:00.000Z"
+      "date": "2022-11-11T00:00:00.000Z"
     },
     "score": 6.2
   },
@@ -579,8 +579,8 @@
         "userPreferred": "Shin Seiki Evangelion"
       },
       "coverImage": {
-        "color": "#e4865d",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx30-wmNoX3m2qTzz.jpg"
+        "color": "#f17843",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx30-AI1zr74Dh4ye.jpg"
       },
       "episodes": 26,
       "siteUrl": "https://anilist.co/anime/30"
@@ -589,13 +589,13 @@
       "year": 2022,
       "month": 11,
       "day": 5,
-      "date": "2022-11-04T17:00:00.000Z"
+      "date": "2022-11-05T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2022,
       "month": 11,
       "day": 11,
-      "date": "2022-11-10T17:00:00.000Z"
+      "date": "2022-11-11T00:00:00.000Z"
     },
     "score": 5.5
   },
@@ -609,7 +609,7 @@
         "userPreferred": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e"
       },
       "coverImage": {
-        "color": "#aee493",
+        "color": "#bbf1a1",
         "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98659-WNyPLIZDpGGY.jpg"
       },
       "episodes": 12,
@@ -619,13 +619,13 @@
       "year": 2022,
       "month": 11,
       "day": 11,
-      "date": "2022-11-10T17:00:00.000Z"
+      "date": "2022-11-11T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2022,
       "month": 11,
       "day": 14,
-      "date": "2022-11-13T17:00:00.000Z"
+      "date": "2022-11-14T00:00:00.000Z"
     },
     "score": 8.2
   },
@@ -649,13 +649,13 @@
       "year": 2022,
       "month": 11,
       "day": 14,
-      "date": "2022-11-13T17:00:00.000Z"
+      "date": "2022-11-14T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2022,
       "month": 11,
       "day": 15,
-      "date": "2022-11-14T17:00:00.000Z"
+      "date": "2022-11-15T00:00:00.000Z"
     },
     "score": 8.3
   },
@@ -670,7 +670,7 @@
       },
       "coverImage": {
         "color": "#e45086",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101921-VvdGQy1ZySYf.jpg"
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101921-ufrjLzhSz7L1.jpg"
       },
       "episodes": 12,
       "siteUrl": "https://anilist.co/anime/101921"
@@ -679,13 +679,13 @@
       "year": 2022,
       "month": 11,
       "day": 15,
-      "date": "2022-11-14T17:00:00.000Z"
+      "date": "2022-11-15T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2022,
       "month": 11,
       "day": 18,
-      "date": "2022-11-17T17:00:00.000Z"
+      "date": "2022-11-18T00:00:00.000Z"
     },
     "score": 8.5
   },
@@ -709,13 +709,13 @@
       "year": 2022,
       "month": 11,
       "day": 18,
-      "date": "2022-11-17T17:00:00.000Z"
+      "date": "2022-11-18T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2022,
       "month": 11,
       "day": 18,
-      "date": "2022-11-17T17:00:00.000Z"
+      "date": "2022-11-18T00:00:00.000Z"
     },
     "score": 7.9
   },
@@ -729,7 +729,7 @@
         "userPreferred": "Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen"
       },
       "coverImage": {
-        "color": "#DAD797",
+        "color": "#50bbe4",
         "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx112641-zoGC8d6FaPXU.jpg"
       },
       "episodes": 12,
@@ -739,13 +739,13 @@
       "year": 2022,
       "month": 11,
       "day": 18,
-      "date": "2022-11-17T17:00:00.000Z"
+      "date": "2022-11-18T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2022,
       "month": 11,
       "day": 21,
-      "date": "2022-11-20T17:00:00.000Z"
+      "date": "2022-11-21T00:00:00.000Z"
     },
     "score": 8.7
   },
@@ -760,7 +760,7 @@
       },
       "coverImage": {
         "color": "#d6f1a1",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx125367-vV8WqtLQpT2J.png"
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx125367-1yuq9NFcQuLI.png"
       },
       "episodes": 13,
       "siteUrl": "https://anilist.co/anime/125367"
@@ -769,13 +769,13 @@
       "year": 2022,
       "month": 11,
       "day": 21,
-      "date": "2022-11-20T17:00:00.000Z"
+      "date": "2022-11-21T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2022,
       "month": 11,
       "day": 23,
-      "date": "2022-11-22T17:00:00.000Z"
+      "date": "2022-11-23T00:00:00.000Z"
     },
     "score": 9
   },
@@ -789,8 +789,8 @@
         "userPreferred": "No Game No Life"
       },
       "coverImage": {
-        "color": "#EB7CED",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx19815-bIo51RMWWhLv.jpg"
+        "color": "#f1a135",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b19815-sEOQ9yQaPKlk.jpg"
       },
       "episodes": 12,
       "siteUrl": "https://anilist.co/anime/19815"
@@ -799,15 +799,15 @@
       "year": 2022,
       "month": 11,
       "day": 24,
-      "date": "2022-11-23T17:00:00.000Z"
+      "date": "2022-11-24T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2022,
       "month": 11,
       "day": 27,
-      "date": "2022-11-26T17:00:00.000Z"
+      "date": "2022-11-27T00:00:00.000Z"
     },
-    "score": 7.9
+    "score": 8.3
   },
   {
     "id": 312106266,
@@ -820,7 +820,7 @@
       },
       "coverImage": {
         "color": "#5dc9f1",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx124080-h8EPH92nyRfS.jpg"
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx124080-3i22mRVPBS0T.jpg"
       },
       "episodes": 13,
       "siteUrl": "https://anilist.co/anime/124080"
@@ -829,13 +829,13 @@
       "year": 2022,
       "month": 11,
       "day": 27,
-      "date": "2022-11-26T17:00:00.000Z"
+      "date": "2022-11-27T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2022,
       "month": 11,
       "day": 30,
-      "date": "2022-11-29T17:00:00.000Z"
+      "date": "2022-11-30T00:00:00.000Z"
     },
     "score": 7.4
   },
@@ -849,8 +849,8 @@
         "userPreferred": "Sword Art Online"
       },
       "coverImage": {
-        "color": "#5DC0E4",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx11757-Q9P2zjCPICq5.jpg"
+        "color": "#e4bb5d",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11757-SxYDUzdr9rh2.jpg"
       },
       "episodes": 25,
       "siteUrl": "https://anilist.co/anime/11757"
@@ -859,13 +859,13 @@
       "year": 2022,
       "month": 11,
       "day": 30,
-      "date": "2022-11-29T17:00:00.000Z"
+      "date": "2022-11-30T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2022,
       "month": 12,
       "day": 5,
-      "date": "2022-12-04T17:00:00.000Z"
+      "date": "2022-12-05T00:00:00.000Z"
     },
     "score": 7
   },
@@ -889,13 +889,13 @@
       "year": 2022,
       "month": 12,
       "day": 5,
-      "date": "2022-12-04T17:00:00.000Z"
+      "date": "2022-12-05T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2022,
       "month": 12,
       "day": 9,
-      "date": "2022-12-08T17:00:00.000Z"
+      "date": "2022-12-09T00:00:00.000Z"
     },
     "score": 6.9
   },
@@ -919,13 +919,13 @@
       "year": 2022,
       "month": 12,
       "day": 10,
-      "date": "2022-12-09T17:00:00.000Z"
+      "date": "2022-12-10T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2022,
       "month": 12,
       "day": 15,
-      "date": "2022-12-14T17:00:00.000Z"
+      "date": "2022-12-15T00:00:00.000Z"
     },
     "score": 8
   },
@@ -949,13 +949,13 @@
       "year": 2022,
       "month": 12,
       "day": 18,
-      "date": "2022-12-17T17:00:00.000Z"
+      "date": "2022-12-18T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2022,
       "month": 12,
       "day": 18,
-      "date": "2022-12-17T17:00:00.000Z"
+      "date": "2022-12-18T00:00:00.000Z"
     },
     "score": 6.6
   },
@@ -979,13 +979,13 @@
       "year": 2022,
       "month": 12,
       "day": 15,
-      "date": "2022-12-14T17:00:00.000Z"
+      "date": "2022-12-15T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2022,
       "month": 12,
       "day": 19,
-      "date": "2022-12-18T17:00:00.000Z"
+      "date": "2022-12-19T00:00:00.000Z"
     },
     "score": 7.9
   },
@@ -1009,13 +1009,13 @@
       "year": 2022,
       "month": 12,
       "day": 19,
-      "date": "2022-12-18T17:00:00.000Z"
+      "date": "2022-12-19T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2022,
       "month": 12,
       "day": 19,
-      "date": "2022-12-18T17:00:00.000Z"
+      "date": "2022-12-19T00:00:00.000Z"
     },
     "score": 6.4
   },
@@ -1039,13 +1039,13 @@
       "year": 2022,
       "month": 12,
       "day": 19,
-      "date": "2022-12-18T17:00:00.000Z"
+      "date": "2022-12-19T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2022,
       "month": 12,
       "day": 24,
-      "date": "2022-12-23T17:00:00.000Z"
+      "date": "2022-12-24T00:00:00.000Z"
     },
     "score": 7.7
   },
@@ -1069,13 +1069,13 @@
       "year": 2022,
       "month": 12,
       "day": 25,
-      "date": "2022-12-24T17:00:00.000Z"
+      "date": "2022-12-25T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2022,
       "month": 12,
       "day": 27,
-      "date": "2022-12-26T17:00:00.000Z"
+      "date": "2022-12-27T00:00:00.000Z"
     },
     "score": 7.3
   },
@@ -1099,13 +1099,13 @@
       "year": 2022,
       "month": 12,
       "day": 27,
-      "date": "2022-12-26T17:00:00.000Z"
+      "date": "2022-12-27T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2022,
       "month": 12,
       "day": 30,
-      "date": "2022-12-29T17:00:00.000Z"
+      "date": "2022-12-30T00:00:00.000Z"
     },
     "score": 7.5
   },
@@ -1120,7 +1120,7 @@
       },
       "coverImage": {
         "color": "#e4bb50",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130003-OBj8AZKPvnV9.png"
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130003-HTDmeL4RGeJ4.png"
       },
       "episodes": 12,
       "siteUrl": "https://anilist.co/anime/130003"
@@ -1129,13 +1129,13 @@
       "year": 2022,
       "month": 12,
       "day": 30,
-      "date": "2022-12-29T17:00:00.000Z"
+      "date": "2022-12-30T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 1,
       "day": 1,
-      "date": "2022-12-31T17:00:00.000Z"
+      "date": "2023-01-01T00:00:00.000Z"
     },
     "score": 9.1
   },
@@ -1150,7 +1150,7 @@
       },
       "coverImage": {
         "color": "#6b1a1a",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx127230-NuHM32a3VJsb.png"
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx127230-DdP4vAdssLoz.png"
       },
       "episodes": 12,
       "siteUrl": "https://anilist.co/anime/127230"
@@ -1159,13 +1159,13 @@
       "year": 2023,
       "month": 1,
       "day": 2,
-      "date": "2023-01-01T17:00:00.000Z"
+      "date": "2023-01-02T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 1,
       "day": 9,
-      "date": "2023-01-08T17:00:00.000Z"
+      "date": "2023-01-09T00:00:00.000Z"
     },
     "score": 8.7
   },
@@ -1189,13 +1189,13 @@
       "year": 2023,
       "month": 2,
       "day": 3,
-      "date": "2023-02-02T17:00:00.000Z"
+      "date": "2023-02-03T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 2,
       "day": 4,
-      "date": "2023-02-03T17:00:00.000Z"
+      "date": "2023-02-04T00:00:00.000Z"
     },
     "score": 7.6
   },
@@ -1219,13 +1219,13 @@
       "year": 2023,
       "month": 2,
       "day": 4,
-      "date": "2023-02-03T17:00:00.000Z"
+      "date": "2023-02-04T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 2,
       "day": 18,
-      "date": "2023-02-17T17:00:00.000Z"
+      "date": "2023-02-18T00:00:00.000Z"
     },
     "score": 7.8
   },
@@ -1240,7 +1240,7 @@
       },
       "coverImage": {
         "color": "#e45078",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143270-iZOJX2DMUFMC.jpg"
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx143270-rfkyiYXhek5w.jpg"
       },
       "episodes": 13,
       "siteUrl": "https://anilist.co/anime/143270"
@@ -1249,13 +1249,13 @@
       "year": 2023,
       "month": 2,
       "day": 18,
-      "date": "2023-02-17T17:00:00.000Z"
+      "date": "2023-02-18T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 2,
       "day": 24,
-      "date": "2023-02-23T17:00:00.000Z"
+      "date": "2023-02-24T00:00:00.000Z"
     },
     "score": 8.4
   },
@@ -1269,7 +1269,7 @@
         "userPreferred": "Shingeki no Kyojin: The Final Season - Kanketsu-hen Zenpen"
       },
       "coverImage": {
-        "color": "#ffae35",
+        "color": "#f1a128",
         "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146984-GXrLeT6vQqyP.jpg"
       },
       "episodes": 1,
@@ -1279,13 +1279,13 @@
       "year": 2023,
       "month": 3,
       "day": 5,
-      "date": "2023-03-04T17:00:00.000Z"
+      "date": "2023-03-05T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 3,
       "day": 5,
-      "date": "2023-03-04T17:00:00.000Z"
+      "date": "2023-03-05T00:00:00.000Z"
     },
     "score": 8.9
   },
@@ -1299,8 +1299,8 @@
         "userPreferred": "Kono Subarashii Sekai ni Shukufuku wo!"
       },
       "coverImage": {
-        "color": "#5dbbf1",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21202-TfzXuWQf2oLQ.png"
+        "color": "#5daee4",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21202-mPOr80AEjUcZ.png"
       },
       "episodes": 10,
       "siteUrl": "https://anilist.co/anime/21202"
@@ -1309,13 +1309,13 @@
       "year": 2023,
       "month": 3,
       "day": 6,
-      "date": "2023-03-05T17:00:00.000Z"
+      "date": "2023-03-06T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 3,
       "day": 10,
-      "date": "2023-03-09T17:00:00.000Z"
+      "date": "2023-03-10T00:00:00.000Z"
     },
     "score": 8.3
   },
@@ -1339,13 +1339,13 @@
       "year": 2023,
       "month": 3,
       "day": 11,
-      "date": "2023-03-10T17:00:00.000Z"
+      "date": "2023-03-11T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 3,
       "day": 15,
-      "date": "2023-03-14T17:00:00.000Z"
+      "date": "2023-03-15T00:00:00.000Z"
     },
     "score": 8.4
   },
@@ -1359,8 +1359,8 @@
         "userPreferred": "Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu"
       },
       "coverImage": {
-        "color": "#5dbbe4",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx102976-WcNjDFdQbdCv.png"
+        "color": "#50bbe4",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx102976-2Yi5icRbjukO.png"
       },
       "episodes": 1,
       "siteUrl": "https://anilist.co/anime/102976"
@@ -1369,13 +1369,13 @@
       "year": 2023,
       "month": 3,
       "day": 18,
-      "date": "2023-03-17T17:00:00.000Z"
+      "date": "2023-03-18T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 3,
       "day": 18,
-      "date": "2023-03-17T17:00:00.000Z"
+      "date": "2023-03-18T00:00:00.000Z"
     },
     "score": 8.3
   },
@@ -1399,13 +1399,13 @@
       "year": 2023,
       "month": 3,
       "day": 19,
-      "date": "2023-03-18T17:00:00.000Z"
+      "date": "2023-03-19T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 3,
       "day": 19,
-      "date": "2023-03-18T17:00:00.000Z"
+      "date": "2023-03-19T00:00:00.000Z"
     },
     "score": 7.4
   },
@@ -1429,13 +1429,13 @@
       "year": 2023,
       "month": 3,
       "day": 19,
-      "date": "2023-03-18T17:00:00.000Z"
+      "date": "2023-03-19T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 3,
       "day": 19,
-      "date": "2023-03-18T17:00:00.000Z"
+      "date": "2023-03-19T00:00:00.000Z"
     },
     "score": 7.5
   },
@@ -1449,8 +1449,8 @@
         "userPreferred": "Steins;Gate"
       },
       "coverImage": {
-        "color": "#e4a15d",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9253-7pdcVzQSkKxT.jpg"
+        "color": "#ffd6ae",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9253-tIUXF2gfU8Sg.jpg"
       },
       "episodes": 24,
       "siteUrl": "https://anilist.co/anime/9253"
@@ -1459,13 +1459,13 @@
       "year": 2023,
       "month": 3,
       "day": 19,
-      "date": "2023-03-18T17:00:00.000Z"
+      "date": "2023-03-19T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 3,
       "day": 27,
-      "date": "2023-03-26T17:00:00.000Z"
+      "date": "2023-03-27T00:00:00.000Z"
     },
     "score": 9.2
   },
@@ -1489,13 +1489,13 @@
       "year": 2023,
       "month": 2,
       "day": 25,
-      "date": "2023-02-24T17:00:00.000Z"
+      "date": "2023-02-25T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 4,
       "day": 5,
-      "date": "2023-04-04T17:00:00.000Z"
+      "date": "2023-04-05T00:00:00.000Z"
     },
     "score": 7.2
   },
@@ -1505,11 +1505,11 @@
     "progress": 23,
     "media": {
       "title": {
-        "english": null,
+        "english": "Steins;Gate 0",
         "userPreferred": "Steins;Gate 0"
       },
       "coverImage": {
-        "color": "#6b431a",
+        "color": "#f1d6bb",
         "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21127-7ARWZkDXKiiD.jpg"
       },
       "episodes": 23,
@@ -1519,13 +1519,13 @@
       "year": 2023,
       "month": 3,
       "day": 28,
-      "date": "2023-03-27T17:00:00.000Z"
+      "date": "2023-03-28T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 4,
       "day": 6,
-      "date": "2023-04-05T17:00:00.000Z"
+      "date": "2023-04-06T00:00:00.000Z"
     },
     "score": 8.7
   },
@@ -1549,13 +1549,13 @@
       "year": 2023,
       "month": 4,
       "day": 6,
-      "date": "2023-04-05T17:00:00.000Z"
+      "date": "2023-04-06T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 4,
       "day": 6,
-      "date": "2023-04-05T17:00:00.000Z"
+      "date": "2023-04-06T00:00:00.000Z"
     },
     "score": 7.2
   },
@@ -1579,45 +1579,15 @@
       "year": 2023,
       "month": 4,
       "day": 6,
-      "date": "2023-04-05T17:00:00.000Z"
+      "date": "2023-04-06T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 4,
       "day": 7,
-      "date": "2023-04-06T17:00:00.000Z"
+      "date": "2023-04-07T00:00:00.000Z"
     },
     "score": 8.6
-  },
-  {
-    "id": 327657728,
-    "status": "COMPLETED",
-    "progress": 24,
-    "media": {
-      "title": {
-        "english": "Vinland Saga",
-        "userPreferred": "VINLAND SAGA"
-      },
-      "coverImage": {
-        "color": "#e45d50",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101348-msJS8z91mG0P.jpg"
-      },
-      "episodes": 24,
-      "siteUrl": "https://anilist.co/anime/101348"
-    },
-    "startedAt": {
-      "year": 2023,
-      "month": 4,
-      "day": 8,
-      "date": "2023-04-07T17:00:00.000Z"
-    },
-    "completedAt": {
-      "year": 2023,
-      "month": 4,
-      "day": 17,
-      "date": "2023-04-16T17:00:00.000Z"
-    },
-    "score": 9.5
   },
   {
     "id": 334571172,
@@ -1639,13 +1609,13 @@
       "year": 2023,
       "month": 4,
       "day": 19,
-      "date": "2023-04-18T17:00:00.000Z"
+      "date": "2023-04-19T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 4,
       "day": 19,
-      "date": "2023-04-18T17:00:00.000Z"
+      "date": "2023-04-19T00:00:00.000Z"
     },
     "score": 8.2
   },
@@ -1660,7 +1630,7 @@
       },
       "coverImage": {
         "color": "#f1ae5d",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98444-tgu5kWwnBigW.jpg"
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98444-Vzysp1EsrzgD.jpg"
       },
       "episodes": 12,
       "siteUrl": "https://anilist.co/anime/98444"
@@ -1669,13 +1639,13 @@
       "year": 2023,
       "month": 4,
       "day": 17,
-      "date": "2023-04-16T17:00:00.000Z"
+      "date": "2023-04-17T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 4,
       "day": 23,
-      "date": "2023-04-22T17:00:00.000Z"
+      "date": "2023-04-23T00:00:00.000Z"
     },
     "score": 8.1
   },
@@ -1699,13 +1669,13 @@
       "year": 2023,
       "month": 4,
       "day": 24,
-      "date": "2023-04-23T17:00:00.000Z"
+      "date": "2023-04-24T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 4,
       "day": 30,
-      "date": "2023-04-29T17:00:00.000Z"
+      "date": "2023-04-30T00:00:00.000Z"
     },
     "score": 8.3
   },
@@ -1729,13 +1699,13 @@
       "year": 2023,
       "month": 5,
       "day": 1,
-      "date": "2023-04-30T17:00:00.000Z"
+      "date": "2023-05-01T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 5,
       "day": 2,
-      "date": "2023-05-01T17:00:00.000Z"
+      "date": "2023-05-02T00:00:00.000Z"
     },
     "score": 8.3
   },
@@ -1749,8 +1719,8 @@
         "userPreferred": "86: Eighty Six"
       },
       "coverImage": {
-        "color": "#78aee4",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116589-WSpNedJdAH3L.jpg"
+        "color": "#bbd6f1",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx116589-KawXHB6sApFt.jpg"
       },
       "episodes": 11,
       "siteUrl": "https://anilist.co/anime/116589"
@@ -1759,13 +1729,13 @@
       "year": 2023,
       "month": 5,
       "day": 3,
-      "date": "2023-05-02T17:00:00.000Z"
+      "date": "2023-05-03T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 5,
       "day": 10,
-      "date": "2023-05-09T17:00:00.000Z"
+      "date": "2023-05-10T00:00:00.000Z"
     },
     "score": 8.3
   },
@@ -1780,7 +1750,7 @@
       },
       "coverImage": {
         "color": "#e4501a",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131586-k0X2kVpUOkqX.jpg"
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131586-JhC0wcBi09EZ.jpg"
       },
       "episodes": 12,
       "siteUrl": "https://anilist.co/anime/131586"
@@ -1789,15 +1759,15 @@
       "year": 2023,
       "month": 5,
       "day": 10,
-      "date": "2023-05-09T17:00:00.000Z"
+      "date": "2023-05-10T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 5,
       "day": 17,
-      "date": "2023-05-16T17:00:00.000Z"
+      "date": "2023-05-17T00:00:00.000Z"
     },
-    "score": 8.6
+    "score": 8.8
   },
   {
     "id": 324619049,
@@ -1809,7 +1779,7 @@
         "userPreferred": "Kimetsu no Yaiba"
       },
       "coverImage": {
-        "color": "#e4bba1",
+        "color": "#f1c9ae",
         "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101922-WBsBl0ClmgYL.jpg"
       },
       "episodes": 26,
@@ -1819,13 +1789,13 @@
       "year": 2023,
       "month": 5,
       "day": 16,
-      "date": "2023-05-15T17:00:00.000Z"
+      "date": "2023-05-16T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 6,
       "day": 3,
-      "date": "2023-06-02T17:00:00.000Z"
+      "date": "2023-06-03T00:00:00.000Z"
     },
     "score": 8.3
   },
@@ -1849,13 +1819,13 @@
       "year": 2023,
       "month": 6,
       "day": 3,
-      "date": "2023-06-02T17:00:00.000Z"
+      "date": "2023-06-03T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 6,
       "day": 6,
-      "date": "2023-06-05T17:00:00.000Z"
+      "date": "2023-06-06T00:00:00.000Z"
     },
     "score": 8.4
   },
@@ -1879,13 +1849,13 @@
       "year": 2023,
       "month": 6,
       "day": 7,
-      "date": "2023-06-06T17:00:00.000Z"
+      "date": "2023-06-07T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 6,
       "day": 14,
-      "date": "2023-06-13T17:00:00.000Z"
+      "date": "2023-06-14T00:00:00.000Z"
     },
     "score": 8.6
   },
@@ -1909,13 +1879,13 @@
       "year": 2023,
       "month": 6,
       "day": 16,
-      "date": "2023-06-15T17:00:00.000Z"
+      "date": "2023-06-16T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 6,
       "day": 22,
-      "date": "2023-06-21T17:00:00.000Z"
+      "date": "2023-06-22T00:00:00.000Z"
     },
     "score": 8.3
   },
@@ -1929,8 +1899,8 @@
         "userPreferred": "VINLAND SAGA SEASON 2"
       },
       "coverImage": {
-        "color": "#f1ae43",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136430-YrQ8nBDW7gT0.jpg"
+        "color": "#e4a135",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136430-gsBsJjA7hGh9.jpg"
       },
       "episodes": 24,
       "siteUrl": "https://anilist.co/anime/136430"
@@ -1939,15 +1909,15 @@
       "year": 2023,
       "month": 6,
       "day": 21,
-      "date": "2023-06-20T17:00:00.000Z"
+      "date": "2023-06-21T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 7,
       "day": 11,
-      "date": "2023-07-10T17:00:00.000Z"
+      "date": "2023-07-11T00:00:00.000Z"
     },
-    "score": 8.9
+    "score": 9.2
   },
   {
     "id": 312106912,
@@ -1955,12 +1925,12 @@
     "progress": 11,
     "media": {
       "title": {
-        "english": "Oshi No Ko",
+        "english": "OSHI NO KO",
         "userPreferred": "[Oshi no Ko]"
       },
       "coverImage": {
         "color": "#ff35c9",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150672-jguvEfP0vGfW.png"
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150672-WqmmwZ4nMzAy.png"
       },
       "episodes": 11,
       "siteUrl": "https://anilist.co/anime/150672"
@@ -1969,13 +1939,13 @@
       "year": 2023,
       "month": 7,
       "day": 12,
-      "date": "2023-07-11T17:00:00.000Z"
+      "date": "2023-07-12T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 7,
       "day": 23,
-      "date": "2023-07-22T17:00:00.000Z"
+      "date": "2023-07-23T00:00:00.000Z"
     },
     "score": 8.5
   },
@@ -1999,13 +1969,13 @@
       "year": 2023,
       "month": 7,
       "day": 24,
-      "date": "2023-07-23T17:00:00.000Z"
+      "date": "2023-07-24T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 8,
       "day": 4,
-      "date": "2023-08-03T17:00:00.000Z"
+      "date": "2023-08-04T00:00:00.000Z"
     },
     "score": 7.7
   },
@@ -2020,7 +1990,7 @@
       },
       "coverImage": {
         "color": "#e45d5d",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113415-bbBWj4pEFseh.jpg"
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113415-LHBAeoZDIsnF.jpg"
       },
       "episodes": 24,
       "siteUrl": "https://anilist.co/anime/113415"
@@ -2029,45 +1999,15 @@
       "year": 2023,
       "month": 8,
       "day": 6,
-      "date": "2023-08-05T17:00:00.000Z"
+      "date": "2023-08-06T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 9,
       "day": 13,
-      "date": "2023-09-12T17:00:00.000Z"
+      "date": "2023-09-13T00:00:00.000Z"
     },
     "score": 8.7
-  },
-  {
-    "id": 334730787,
-    "status": "COMPLETED",
-    "progress": 11,
-    "media": {
-      "title": {
-        "english": "Mushoku Tensei: Jobless Reincarnation",
-        "userPreferred": "Mushoku Tensei: Isekai Ittara Honki Dasu"
-      },
-      "coverImage": {
-        "color": "#f1f15d",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108465-B9S9zC68eS5j.jpg"
-      },
-      "episodes": 11,
-      "siteUrl": "https://anilist.co/anime/108465"
-    },
-    "startedAt": {
-      "year": 2023,
-      "month": 9,
-      "day": 12,
-      "date": "2023-09-11T17:00:00.000Z"
-    },
-    "completedAt": {
-      "year": 2023,
-      "month": 9,
-      "day": 20,
-      "date": "2023-09-19T17:00:00.000Z"
-    },
-    "score": 8.5
   },
   {
     "id": 334730797,
@@ -2089,13 +2029,13 @@
       "year": 2023,
       "month": 9,
       "day": 21,
-      "date": "2023-09-20T17:00:00.000Z"
+      "date": "2023-09-21T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 9,
       "day": 27,
-      "date": "2023-09-26T17:00:00.000Z"
+      "date": "2023-09-27T00:00:00.000Z"
     },
     "score": 8.8
   },
@@ -2119,13 +2059,13 @@
       "year": 2023,
       "month": 9,
       "day": 27,
-      "date": "2023-09-26T17:00:00.000Z"
+      "date": "2023-09-27T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 9,
       "day": 27,
-      "date": "2023-09-26T17:00:00.000Z"
+      "date": "2023-09-27T00:00:00.000Z"
     },
     "score": 7.6
   },
@@ -2149,13 +2089,13 @@
       "year": 2023,
       "month": 9,
       "day": 27,
-      "date": "2023-09-26T17:00:00.000Z"
+      "date": "2023-09-27T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 10,
       "day": 7,
-      "date": "2023-10-06T17:00:00.000Z"
+      "date": "2023-10-07T00:00:00.000Z"
     },
     "score": 8.4
   },
@@ -2170,7 +2110,7 @@
       },
       "coverImage": {
         "color": "#e4d65d",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10087-el5Bo1VMZwsU.png"
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10087-M4Hd9qrHGrXk.png"
       },
       "episodes": 13,
       "siteUrl": "https://anilist.co/anime/10087"
@@ -2179,13 +2119,13 @@
       "year": 2023,
       "month": 10,
       "day": 7,
-      "date": "2023-10-06T17:00:00.000Z"
+      "date": "2023-10-07T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 10,
       "day": 18,
-      "date": "2023-10-17T17:00:00.000Z"
+      "date": "2023-10-18T00:00:00.000Z"
     },
     "score": 8
   },
@@ -2200,7 +2140,7 @@
       },
       "coverImage": {
         "color": "#e4781a",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx11741-Twb6iJx77FFV.jpg"
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11741-oEy1fJHYm2zJ.jpg"
       },
       "episodes": 12,
       "siteUrl": "https://anilist.co/anime/11741"
@@ -2209,13 +2149,13 @@
       "year": 2023,
       "month": 10,
       "day": 19,
-      "date": "2023-10-18T17:00:00.000Z"
+      "date": "2023-10-19T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 10,
       "day": 23,
-      "date": "2023-10-22T17:00:00.000Z"
+      "date": "2023-10-23T00:00:00.000Z"
     },
     "score": 8.5
   },
@@ -2230,7 +2170,7 @@
       },
       "coverImage": {
         "color": "#5daee4",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx162314-ocaEhYmvznFO.jpg"
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx162314-qIWdAAFtvY8J.jpg"
       },
       "episodes": 1,
       "siteUrl": "https://anilist.co/anime/162314"
@@ -2239,13 +2179,13 @@
       "year": 2023,
       "month": 11,
       "day": 5,
-      "date": "2023-11-04T17:00:00.000Z"
+      "date": "2023-11-05T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 11,
       "day": 5,
-      "date": "2023-11-04T17:00:00.000Z"
+      "date": "2023-11-05T00:00:00.000Z"
     },
     "score": 9.1
   },
@@ -2260,7 +2200,7 @@
       },
       "coverImage": {
         "color": "#e4a135",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19603-ZIwcXJeIJV3H.jpg"
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19603-ycT0pyEgDVQu.jpg"
       },
       "episodes": 13,
       "siteUrl": "https://anilist.co/anime/19603"
@@ -2269,13 +2209,13 @@
       "year": 2023,
       "month": 10,
       "day": 24,
-      "date": "2023-10-23T17:00:00.000Z"
+      "date": "2023-10-24T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 11,
       "day": 10,
-      "date": "2023-11-09T17:00:00.000Z"
+      "date": "2023-11-10T00:00:00.000Z"
     },
     "score": 8.1
   },
@@ -2299,13 +2239,13 @@
       "year": 2023,
       "month": 11,
       "day": 11,
-      "date": "2023-11-10T17:00:00.000Z"
+      "date": "2023-11-11T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 11,
       "day": 23,
-      "date": "2023-11-22T17:00:00.000Z"
+      "date": "2023-11-23T00:00:00.000Z"
     },
     "score": 8.1
   },
@@ -2320,7 +2260,7 @@
       },
       "coverImage": {
         "color": "#e4bb5d",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120697-72Sf22C9PTQn.jpg"
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx120697-BA2TqxB1I5bJ.jpg"
       },
       "episodes": 12,
       "siteUrl": "https://anilist.co/anime/120697"
@@ -2329,13 +2269,13 @@
       "year": 2023,
       "month": 11,
       "day": 23,
-      "date": "2023-11-22T17:00:00.000Z"
+      "date": "2023-11-23T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 12,
       "day": 5,
-      "date": "2023-12-04T17:00:00.000Z"
+      "date": "2023-12-05T00:00:00.000Z"
     },
     "score": 7.5
   },
@@ -2359,13 +2299,13 @@
       "year": 2023,
       "month": 12,
       "day": 6,
-      "date": "2023-12-05T17:00:00.000Z"
+      "date": "2023-12-06T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 12,
       "day": 17,
-      "date": "2023-12-16T17:00:00.000Z"
+      "date": "2023-12-17T00:00:00.000Z"
     },
     "score": 7.8
   },
@@ -2389,13 +2329,13 @@
       "year": 2023,
       "month": 12,
       "day": 28,
-      "date": "2023-12-27T17:00:00.000Z"
+      "date": "2023-12-28T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 12,
       "day": 28,
-      "date": "2023-12-27T17:00:00.000Z"
+      "date": "2023-12-28T00:00:00.000Z"
     },
     "score": 8.5
   },
@@ -2409,8 +2349,8 @@
         "userPreferred": "Jujutsu Kaisen 2nd Season"
       },
       "coverImage": {
-        "color": "#d6c9f1",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145064-5U30gu2LSOv8.jpg"
+        "color": "#a178d6",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx145064-hSNRJM03pvv1.jpg"
       },
       "episodes": 23,
       "siteUrl": "https://anilist.co/anime/145064"
@@ -2419,13 +2359,13 @@
       "year": 2023,
       "month": 12,
       "day": 18,
-      "date": "2023-12-17T17:00:00.000Z"
+      "date": "2023-12-18T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2023,
       "month": 12,
       "day": 29,
-      "date": "2023-12-28T17:00:00.000Z"
+      "date": "2023-12-29T00:00:00.000Z"
     },
     "score": 9.1
   },
@@ -2440,7 +2380,7 @@
       },
       "coverImage": {
         "color": "#e4bb35",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx128893-l0R0GFHplDKW.jpg"
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx128893-Gc2t8b8M0mVu.jpg"
       },
       "episodes": 13,
       "siteUrl": "https://anilist.co/anime/128893"
@@ -2449,13 +2389,13 @@
       "year": 2023,
       "month": 12,
       "day": 28,
-      "date": "2023-12-27T17:00:00.000Z"
+      "date": "2023-12-28T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2024,
       "month": 1,
       "day": 8,
-      "date": "2024-01-07T17:00:00.000Z"
+      "date": "2024-01-08T00:00:00.000Z"
     },
     "score": 8.3
   },
@@ -2469,8 +2409,8 @@
         "userPreferred": "Boku no Kokoro no Yabai Yatsu"
       },
       "coverImage": {
-        "color": "#c99343",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153152-JPNLmFmlu2d8.jpg"
+        "color": "#d6a150",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153152-Xnwmx7wuoIWV.jpg"
       },
       "episodes": 12,
       "siteUrl": "https://anilist.co/anime/153152"
@@ -2479,13 +2419,13 @@
       "year": 2024,
       "month": 1,
       "day": 10,
-      "date": "2024-01-09T17:00:00.000Z"
+      "date": "2024-01-10T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2024,
       "month": 1,
       "day": 20,
-      "date": "2024-01-19T17:00:00.000Z"
+      "date": "2024-01-20T00:00:00.000Z"
     },
     "score": 8.2
   },
@@ -2500,7 +2440,7 @@
       },
       "coverImage": {
         "color": "#e4c9ae",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97986-tXLonOO0vhHb.jpg"
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx97986-TQ7dCgbS3y5s.jpg"
       },
       "episodes": 13,
       "siteUrl": "https://anilist.co/anime/97986"
@@ -2509,13 +2449,13 @@
       "year": 2024,
       "month": 1,
       "day": 25,
-      "date": "2024-01-24T17:00:00.000Z"
+      "date": "2024-01-25T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2024,
       "month": 2,
       "day": 5,
-      "date": "2024-02-04T17:00:00.000Z"
+      "date": "2024-02-05T00:00:00.000Z"
     },
     "score": 9.4
   },
@@ -2539,15 +2479,15 @@
       "year": 2024,
       "month": 2,
       "day": 7,
-      "date": "2024-02-06T17:00:00.000Z"
+      "date": "2024-02-07T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2024,
       "month": 2,
       "day": 7,
-      "date": "2024-02-06T17:00:00.000Z"
+      "date": "2024-02-07T00:00:00.000Z"
     },
-    "score": 9
+    "score": 9.2
   },
   {
     "id": 357493809,
@@ -2559,8 +2499,8 @@
         "userPreferred": "Made in Abyss: Retsujitsu no Ougonkyou"
       },
       "coverImage": {
-        "color": "#d6ae78",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114745-APZN90WhNMAD.jpg"
+        "color": "#e4c9a1",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx114745-fBgTC12T7IAy.jpg"
       },
       "episodes": 12,
       "siteUrl": "https://anilist.co/anime/114745"
@@ -2569,13 +2509,13 @@
       "year": 2024,
       "month": 2,
       "day": 8,
-      "date": "2024-02-07T17:00:00.000Z"
+      "date": "2024-02-08T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2024,
       "month": 2,
       "day": 16,
-      "date": "2024-02-15T17:00:00.000Z"
+      "date": "2024-02-16T00:00:00.000Z"
     },
     "score": 9.2
   },
@@ -2590,7 +2530,7 @@
       },
       "coverImage": {
         "color": "#e4ae50",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101759-G9I2ymYrFS8o.jpg"
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101759-8UR7r9MNVpz2.jpg"
       },
       "episodes": 12,
       "siteUrl": "https://anilist.co/anime/101759"
@@ -2599,13 +2539,13 @@
       "year": 2024,
       "month": 2,
       "day": 17,
-      "date": "2024-02-16T17:00:00.000Z"
+      "date": "2024-02-17T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2024,
       "month": 2,
       "day": 21,
-      "date": "2024-02-20T17:00:00.000Z"
+      "date": "2024-02-21T00:00:00.000Z"
     },
     "score": 9.2
   },
@@ -2629,13 +2569,13 @@
       "year": 2024,
       "month": 2,
       "day": 20,
-      "date": "2024-02-19T17:00:00.000Z"
+      "date": "2024-02-20T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2024,
       "month": 2,
       "day": 27,
-      "date": "2024-02-26T17:00:00.000Z"
+      "date": "2024-02-27T00:00:00.000Z"
     },
     "score": 6.8
   },
@@ -2650,7 +2590,7 @@
       },
       "coverImage": {
         "color": "#f1a150",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21234-bCvWk2f58LCv.jpg"
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21234-XmqW39aQ9o7O.jpg"
       },
       "episodes": 12,
       "siteUrl": "https://anilist.co/anime/21234"
@@ -2659,45 +2599,15 @@
       "year": 2024,
       "month": 3,
       "day": 1,
-      "date": "2024-02-29T17:00:00.000Z"
+      "date": "2024-03-01T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2024,
       "month": 3,
       "day": 3,
-      "date": "2024-03-02T17:00:00.000Z"
+      "date": "2024-03-03T00:00:00.000Z"
     },
     "score": 8.4
-  },
-  {
-    "id": 393157082,
-    "status": "COMPLETED",
-    "progress": 13,
-    "media": {
-      "title": {
-        "english": "Violet Evergarden",
-        "userPreferred": "Violet Evergarden"
-      },
-      "coverImage": {
-        "color": "#3586e4",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx21827-10F6m50H4GJK.png"
-      },
-      "episodes": 13,
-      "siteUrl": "https://anilist.co/anime/21827"
-    },
-    "startedAt": {
-      "year": 2024,
-      "month": 3,
-      "day": 4,
-      "date": "2024-03-03T17:00:00.000Z"
-    },
-    "completedAt": {
-      "year": 2024,
-      "month": 3,
-      "day": 9,
-      "date": "2024-03-08T17:00:00.000Z"
-    },
-    "score": 8.8
   },
   {
     "id": 394026908,
@@ -2719,13 +2629,13 @@
       "year": 2024,
       "month": 3,
       "day": 10,
-      "date": "2024-03-09T17:00:00.000Z"
+      "date": "2024-03-10T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2024,
       "month": 3,
       "day": 10,
-      "date": "2024-03-09T17:00:00.000Z"
+      "date": "2024-03-10T00:00:00.000Z"
     },
     "score": 8.3
   },
@@ -2749,13 +2659,13 @@
       "year": 2024,
       "month": 3,
       "day": 11,
-      "date": "2024-03-10T17:00:00.000Z"
+      "date": "2024-03-11T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2024,
       "month": 3,
       "day": 11,
-      "date": "2024-03-10T17:00:00.000Z"
+      "date": "2024-03-11T00:00:00.000Z"
     },
     "score": 8.2
   },
@@ -2779,13 +2689,13 @@
       "year": 2024,
       "month": 3,
       "day": 12,
-      "date": "2024-03-11T17:00:00.000Z"
+      "date": "2024-03-12T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2024,
       "month": 3,
       "day": 12,
-      "date": "2024-03-11T17:00:00.000Z"
+      "date": "2024-03-12T00:00:00.000Z"
     },
     "score": 8.7
   },
@@ -2799,8 +2709,8 @@
         "userPreferred": "Sora yori mo Tooi Basho"
       },
       "coverImage": {
-        "color": "#ffbb35",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99426-5jWTUs719lQN.png"
+        "color": "#f1ae28",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99426-ti5BL69Ip3kZ.png"
       },
       "episodes": 13,
       "siteUrl": "https://anilist.co/anime/99426"
@@ -2809,13 +2719,13 @@
       "year": 2024,
       "month": 3,
       "day": 12,
-      "date": "2024-03-11T17:00:00.000Z"
+      "date": "2024-03-12T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2024,
       "month": 3,
       "day": 19,
-      "date": "2024-03-18T17:00:00.000Z"
+      "date": "2024-03-19T00:00:00.000Z"
     },
     "score": 8.6
   },
@@ -2829,8 +2739,8 @@
         "userPreferred": "Sousou no Frieren"
       },
       "coverImage": {
-        "color": "#aee493",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx154587-gHSraOSa0nBG.jpg"
+        "color": "#bbf1a1",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx154587-qQTzQnEJJ3oB.jpg"
       },
       "episodes": 28,
       "siteUrl": "https://anilist.co/anime/154587"
@@ -2839,13 +2749,13 @@
       "year": 2024,
       "month": 3,
       "day": 19,
-      "date": "2024-03-18T17:00:00.000Z"
+      "date": "2024-03-19T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2024,
       "month": 4,
       "day": 2,
-      "date": "2024-04-01T17:00:00.000Z"
+      "date": "2024-04-02T00:00:00.000Z"
     },
     "score": 10
   },
@@ -2869,13 +2779,13 @@
       "year": 2024,
       "month": 4,
       "day": 18,
-      "date": "2024-04-17T17:00:00.000Z"
+      "date": "2024-04-18T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2024,
       "month": 4,
       "day": 23,
-      "date": "2024-04-22T17:00:00.000Z"
+      "date": "2024-04-23T00:00:00.000Z"
     },
     "score": 8.3
   },
@@ -2890,7 +2800,7 @@
       },
       "coverImage": {
         "color": null,
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx66-1LTNhVTnttZv.png"
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx66-ZqYQWl6LsfeI.png"
       },
       "episodes": 26,
       "siteUrl": "https://anilist.co/anime/66"
@@ -2899,13 +2809,13 @@
       "year": 2024,
       "month": 4,
       "day": 30,
-      "date": "2024-04-29T17:00:00.000Z"
+      "date": "2024-04-30T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2024,
       "month": 5,
       "day": 10,
-      "date": "2024-05-09T17:00:00.000Z"
+      "date": "2024-05-10T00:00:00.000Z"
     },
     "score": 7.7
   },
@@ -2920,7 +2830,7 @@
       },
       "coverImage": {
         "color": "#f1865d",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx161645-bX5S28Cc1Nnk.jpg"
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx161645-QLbzHXiYRgV2.jpg"
       },
       "episodes": 24,
       "siteUrl": "https://anilist.co/anime/161645"
@@ -2929,15 +2839,15 @@
       "year": 2024,
       "month": 4,
       "day": 24,
-      "date": "2024-04-23T17:00:00.000Z"
+      "date": "2024-04-24T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2024,
       "month": 5,
       "day": 18,
-      "date": "2024-05-17T17:00:00.000Z"
+      "date": "2024-05-18T00:00:00.000Z"
     },
-    "score": 9
+    "score": 9.4
   },
   {
     "id": 375977500,
@@ -2945,7 +2855,7 @@
     "progress": 12,
     "media": {
       "title": {
-        "english": null,
+        "english": "Himouto! Umaru-chan",
         "userPreferred": "Himouto! Umaru-chan"
       },
       "coverImage": {
@@ -2959,13 +2869,13 @@
       "year": 2024,
       "month": 5,
       "day": 21,
-      "date": "2024-05-20T17:00:00.000Z"
+      "date": "2024-05-21T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2024,
       "month": 6,
       "day": 3,
-      "date": "2024-06-02T17:00:00.000Z"
+      "date": "2024-06-03T00:00:00.000Z"
     },
     "score": 6.6
   },
@@ -2989,13 +2899,13 @@
       "year": 2024,
       "month": 6,
       "day": 4,
-      "date": "2024-06-03T17:00:00.000Z"
+      "date": "2024-06-04T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2024,
       "month": 6,
       "day": 8,
-      "date": "2024-06-07T17:00:00.000Z"
+      "date": "2024-06-08T00:00:00.000Z"
     },
     "score": 7
   },
@@ -3010,7 +2920,7 @@
       },
       "coverImage": {
         "color": "#e4ae5d",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166216-JVyN7PHel5K9.jpg"
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166216-vCMkF4e3x5FB.jpg"
       },
       "episodes": 13,
       "siteUrl": "https://anilist.co/anime/166216"
@@ -3019,15 +2929,15 @@
       "year": 2024,
       "month": 6,
       "day": 9,
-      "date": "2024-06-08T17:00:00.000Z"
+      "date": "2024-06-09T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2024,
       "month": 6,
       "day": 17,
-      "date": "2024-06-16T17:00:00.000Z"
+      "date": "2024-06-17T00:00:00.000Z"
     },
-    "score": 8.8
+    "score": 8.5
   },
   {
     "id": 329007746,
@@ -3049,13 +2959,13 @@
       "year": 2024,
       "month": 7,
       "day": 6,
-      "date": "2024-07-05T17:00:00.000Z"
+      "date": "2024-07-06T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2024,
       "month": 7,
       "day": 10,
-      "date": "2024-07-09T17:00:00.000Z"
+      "date": "2024-07-10T00:00:00.000Z"
     },
     "score": 8.4
   },
@@ -3079,13 +2989,13 @@
       "year": 2024,
       "month": 7,
       "day": 12,
-      "date": "2024-07-11T17:00:00.000Z"
+      "date": "2024-07-12T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2024,
       "month": 7,
       "day": 19,
-      "date": "2024-07-18T17:00:00.000Z"
+      "date": "2024-07-19T00:00:00.000Z"
     },
     "score": 8.6
   },
@@ -3109,13 +3019,13 @@
       "year": 2024,
       "month": 7,
       "day": 20,
-      "date": "2024-07-19T17:00:00.000Z"
+      "date": "2024-07-20T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2024,
       "month": 7,
       "day": 21,
-      "date": "2024-07-20T17:00:00.000Z"
+      "date": "2024-07-21T00:00:00.000Z"
     },
     "score": 8.4
   },
@@ -3139,13 +3049,13 @@
       "year": 2024,
       "month": 7,
       "day": 22,
-      "date": "2024-07-21T17:00:00.000Z"
+      "date": "2024-07-22T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2024,
       "month": 7,
       "day": 28,
-      "date": "2024-07-27T17:00:00.000Z"
+      "date": "2024-07-28T00:00:00.000Z"
     },
     "score": 8.1
   },
@@ -3160,7 +3070,7 @@
       },
       "coverImage": {
         "color": "#e4c95d",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163078-kIhCmQARcoOD.jpg"
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163078-akhThKoWpWOb.jpg"
       },
       "episodes": 12,
       "siteUrl": "https://anilist.co/anime/163078"
@@ -3169,13 +3079,13 @@
       "year": 2024,
       "month": 7,
       "day": 29,
-      "date": "2024-07-28T17:00:00.000Z"
+      "date": "2024-07-29T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2024,
       "month": 8,
       "day": 3,
-      "date": "2024-08-02T17:00:00.000Z"
+      "date": "2024-08-03T00:00:00.000Z"
     },
     "score": 8.3
   },
@@ -3190,7 +3100,7 @@
       },
       "coverImage": {
         "color": "#fff143",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx164212-xjkAkp6SKaCZ.jpg"
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx164212-eKh15LQxkTEx.jpg"
       },
       "episodes": 13,
       "siteUrl": "https://anilist.co/anime/164212"
@@ -3199,13 +3109,13 @@
       "year": 2024,
       "month": 8,
       "day": 4,
-      "date": "2024-08-03T17:00:00.000Z"
+      "date": "2024-08-04T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2024,
       "month": 8,
       "day": 7,
-      "date": "2024-08-06T17:00:00.000Z"
+      "date": "2024-08-07T00:00:00.000Z"
     },
     "score": 8.4
   },
@@ -3219,8 +3129,8 @@
         "userPreferred": "JoJo no Kimyou na Bouken (TV)"
       },
       "coverImage": {
-        "color": "#e4a15d",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14719-zexazmTOM4e1.jpg"
+        "color": "#e49343",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx14719-VT5dRzTBSZ0w.jpg"
       },
       "episodes": 26,
       "siteUrl": "https://anilist.co/anime/14719"
@@ -3229,13 +3139,13 @@
       "year": 2024,
       "month": 8,
       "day": 8,
-      "date": "2024-08-07T17:00:00.000Z"
+      "date": "2024-08-08T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2024,
       "month": 8,
       "day": 19,
-      "date": "2024-08-18T17:00:00.000Z"
+      "date": "2024-08-19T00:00:00.000Z"
     },
     "score": 8.2
   },
@@ -3250,7 +3160,7 @@
       },
       "coverImage": {
         "color": null,
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20474-0VwWX4bKJkb1.jpg"
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20474-xuqem5GBlBtb.jpg"
       },
       "episodes": 24,
       "siteUrl": "https://anilist.co/anime/20474"
@@ -3259,13 +3169,13 @@
       "year": 2024,
       "month": 8,
       "day": 19,
-      "date": "2024-08-18T17:00:00.000Z"
+      "date": "2024-08-19T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2024,
       "month": 8,
       "day": 30,
-      "date": "2024-08-29T17:00:00.000Z"
+      "date": "2024-08-30T00:00:00.000Z"
     },
     "score": 8.3
   },
@@ -3289,13 +3199,13 @@
       "year": 2024,
       "month": 8,
       "day": 31,
-      "date": "2024-08-30T17:00:00.000Z"
+      "date": "2024-08-31T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2024,
       "month": 9,
       "day": 6,
-      "date": "2024-09-05T17:00:00.000Z"
+      "date": "2024-09-06T00:00:00.000Z"
     },
     "score": 8.4
   },
@@ -3309,8 +3219,8 @@
         "userPreferred": "JoJo no Kimyou na Bouken: Diamond wa Kudakenai"
       },
       "coverImage": {
-        "color": "#bb861a",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21450-VsNSWuTsHBMR.jpg"
+        "color": "#c9a150",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21450-D7XFwEQjZ5GA.jpg"
       },
       "episodes": 39,
       "siteUrl": "https://anilist.co/anime/21450"
@@ -3319,15 +3229,15 @@
       "year": 2024,
       "month": 9,
       "day": 7,
-      "date": "2024-09-06T17:00:00.000Z"
+      "date": "2024-09-07T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2024,
       "month": 9,
       "day": 26,
-      "date": "2024-09-25T17:00:00.000Z"
+      "date": "2024-09-26T00:00:00.000Z"
     },
-    "score": 8.4
+    "score": 8.3
   },
   {
     "id": 391256347,
@@ -3336,7 +3246,7 @@
     "media": {
       "title": {
         "english": "Alya Sometimes Hides Her Feelings in Russian",
-        "userPreferred": "Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san"
+        "userPreferred": "Tokidoki Bosotto Rossiya-go de Dereru Tonari no Alya-san"
       },
       "coverImage": {
         "color": "#d6ae78",
@@ -3349,13 +3259,13 @@
       "year": 2024,
       "month": 9,
       "day": 26,
-      "date": "2024-09-25T17:00:00.000Z"
+      "date": "2024-09-26T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2024,
       "month": 10,
       "day": 2,
-      "date": "2024-10-01T17:00:00.000Z"
+      "date": "2024-10-02T00:00:00.000Z"
     },
     "score": 8.2
   },
@@ -3365,7 +3275,7 @@
     "progress": 13,
     "media": {
       "title": {
-        "english": "Oshi no Ko Season 2",
+        "english": "OSHI NO KO Season 2",
         "userPreferred": "[Oshi no Ko] 2nd Season"
       },
       "coverImage": {
@@ -3379,13 +3289,13 @@
       "year": 2024,
       "month": 10,
       "day": 3,
-      "date": "2024-10-02T17:00:00.000Z"
+      "date": "2024-10-03T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2024,
       "month": 10,
       "day": 8,
-      "date": "2024-10-07T17:00:00.000Z"
+      "date": "2024-10-08T00:00:00.000Z"
     },
     "score": 8.7
   },
@@ -3400,7 +3310,7 @@
       },
       "coverImage": {
         "color": null,
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99420-ROmwm2suzoNJ.png"
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99420-k5Tel6yRMwA8.png"
       },
       "episodes": 12,
       "siteUrl": "https://anilist.co/anime/99420"
@@ -3409,13 +3319,13 @@
       "year": 2024,
       "month": 10,
       "day": 9,
-      "date": "2024-10-08T17:00:00.000Z"
+      "date": "2024-10-09T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2024,
       "month": 10,
       "day": 13,
-      "date": "2024-10-12T17:00:00.000Z"
+      "date": "2024-10-13T00:00:00.000Z"
     },
     "score": 8
   },
@@ -3429,8 +3339,8 @@
         "userPreferred": "Dungeon Meshi"
       },
       "coverImage": {
-        "color": "#f18650",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153518-LEK6pAXtI03D.jpg"
+        "color": "#e48650",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153518-IVXPDY5ph3kO.jpg"
       },
       "episodes": 24,
       "siteUrl": "https://anilist.co/anime/153518"
@@ -3439,13 +3349,13 @@
       "year": 2024,
       "month": 10,
       "day": 14,
-      "date": "2024-10-13T17:00:00.000Z"
+      "date": "2024-10-14T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2024,
       "month": 10,
       "day": 26,
-      "date": "2024-10-25T17:00:00.000Z"
+      "date": "2024-10-26T00:00:00.000Z"
     },
     "score": 8.8
   },
@@ -3460,7 +3370,7 @@
       },
       "coverImage": {
         "color": "#c9d678",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1575-dG7vMMZMF3wk.jpg"
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1575-hsmWM2ydNm1m.jpg"
       },
       "episodes": 25,
       "siteUrl": "https://anilist.co/anime/1575"
@@ -3469,13 +3379,13 @@
       "year": 2024,
       "month": 10,
       "day": 26,
-      "date": "2024-10-25T17:00:00.000Z"
+      "date": "2024-10-26T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2024,
       "month": 11,
       "day": 6,
-      "date": "2024-11-05T17:00:00.000Z"
+      "date": "2024-11-06T00:00:00.000Z"
     },
     "score": 9
   },
@@ -3490,7 +3400,7 @@
       },
       "coverImage": {
         "color": "#e4bb50",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2904-Z6DhLHr1XWEH.jpg"
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2904-Fet9Q33suC7G.jpg"
       },
       "episodes": 25,
       "siteUrl": "https://anilist.co/anime/2904"
@@ -3499,13 +3409,13 @@
       "year": 2024,
       "month": 11,
       "day": 7,
-      "date": "2024-11-06T17:00:00.000Z"
+      "date": "2024-11-07T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2024,
       "month": 11,
       "day": 27,
-      "date": "2024-11-26T17:00:00.000Z"
+      "date": "2024-11-27T00:00:00.000Z"
     },
     "score": 9.5
   },
@@ -3515,12 +3425,12 @@
     "progress": 12,
     "media": {
       "title": {
-        "english": "Kaiju No.8",
+        "english": "Kaiju No. 8",
         "userPreferred": "Kaijuu 8-gou"
       },
       "coverImage": {
-        "color": "#f1e4c9",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153288-tD2OmKy5CJab.jpg"
+        "color": "#f1e4ae",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153288-25FBfFJzEQ5O.jpg"
       },
       "episodes": 12,
       "siteUrl": "https://anilist.co/anime/153288"
@@ -3529,13 +3439,13 @@
       "year": 2024,
       "month": 11,
       "day": 28,
-      "date": "2024-11-27T17:00:00.000Z"
+      "date": "2024-11-28T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2024,
       "month": 12,
       "day": 3,
-      "date": "2024-12-02T17:00:00.000Z"
+      "date": "2024-12-03T00:00:00.000Z"
     },
     "score": 8.3
   },
@@ -3549,8 +3459,8 @@
         "userPreferred": "Ousama Ranking"
       },
       "coverImage": {
-        "color": "#e4865d",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113717-fkqTxEqqga61.jpg"
+        "color": "#e4935d",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113717-9sNnN8WRgK15.jpg"
       },
       "episodes": 23,
       "siteUrl": "https://anilist.co/anime/113717"
@@ -3559,13 +3469,13 @@
       "year": 2024,
       "month": 12,
       "day": 4,
-      "date": "2024-12-03T17:00:00.000Z"
+      "date": "2024-12-04T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2024,
       "month": 12,
       "day": 12,
-      "date": "2024-12-11T17:00:00.000Z"
+      "date": "2024-12-12T00:00:00.000Z"
     },
     "score": 8.2
   },
@@ -3580,7 +3490,7 @@
       },
       "coverImage": {
         "color": "#f150ae",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21355-IHaS50pvLYd0.jpg"
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21355-wRVUrGxpvIQQ.jpg"
       },
       "episodes": 25,
       "siteUrl": "https://anilist.co/anime/21355"
@@ -3589,13 +3499,13 @@
       "year": 2024,
       "month": 12,
       "day": 12,
-      "date": "2024-12-11T17:00:00.000Z"
+      "date": "2024-12-12T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2024,
       "month": 12,
       "day": 18,
-      "date": "2024-12-17T17:00:00.000Z"
+      "date": "2024-12-18T00:00:00.000Z"
     },
     "score": 8.4
   },
@@ -3619,13 +3529,13 @@
       "year": 2024,
       "month": 12,
       "day": 18,
-      "date": "2024-12-17T17:00:00.000Z"
+      "date": "2024-12-18T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2024,
       "month": 12,
       "day": 22,
-      "date": "2024-12-21T17:00:00.000Z"
+      "date": "2024-12-22T00:00:00.000Z"
     },
     "score": 8.3
   },
@@ -3649,15 +3559,15 @@
       "year": 2024,
       "month": 12,
       "day": 22,
-      "date": "2024-12-21T17:00:00.000Z"
+      "date": "2024-12-22T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2024,
       "month": 12,
       "day": 26,
-      "date": "2024-12-25T17:00:00.000Z"
+      "date": "2024-12-26T00:00:00.000Z"
     },
-    "score": 8.9
+    "score": 8.7
   },
   {
     "id": 423196226,
@@ -3670,7 +3580,7 @@
       },
       "coverImage": {
         "color": "#e47850",
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171018-2ldCj6QywuOa.jpg"
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171018-60q1B6GK2Ghb.jpg"
       },
       "episodes": 12,
       "siteUrl": "https://anilist.co/anime/171018"
@@ -3679,15 +3589,15 @@
       "year": 2024,
       "month": 12,
       "day": 31,
-      "date": "2024-12-30T17:00:00.000Z"
+      "date": "2024-12-31T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2025,
       "month": 1,
       "day": 6,
-      "date": "2025-01-05T17:00:00.000Z"
+      "date": "2025-01-06T00:00:00.000Z"
     },
-    "score": 8.8
+    "score": 8.5
   },
   {
     "id": 337815476,
@@ -3700,7 +3610,7 @@
       },
       "coverImage": {
         "color": null,
-        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1535-4r88a1tsBEIz.jpg"
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx1535-kUgkcrfOrkUM.jpg"
       },
       "episodes": 37,
       "siteUrl": "https://anilist.co/anime/1535"
@@ -3709,13 +3619,13 @@
       "year": 2025,
       "month": 1,
       "day": 12,
-      "date": "2025-01-11T17:00:00.000Z"
+      "date": "2025-01-12T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2025,
       "month": 2,
       "day": 9,
-      "date": "2025-02-08T17:00:00.000Z"
+      "date": "2025-02-09T00:00:00.000Z"
     },
     "score": 9
   },
@@ -3729,7 +3639,7 @@
         "userPreferred": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai."
       },
       "coverImage": {
-        "color": "#1a78d6",
+        "color": "#0d78e4",
         "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9989-hImMg6kCMm6I.jpg"
       },
       "episodes": 11,
@@ -3739,14 +3649,1544 @@
       "year": 2025,
       "month": 2,
       "day": 22,
-      "date": "2025-02-21T17:00:00.000Z"
+      "date": "2025-02-22T00:00:00.000Z"
     },
     "completedAt": {
       "year": 2025,
       "month": 2,
       "day": 24,
-      "date": "2025-02-23T17:00:00.000Z"
+      "date": "2025-02-24T00:00:00.000Z"
     },
     "score": 8.2
+  },
+  {
+    "id": 454074838,
+    "status": "COMPLETED",
+    "progress": 25,
+    "media": {
+      "title": {
+        "english": "Orb: On the Movements of the Earth",
+        "userPreferred": "Chi. Chikyuu no Undou ni Tsuite"
+      },
+      "coverImage": {
+        "color": null,
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151514-Y0d82Ah2ZOHX.jpg"
+      },
+      "episodes": 25,
+      "siteUrl": "https://anilist.co/anime/151514"
+    },
+    "startedAt": {
+      "year": 2025,
+      "month": 3,
+      "day": 12,
+      "date": "2025-03-12T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2025,
+      "month": 3,
+      "day": 17,
+      "date": "2025-03-17T00:00:00.000Z"
+    },
+    "score": 8.7
+  },
+  {
+    "id": 404769863,
+    "status": "COMPLETED",
+    "progress": 12,
+    "media": {
+      "title": {
+        "english": "Solo Leveling",
+        "userPreferred": "Ore dake Level Up na Ken"
+      },
+      "coverImage": {
+        "color": "#35bbf1",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151807-it355ZgzquUd.png"
+      },
+      "episodes": 12,
+      "siteUrl": "https://anilist.co/anime/151807"
+    },
+    "startedAt": {
+      "year": 2025,
+      "month": 3,
+      "day": 23,
+      "date": "2025-03-23T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2025,
+      "month": 3,
+      "day": 28,
+      "date": "2025-03-28T00:00:00.000Z"
+    },
+    "score": 8.3
+  },
+  {
+    "id": 452498655,
+    "status": "COMPLETED",
+    "progress": 13,
+    "media": {
+      "title": {
+        "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+        "userPreferred": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow"
+      },
+      "coverImage": {
+        "color": "#e45093",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176496-9BDMjAZGEbq4.png"
+      },
+      "episodes": 13,
+      "siteUrl": "https://anilist.co/anime/176496"
+    },
+    "startedAt": {
+      "year": 2025,
+      "month": 3,
+      "day": 29,
+      "date": "2025-03-29T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2025,
+      "month": 4,
+      "day": 2,
+      "date": "2025-04-02T00:00:00.000Z"
+    },
+    "score": 9
+  },
+  {
+    "id": 328985693,
+    "status": "COMPLETED",
+    "progress": 16,
+    "media": {
+      "title": {
+        "english": "Re:ZERO -Starting Life in Another World- Season 3",
+        "userPreferred": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season"
+      },
+      "coverImage": {
+        "color": "#bbd6f1",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163134-yieRFbvUOH9a.jpg"
+      },
+      "episodes": 16,
+      "siteUrl": "https://anilist.co/anime/163134"
+    },
+    "startedAt": {
+      "year": 2025,
+      "month": 4,
+      "day": 6,
+      "date": "2025-04-06T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2025,
+      "month": 4,
+      "day": 8,
+      "date": "2025-04-08T00:00:00.000Z"
+    },
+    "score": 8.6
+  },
+  {
+    "id": 360001869,
+    "status": "COMPLETED",
+    "progress": 15,
+    "media": {
+      "title": {
+        "english": "Bakemonogatari",
+        "userPreferred": "Bakemonogatari"
+      },
+      "coverImage": {
+        "color": "#4393e4",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5081-9GocceQ5Z865.jpg"
+      },
+      "episodes": 15,
+      "siteUrl": "https://anilist.co/anime/5081"
+    },
+    "startedAt": {
+      "year": 2025,
+      "month": 5,
+      "day": 13,
+      "date": "2025-05-13T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2025,
+      "month": 5,
+      "day": 19,
+      "date": "2025-05-19T00:00:00.000Z"
+    },
+    "score": 8.2
+  },
+  {
+    "id": 441113616,
+    "status": "COMPLETED",
+    "progress": 1,
+    "media": {
+      "title": {
+        "english": "LOOK BACK",
+        "userPreferred": "Look Back"
+      },
+      "coverImage": {
+        "color": "#e4bb50",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx174788-9LsUnn0oEppv.jpg"
+      },
+      "episodes": 1,
+      "siteUrl": "https://anilist.co/anime/174788"
+    },
+    "startedAt": {
+      "year": 2025,
+      "month": 5,
+      "day": 19,
+      "date": "2025-05-19T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2025,
+      "month": 5,
+      "day": 19,
+      "date": "2025-05-19T00:00:00.000Z"
+    },
+    "score": 8.3
+  },
+  {
+    "id": 436412281,
+    "status": "COMPLETED",
+    "progress": 11,
+    "media": {
+      "title": {
+        "english": "SAKAMOTO DAYS",
+        "userPreferred": "SAKAMOTO DAYS"
+      },
+      "coverImage": {
+        "color": "#c9f1f1",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177709-e5Qx6RlsBgD5.png"
+      },
+      "episodes": 11,
+      "siteUrl": "https://anilist.co/anime/177709"
+    },
+    "startedAt": {
+      "year": 2025,
+      "month": 5,
+      "day": 19,
+      "date": "2025-05-19T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2025,
+      "month": 5,
+      "day": 23,
+      "date": "2025-05-23T00:00:00.000Z"
+    },
+    "score": 8.1
+  },
+  {
+    "id": 444501602,
+    "status": "COMPLETED",
+    "progress": 11,
+    "media": {
+      "title": {
+        "english": "Nisemonogatari",
+        "userPreferred": "Nisemonogatari"
+      },
+      "coverImage": {
+        "color": "#f1d65d",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11597-x2vd4KSHcI1S.jpg"
+      },
+      "episodes": 11,
+      "siteUrl": "https://anilist.co/anime/11597"
+    },
+    "startedAt": {
+      "year": 2025,
+      "month": 6,
+      "day": 8,
+      "date": "2025-06-08T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2025,
+      "month": 6,
+      "day": 14,
+      "date": "2025-06-14T00:00:00.000Z"
+    },
+    "score": 7.9
+  },
+  {
+    "id": 458025924,
+    "status": "COMPLETED",
+    "progress": 12,
+    "media": {
+      "title": {
+        "english": "Puella Magi Madoka Magica",
+        "userPreferred": "Mahou Shoujo Madoka☆Magica"
+      },
+      "coverImage": {
+        "color": "#f1c95d",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9756-QnUGwlwwnsuN.jpg"
+      },
+      "episodes": 12,
+      "siteUrl": "https://anilist.co/anime/9756"
+    },
+    "startedAt": {
+      "year": 2025,
+      "month": 6,
+      "day": 14,
+      "date": "2025-06-14T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2025,
+      "month": 6,
+      "day": 22,
+      "date": "2025-06-22T00:00:00.000Z"
+    },
+    "score": 8.5
+  },
+  {
+    "id": 487202565,
+    "status": "COMPLETED",
+    "progress": 1,
+    "media": {
+      "title": {
+        "english": "Puella Magi Madoka Magica the Movie -Rebellion-",
+        "userPreferred": "Mahou Shoujo Madoka☆Magica: Hangyaku no Monogatari"
+      },
+      "coverImage": {
+        "color": null,
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b11981-koz1IoISs3eU.jpg"
+      },
+      "episodes": 1,
+      "siteUrl": "https://anilist.co/anime/11981"
+    },
+    "startedAt": {
+      "year": 2025,
+      "month": 6,
+      "day": 22,
+      "date": "2025-06-22T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2025,
+      "month": 6,
+      "day": 23,
+      "date": "2025-06-23T00:00:00.000Z"
+    },
+    "score": 8.4
+  },
+  {
+    "id": 393151550,
+    "status": "COMPLETED",
+    "progress": 26,
+    "media": {
+      "title": {
+        "english": "Monogatari Series Second Season",
+        "userPreferred": "Monogatari Series: Second Season"
+      },
+      "coverImage": {
+        "color": "#43a1e4",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx17074-xMhVAZsEDH66.png"
+      },
+      "episodes": 26,
+      "siteUrl": "https://anilist.co/anime/17074"
+    },
+    "startedAt": {
+      "year": 2025,
+      "month": 6,
+      "day": 24,
+      "date": "2025-06-24T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2025,
+      "month": 7,
+      "day": 9,
+      "date": "2025-07-09T00:00:00.000Z"
+    },
+    "score": 8.6
+  },
+  {
+    "id": 444501660,
+    "status": "COMPLETED",
+    "progress": 5,
+    "media": {
+      "title": {
+        "english": "Hanamonogatari",
+        "userPreferred": "Hanamonogatari"
+      },
+      "coverImage": {
+        "color": "#e4865d",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20593-ri6S0Qt3mFkv.jpg"
+      },
+      "episodes": 5,
+      "siteUrl": "https://anilist.co/anime/20593"
+    },
+    "startedAt": {
+      "year": 2025,
+      "month": 7,
+      "day": 10,
+      "date": "2025-07-10T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2025,
+      "month": 7,
+      "day": 13,
+      "date": "2025-07-13T00:00:00.000Z"
+    },
+    "score": 7.8
+  },
+  {
+    "id": 444501630,
+    "status": "COMPLETED",
+    "progress": 4,
+    "media": {
+      "title": {
+        "english": "Tsukimonogatari",
+        "userPreferred": "Tsukimonogatari"
+      },
+      "coverImage": {
+        "color": "#e4ae5d",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20918-8Gp6nJpbjFgr.jpg"
+      },
+      "episodes": 4,
+      "siteUrl": "https://anilist.co/anime/20918"
+    },
+    "startedAt": {
+      "year": 2025,
+      "month": 7,
+      "day": 14,
+      "date": "2025-07-14T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2025,
+      "month": 7,
+      "day": 15,
+      "date": "2025-07-15T00:00:00.000Z"
+    },
+    "score": 8
+  },
+  {
+    "id": 393151527,
+    "status": "COMPLETED",
+    "progress": 12,
+    "media": {
+      "title": {
+        "english": "Owarimonogatari",
+        "userPreferred": "Owarimonogatari"
+      },
+      "coverImage": {
+        "color": "#1aa16b",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx21262-jfbv9hvjymMW.jpg"
+      },
+      "episodes": 12,
+      "siteUrl": "https://anilist.co/anime/21262"
+    },
+    "startedAt": {
+      "year": 2025,
+      "month": 7,
+      "day": 18,
+      "date": "2025-07-18T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2025,
+      "month": 7,
+      "day": 27,
+      "date": "2025-07-27T00:00:00.000Z"
+    },
+    "score": 8.3
+  },
+  {
+    "id": 393151540,
+    "status": "COMPLETED",
+    "progress": 7,
+    "media": {
+      "title": {
+        "english": "Owarimonogatari Second Season",
+        "userPreferred": "Owarimonogatari (Ge)"
+      },
+      "coverImage": {
+        "color": "#5dbbe4",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21745-VrhhJjZNdBXV.png"
+      },
+      "episodes": 7,
+      "siteUrl": "https://anilist.co/anime/21745"
+    },
+    "startedAt": {
+      "year": 2025,
+      "month": 7,
+      "day": 27,
+      "date": "2025-07-27T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2025,
+      "month": 7,
+      "day": 29,
+      "date": "2025-07-29T00:00:00.000Z"
+    },
+    "score": 8.7
+  },
+  {
+    "id": 393151555,
+    "status": "COMPLETED",
+    "progress": 6,
+    "media": {
+      "title": {
+        "english": "Zoku Owarimonogatari",
+        "userPreferred": "Zoku Owarimonogatari"
+      },
+      "coverImage": {
+        "color": "#a16b28",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx100815-cZbnM9Bjth8W.png"
+      },
+      "episodes": 6,
+      "siteUrl": "https://anilist.co/anime/100815"
+    },
+    "startedAt": {
+      "year": 2025,
+      "month": 8,
+      "day": 9,
+      "date": "2025-08-09T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2025,
+      "month": 8,
+      "day": 13,
+      "date": "2025-08-13T00:00:00.000Z"
+    },
+    "score": 8.4
+  },
+  {
+    "id": 418541325,
+    "status": "COMPLETED",
+    "progress": 1,
+    "media": {
+      "title": {
+        "english": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+        "userPreferred": "Kimetsu no Yaiba: Mugenjou-hen Movie 1 - Akaza Sairai"
+      },
+      "coverImage": {
+        "color": "#35bbe4",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178788-zm3gtpB9TpRt.jpg"
+      },
+      "episodes": 1,
+      "siteUrl": "https://anilist.co/anime/178788"
+    },
+    "startedAt": {
+      "year": 2025,
+      "month": 8,
+      "day": 16,
+      "date": "2025-08-16T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2025,
+      "month": 8,
+      "day": 16,
+      "date": "2025-08-16T00:00:00.000Z"
+    },
+    "score": 9.2
+  },
+  {
+    "id": 510737432,
+    "status": "COMPLETED",
+    "progress": 1,
+    "media": {
+      "title": {
+        "english": "MONOGATARI Series: OFF & MONSTER Season - A Cruel Fairy Tale: The Beautiful Princess",
+        "userPreferred": "Monogatari Series: Off & Monster Season - Zankoku Douwa: Utsukushi-hime"
+      },
+      "coverImage": {
+        "color": "#c98650",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b180332-pbtkiF3TjfBQ.png"
+      },
+      "episodes": 1,
+      "siteUrl": "https://anilist.co/anime/180332"
+    },
+    "startedAt": {
+      "year": 2025,
+      "month": 8,
+      "day": 24,
+      "date": "2025-08-24T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2025,
+      "month": 8,
+      "day": 24,
+      "date": "2025-08-24T00:00:00.000Z"
+    },
+    "score": 8.2
+  },
+  {
+    "id": 420064038,
+    "status": "COMPLETED",
+    "progress": 14,
+    "media": {
+      "title": {
+        "english": "MONOGATARI Series: OFF & MONSTER Season",
+        "userPreferred": "Monogatari Series: Off & Monster Season"
+      },
+      "coverImage": {
+        "color": "#f17843",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx173533-9DN3nHtT2FBm.png"
+      },
+      "episodes": 14,
+      "siteUrl": "https://anilist.co/anime/173533"
+    },
+    "startedAt": {
+      "year": 2025,
+      "month": 8,
+      "day": 15,
+      "date": "2025-08-15T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2025,
+      "month": 9,
+      "day": 4,
+      "date": "2025-09-04T00:00:00.000Z"
+    },
+    "score": 8.5
+  },
+  {
+    "id": 490780324,
+    "status": "COMPLETED",
+    "progress": 6,
+    "media": {
+      "title": {
+        "english": "Takopi's Original Sin",
+        "userPreferred": "Takopii no Genzai"
+      },
+      "coverImage": {
+        "color": "#e4435d",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185407-7uzY4fA3hokP.jpg"
+      },
+      "episodes": 6,
+      "siteUrl": "https://anilist.co/anime/185407"
+    },
+    "startedAt": {
+      "year": 2025,
+      "month": 9,
+      "day": 5,
+      "date": "2025-09-05T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2025,
+      "month": 9,
+      "day": 7,
+      "date": "2025-09-07T00:00:00.000Z"
+    },
+    "score": 9.1
+  },
+  {
+    "id": 397477439,
+    "status": "COMPLETED",
+    "progress": 24,
+    "media": {
+      "title": {
+        "english": "The Apothecary Diaries Season 2",
+        "userPreferred": "Kusuriya no Hitorigoto 2nd Season"
+      },
+      "coverImage": {
+        "color": "#e4bb50",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176301-TIGmldLffQGX.jpg"
+      },
+      "episodes": 24,
+      "siteUrl": "https://anilist.co/anime/176301"
+    },
+    "startedAt": {
+      "year": 2025,
+      "month": 9,
+      "day": 8,
+      "date": "2025-09-08T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2025,
+      "month": 9,
+      "day": 20,
+      "date": "2025-09-20T00:00:00.000Z"
+    },
+    "score": 9.7
+  },
+  {
+    "id": 393075278,
+    "status": "COMPLETED",
+    "progress": 39,
+    "media": {
+      "title": {
+        "english": "JoJo's Bizarre Adventure: Golden Wind",
+        "userPreferred": "JoJo no Kimyou na Bouken: Ougon no Kaze"
+      },
+      "coverImage": {
+        "color": "#fff1bb",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx102883-S9KzdMJhDswJ.png"
+      },
+      "episodes": 39,
+      "siteUrl": "https://anilist.co/anime/102883"
+    },
+    "startedAt": {
+      "year": 2025,
+      "month": 9,
+      "day": 21,
+      "date": "2025-09-21T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2025,
+      "month": 10,
+      "day": 19,
+      "date": "2025-10-19T00:00:00.000Z"
+    },
+    "score": 8.5
+  },
+  {
+    "id": 393075261,
+    "status": "COMPLETED",
+    "progress": 12,
+    "media": {
+      "title": {
+        "english": "JoJo's Bizarre Adventure: STONE OCEAN",
+        "userPreferred": "JoJo no Kimyou na Bouken: Stone Ocean"
+      },
+      "coverImage": {
+        "color": "#288678",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx131942-rermlZ9lplHX.png"
+      },
+      "episodes": 12,
+      "siteUrl": "https://anilist.co/anime/131942"
+    },
+    "startedAt": {
+      "year": 2025,
+      "month": 10,
+      "day": 20,
+      "date": "2025-10-20T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2025,
+      "month": 10,
+      "day": 26,
+      "date": "2025-10-26T00:00:00.000Z"
+    },
+    "score": 8.3
+  },
+  {
+    "id": 393075288,
+    "status": "COMPLETED",
+    "progress": 26,
+    "media": {
+      "title": {
+        "english": "JoJo's Bizarre Adventure: STONE OCEAN Part 2",
+        "userPreferred": "JoJo no Kimyou na Bouken: Stone Ocean Part 2"
+      },
+      "coverImage": {
+        "color": "#1ad643",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146722-hiZU7M33fBhn.jpg"
+      },
+      "episodes": 26,
+      "siteUrl": "https://anilist.co/anime/146722"
+    },
+    "startedAt": {
+      "year": 2025,
+      "month": 10,
+      "day": 26,
+      "date": "2025-10-26T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2025,
+      "month": 11,
+      "day": 7,
+      "date": "2025-11-07T00:00:00.000Z"
+    },
+    "score": 8.4
+  },
+  {
+    "id": 468391198,
+    "status": "COMPLETED",
+    "progress": 12,
+    "media": {
+      "title": {
+        "english": "DAN DA DAN Season 2",
+        "userPreferred": "Dandadan 2nd Season"
+      },
+      "coverImage": {
+        "color": "#f1ae28",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185660-uB8RUMBGovGr.jpg"
+      },
+      "episodes": 12,
+      "siteUrl": "https://anilist.co/anime/185660"
+    },
+    "startedAt": {
+      "year": 2025,
+      "month": 11,
+      "day": 8,
+      "date": "2025-11-08T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2025,
+      "month": 11,
+      "day": 13,
+      "date": "2025-11-13T00:00:00.000Z"
+    },
+    "score": 8.6
+  },
+  {
+    "id": 492736417,
+    "status": "COMPLETED",
+    "progress": 13,
+    "media": {
+      "title": {
+        "english": "The Fragrant Flower Blooms With Dignity",
+        "userPreferred": "Kaoru Hana wa Rin to Saku"
+      },
+      "coverImage": {
+        "color": "#6baed6",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx181444-Ut9DDUZdfHwg.jpg"
+      },
+      "episodes": 13,
+      "siteUrl": "https://anilist.co/anime/181444"
+    },
+    "startedAt": {
+      "year": 2025,
+      "month": 11,
+      "day": 14,
+      "date": "2025-11-14T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2025,
+      "month": 11,
+      "day": 19,
+      "date": "2025-11-19T00:00:00.000Z"
+    },
+    "score": 9
+  },
+  {
+    "id": 501204547,
+    "status": "COMPLETED",
+    "progress": 13,
+    "media": {
+      "title": {
+        "english": "Lord of Mysteries",
+        "userPreferred": "Guimi Zhi Zhu: Xiaochou Pian"
+      },
+      "coverImage": {
+        "color": "#93c9e4",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137667-xQxzQRAerw53.jpg"
+      },
+      "episodes": 13,
+      "siteUrl": "https://anilist.co/anime/137667"
+    },
+    "startedAt": {
+      "year": 2025,
+      "month": 11,
+      "day": 20,
+      "date": "2025-11-20T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2025,
+      "month": 12,
+      "day": 1,
+      "date": "2025-12-01T00:00:00.000Z"
+    },
+    "score": 9.3
+  },
+  {
+    "id": 513345878,
+    "status": "COMPLETED",
+    "progress": 22,
+    "media": {
+      "title": {
+        "english": "March comes in like a lion",
+        "userPreferred": "3-gatsu no Lion"
+      },
+      "coverImage": {
+        "color": "#e4865d",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21366-0wrYK0kjKeFn.jpg"
+      },
+      "episodes": 22,
+      "siteUrl": "https://anilist.co/anime/21366"
+    },
+    "startedAt": {
+      "year": 2025,
+      "month": 12,
+      "day": 2,
+      "date": "2025-12-02T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2025,
+      "month": 12,
+      "day": 15,
+      "date": "2025-12-15T00:00:00.000Z"
+    },
+    "score": 8.4
+  },
+  {
+    "id": 348232927,
+    "status": "COMPLETED",
+    "progress": 22,
+    "media": {
+      "title": {
+        "english": "March comes in like a lion Season 2",
+        "userPreferred": "3-gatsu no Lion 2nd Season"
+      },
+      "coverImage": {
+        "color": "#ffc993",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98478-Yua5iL9zbrji.jpg"
+      },
+      "episodes": 22,
+      "siteUrl": "https://anilist.co/anime/98478"
+    },
+    "startedAt": {
+      "year": 2025,
+      "month": 12,
+      "day": 15,
+      "date": "2025-12-15T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2025,
+      "month": 12,
+      "day": 26,
+      "date": "2025-12-26T00:00:00.000Z"
+    },
+    "score": 8.5
+  },
+  {
+    "id": 456410935,
+    "status": "COMPLETED",
+    "progress": 74,
+    "media": {
+      "title": {
+        "english": "Monster",
+        "userPreferred": "MONSTER"
+      },
+      "coverImage": {
+        "color": null,
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19-gtMC64182sm4.jpg"
+      },
+      "episodes": 74,
+      "siteUrl": "https://anilist.co/anime/19"
+    },
+    "startedAt": {
+      "year": 2025,
+      "month": 12,
+      "day": 26,
+      "date": "2025-12-26T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2026,
+      "month": 1,
+      "day": 28,
+      "date": "2026-01-28T00:00:00.000Z"
+    },
+    "score": 9.5
+  },
+  {
+    "id": 488835276,
+    "status": "COMPLETED",
+    "progress": 2,
+    "media": {
+      "title": {
+        "english": "Kaguya-sama: Love Is War -Stairway to Adulthood-",
+        "userPreferred": "Kaguya-sama wa Kokurasetai: Otona e no Kaidan"
+      },
+      "coverImage": {
+        "color": "#1a78ff",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194884-rHgGAzKSCEWz.jpg"
+      },
+      "episodes": 2,
+      "siteUrl": "https://anilist.co/anime/194884"
+    },
+    "startedAt": {
+      "year": 2026,
+      "month": 1,
+      "day": 29,
+      "date": "2026-01-29T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2026,
+      "month": 1,
+      "day": 29,
+      "date": "2026-01-29T00:00:00.000Z"
+    },
+    "score": 8.5
+  },
+  {
+    "id": 513448188,
+    "status": "COMPLETED",
+    "progress": 13,
+    "media": {
+      "title": {
+        "english": "Umamusume: Pretty Derby",
+        "userPreferred": "Uma Musume: Pretty Derby"
+      },
+      "coverImage": {
+        "color": "#e47850",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98514-mEh3Gl58AWgc.jpg"
+      },
+      "episodes": 13,
+      "siteUrl": "https://anilist.co/anime/98514"
+    },
+    "startedAt": {
+      "year": 2026,
+      "month": 1,
+      "day": 30,
+      "date": "2026-01-30T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2026,
+      "month": 2,
+      "day": 5,
+      "date": "2026-02-05T00:00:00.000Z"
+    },
+    "score": 7.5
+  },
+  {
+    "id": 506247206,
+    "status": "COMPLETED",
+    "progress": 13,
+    "media": {
+      "title": {
+        "english": "Umamusume: Pretty Derby Season 2",
+        "userPreferred": "Uma Musume: Pretty Derby Season 2"
+      },
+      "coverImage": {
+        "color": "#5d93e4",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx124223-XMOEUPopjtrI.png"
+      },
+      "episodes": 13,
+      "siteUrl": "https://anilist.co/anime/124223"
+    },
+    "startedAt": {
+      "year": 2026,
+      "month": 2,
+      "day": 5,
+      "date": "2026-02-05T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2026,
+      "month": 2,
+      "day": 10,
+      "date": "2026-02-10T00:00:00.000Z"
+    },
+    "score": 8.5
+  },
+  {
+    "id": 506247209,
+    "status": "COMPLETED",
+    "progress": 13,
+    "media": {
+      "title": {
+        "english": "Umamusume: Cinderella Gray",
+        "userPreferred": "Uma Musume: Cinderella Gray"
+      },
+      "coverImage": {
+        "color": "#1aa1d6",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180516-lebpoKLkw6E3.jpg"
+      },
+      "episodes": 13,
+      "siteUrl": "https://anilist.co/anime/180516"
+    },
+    "startedAt": {
+      "year": 2026,
+      "month": 2,
+      "day": 11,
+      "date": "2026-02-11T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2026,
+      "month": 2,
+      "day": 14,
+      "date": "2026-02-14T00:00:00.000Z"
+    },
+    "score": 9
+  },
+  {
+    "id": 513449162,
+    "status": "COMPLETED",
+    "progress": 10,
+    "media": {
+      "title": {
+        "english": "Umamusume: Cinderella Gray 2nd Cour",
+        "userPreferred": "Uma Musume: Cinderella Gray Part 2"
+      },
+      "coverImage": {
+        "color": "#5093e4",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195240-hKcmllV6YHQT.jpg"
+      },
+      "episodes": 10,
+      "siteUrl": "https://anilist.co/anime/195240"
+    },
+    "startedAt": {
+      "year": 2026,
+      "month": 2,
+      "day": 16,
+      "date": "2026-02-16T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2026,
+      "month": 2,
+      "day": 19,
+      "date": "2026-02-19T00:00:00.000Z"
+    },
+    "score": 9
+  },
+  {
+    "id": 513449056,
+    "status": "COMPLETED",
+    "progress": 4,
+    "media": {
+      "title": {
+        "english": "Umamusume: Pretty Derby - Road to the Top",
+        "userPreferred": "Uma Musume: Pretty Derby - ROAD TO THE TOP"
+      },
+      "coverImage": {
+        "color": "#5086fe",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx148370-db0LjJfaOCg9.jpg"
+      },
+      "episodes": 4,
+      "siteUrl": "https://anilist.co/anime/148370"
+    },
+    "startedAt": {
+      "year": 2026,
+      "month": 2,
+      "day": 20,
+      "date": "2026-02-20T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2026,
+      "month": 2,
+      "day": 21,
+      "date": "2026-02-21T00:00:00.000Z"
+    },
+    "score": 7.8
+  },
+  {
+    "id": 513448108,
+    "status": "COMPLETED",
+    "progress": 1,
+    "media": {
+      "title": {
+        "english": "Umamusume: Pretty Derby - Beginning of a New Era",
+        "userPreferred": "Uma Musume: Pretty Derby - Shin Jidai no Tobira"
+      },
+      "coverImage": {
+        "color": "#f1bb43",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172420-4LjhmwpNMHti.jpg"
+      },
+      "episodes": 1,
+      "siteUrl": "https://anilist.co/anime/172420"
+    },
+    "startedAt": {
+      "year": 2026,
+      "month": 2,
+      "day": 21,
+      "date": "2026-02-21T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2026,
+      "month": 2,
+      "day": 22,
+      "date": "2026-02-22T00:00:00.000Z"
+    },
+    "score": 8.4
+  },
+  {
+    "id": 536888158,
+    "status": "COMPLETED",
+    "progress": 13,
+    "media": {
+      "title": {
+        "english": "Umamusume: Pretty Derby Season 3",
+        "userPreferred": "Uma Musume: Pretty Derby Season 3"
+      },
+      "coverImage": {
+        "color": "#f1436b",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx156632-QnKMOaso3n2y.jpg"
+      },
+      "episodes": 13,
+      "siteUrl": "https://anilist.co/anime/156632"
+    },
+    "startedAt": {
+      "year": 2026,
+      "month": 2,
+      "day": 23,
+      "date": "2026-02-23T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2026,
+      "month": 3,
+      "day": 1,
+      "date": "2026-03-01T00:00:00.000Z"
+    },
+    "score": 8
+  },
+  {
+    "id": 444501552,
+    "status": "COMPLETED",
+    "progress": 1,
+    "media": {
+      "title": {
+        "english": "Kizumonogatari Part 1: Tekketsu",
+        "userPreferred": "Kizumonogatari I: Tekketsu-hen"
+      },
+      "coverImage": {
+        "color": "#e4a128",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9260-cl7sczYOpTeW.png"
+      },
+      "episodes": 1,
+      "siteUrl": "https://anilist.co/anime/9260"
+    },
+    "startedAt": {
+      "year": 2026,
+      "month": 3,
+      "day": 2,
+      "date": "2026-03-02T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2026,
+      "month": 3,
+      "day": 2,
+      "date": "2026-03-02T00:00:00.000Z"
+    },
+    "score": 8
+  },
+  {
+    "id": 444501530,
+    "status": "COMPLETED",
+    "progress": 1,
+    "media": {
+      "title": {
+        "english": "Kizumonogatari Part 2: Nekketsu",
+        "userPreferred": "Kizumonogatari II: Nekketsu-hen"
+      },
+      "coverImage": {
+        "color": "#28aee4",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21399-VTAdAqc8u5AE.png"
+      },
+      "episodes": 1,
+      "siteUrl": "https://anilist.co/anime/21399"
+    },
+    "startedAt": {
+      "year": 2026,
+      "month": 3,
+      "day": 3,
+      "date": "2026-03-03T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2026,
+      "month": 3,
+      "day": 3,
+      "date": "2026-03-03T00:00:00.000Z"
+    },
+    "score": 8.1
+  },
+  {
+    "id": 444501521,
+    "status": "COMPLETED",
+    "progress": 1,
+    "media": {
+      "title": {
+        "english": "Kizumonogatari Part 3: Reiketsu",
+        "userPreferred": "Kizumonogatari III: Reiketsu-hen"
+      },
+      "coverImage": {
+        "color": "#e4d628",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21400-38ykNo3j4xXo.png"
+      },
+      "episodes": 1,
+      "siteUrl": "https://anilist.co/anime/21400"
+    },
+    "startedAt": {
+      "year": 2026,
+      "month": 3,
+      "day": 5,
+      "date": "2026-03-05T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2026,
+      "month": 3,
+      "day": 5,
+      "date": "2026-03-05T00:00:00.000Z"
+    },
+    "score": 8.3
+  },
+  {
+    "id": 312323786,
+    "status": "COMPLETED",
+    "progress": 64,
+    "media": {
+      "title": {
+        "english": "Fullmetal Alchemist: Brotherhood",
+        "userPreferred": "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST"
+      },
+      "coverImage": {
+        "color": "#e4c993",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5114-nSWCgQlmOMtj.jpg"
+      },
+      "episodes": 64,
+      "siteUrl": "https://anilist.co/anime/5114"
+    },
+    "startedAt": {
+      "year": 2026,
+      "month": 3,
+      "day": 6,
+      "date": "2026-03-06T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2026,
+      "month": 4,
+      "day": 1,
+      "date": "2026-04-01T00:00:00.000Z"
+    },
+    "score": 9.9
+  },
+  {
+    "id": 405710403,
+    "status": "COMPLETED",
+    "progress": 26,
+    "media": {
+      "title": {
+        "english": "Nichijou - My Ordinary Life",
+        "userPreferred": "Nichijou"
+      },
+      "coverImage": {
+        "color": "#e4bb93",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx10165-tw8Cz7K9tfVJ.png"
+      },
+      "episodes": 26,
+      "siteUrl": "https://anilist.co/anime/10165"
+    },
+    "startedAt": {
+      "year": 2026,
+      "month": 4,
+      "day": 20,
+      "date": "2026-04-20T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2026,
+      "month": 5,
+      "day": 18,
+      "date": "2026-05-18T00:00:00.000Z"
+    },
+    "score": 8
+  },
+  {
+    "id": 380776739,
+    "status": "COMPLETED",
+    "progress": 12,
+    "media": {
+      "title": {
+        "english": "JUJUTSU KAISEN Season 3: The Culling Game Part 1",
+        "userPreferred": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen"
+      },
+      "coverImage": {
+        "color": "#78aee4",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172463-LnXqHzt74SJL.jpg"
+      },
+      "episodes": 12,
+      "siteUrl": "https://anilist.co/anime/172463"
+    },
+    "startedAt": {
+      "year": 2026,
+      "month": 5,
+      "day": 18,
+      "date": "2026-05-18T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2026,
+      "month": 5,
+      "day": 25,
+      "date": "2026-05-25T00:00:00.000Z"
+    },
+    "score": 9.2
+  },
+  {
+    "id": 434886007,
+    "status": "COMPLETED",
+    "progress": 11,
+    "media": {
+      "title": {
+        "english": "OSHI NO KO Season 3",
+        "userPreferred": "[Oshi no Ko] 3rd Season"
+      },
+      "coverImage": {
+        "color": "#d643e4",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182587-fsU8LOjmd7oj.jpg"
+      },
+      "episodes": 11,
+      "siteUrl": "https://anilist.co/anime/182587"
+    },
+    "startedAt": {
+      "year": 2026,
+      "month": 5,
+      "day": 26,
+      "date": "2026-05-26T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2026,
+      "month": 5,
+      "day": 30,
+      "date": "2026-05-30T00:00:00.000Z"
+    },
+    "score": 9.3
+  },
+  {
+    "id": 432934665,
+    "status": "COMPLETED",
+    "progress": 10,
+    "media": {
+      "title": {
+        "english": "Frieren: Beyond Journey’s End Season 2",
+        "userPreferred": "Sousou no Frieren 2nd Season"
+      },
+      "coverImage": {
+        "color": "#5dc9f1",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182255-butzrqd4I0aC.jpg"
+      },
+      "episodes": 10,
+      "siteUrl": "https://anilist.co/anime/182255"
+    },
+    "startedAt": {
+      "year": 2026,
+      "month": 5,
+      "day": 30,
+      "date": "2026-05-30T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2026,
+      "month": 6,
+      "day": 2,
+      "date": "2026-06-02T00:00:00.000Z"
+    },
+    "score": 9
+  },
+  {
+    "id": 390216210,
+    "status": "COMPLETED",
+    "progress": 1,
+    "media": {
+      "title": {
+        "english": "Chainsaw Man – The Movie: Reze Arc",
+        "userPreferred": "Chainsaw Man: Reze-hen"
+      },
+      "coverImage": {
+        "color": "#e43550",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171627-ZN9D7P46yHnw.png"
+      },
+      "episodes": 1,
+      "siteUrl": "https://anilist.co/anime/171627"
+    },
+    "startedAt": {
+      "year": 2026,
+      "month": 6,
+      "day": 3,
+      "date": "2026-06-03T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2026,
+      "month": 6,
+      "day": 3,
+      "date": "2026-06-03T00:00:00.000Z"
+    },
+    "score": 9.2
+  },
+  {
+    "id": 504783619,
+    "status": "COMPLETED",
+    "progress": 1,
+    "media": {
+      "title": {
+        "english": "STEEL BALL RUN JoJo's Bizarre Adventure 1st STAGE",
+        "userPreferred": "JoJo no Kimyou na Bouken: Steel Ball Run - 1st STAGE"
+      },
+      "coverImage": {
+        "color": "#5dbbf1",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190327-riJNCFL7w9y4.jpg"
+      },
+      "episodes": 1,
+      "siteUrl": "https://anilist.co/anime/190327"
+    },
+    "startedAt": {
+      "year": 2026,
+      "month": 6,
+      "day": 26,
+      "date": "2026-06-26T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2026,
+      "month": 6,
+      "day": 26,
+      "date": "2026-06-26T00:00:00.000Z"
+    },
+    "score": 8.8
+  },
+  {
+    "id": 524615072,
+    "status": "COMPLETED",
+    "progress": 13,
+    "media": {
+      "title": {
+        "english": "Witch Hat Atelier",
+        "userPreferred": "Tongari Boushi no Atelier"
+      },
+      "coverImage": {
+        "color": "#0d8693",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx147105-rwOX8qyUy8gV.jpg"
+      },
+      "episodes": 13,
+      "siteUrl": "https://anilist.co/anime/147105"
+    },
+    "startedAt": {
+      "year": 2026,
+      "month": 6,
+      "day": 27,
+      "date": "2026-06-27T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2026,
+      "month": 7,
+      "day": 3,
+      "date": "2026-07-03T00:00:00.000Z"
+    },
+    "score": 9.4
+  },
+  {
+    "id": 524615017,
+    "status": "COMPLETED",
+    "progress": 16,
+    "media": {
+      "title": {
+        "english": "Classroom of the Elite 4th Season: Second Year, First Semester",
+        "userPreferred": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season 2-nensei-hen Ichi Gakki"
+      },
+      "coverImage": {
+        "color": "#aec9e4",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180745-OEZaBeEdWozn.png"
+      },
+      "episodes": 16,
+      "siteUrl": "https://anilist.co/anime/180745"
+    },
+    "startedAt": {
+      "year": 2026,
+      "month": 7,
+      "day": 6,
+      "date": "2026-07-06T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2026,
+      "month": 7,
+      "day": 13,
+      "date": "2026-07-13T00:00:00.000Z"
+    },
+    "score": 8.4
+  },
+  {
+    "id": 567707961,
+    "status": "COMPLETED",
+    "progress": 8,
+    "media": {
+      "title": {
+        "english": "PLUTO",
+        "userPreferred": "PLUTO"
+      },
+      "coverImage": {
+        "color": "#e43535",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99088-LTJskMD1wbbQ.png"
+      },
+      "episodes": 8,
+      "siteUrl": "https://anilist.co/anime/99088"
+    },
+    "startedAt": {
+      "year": 2026,
+      "month": 7,
+      "day": 14,
+      "date": "2026-07-14T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2026,
+      "month": 7,
+      "day": 21,
+      "date": "2026-07-21T00:00:00.000Z"
+    },
+    "score": 8.5
   }
 ]
