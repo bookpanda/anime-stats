@@ -2010,6 +2010,36 @@
     "score": 8.7
   },
   {
+    "id": 334730787,
+    "status": "COMPLETED",
+    "progress": 11,
+    "media": {
+      "title": {
+        "english": "Mushoku Tensei: Jobless Reincarnation",
+        "userPreferred": "Mushoku Tensei: Isekai Ittara Honki Dasu"
+      },
+      "coverImage": {
+        "color": "#43a1e4",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108465-1ANspF1EWyFx.jpg"
+      },
+      "episodes": 11,
+      "siteUrl": "https://anilist.co/anime/108465"
+    },
+    "startedAt": {
+      "year": 2023,
+      "month": 9,
+      "day": 12,
+      "date": "2023-09-12T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2023,
+      "month": 9,
+      "day": 20,
+      "date": "2023-09-20T00:00:00.000Z"
+    },
+    "score": 8.7
+  },
+  {
     "id": 334730797,
     "status": "COMPLETED",
     "progress": 12,
@@ -5248,5 +5278,35 @@
       "date": "2026-07-31T00:00:00.000Z"
     },
     "score": 8.9
+  },
+  {
+    "id": 323197490,
+    "status": "COMPLETED",
+    "progress": 24,
+    "media": {
+      "title": {
+        "english": "BLUE LOCK",
+        "userPreferred": "Blue Lock"
+      },
+      "coverImage": {
+        "color": "#286be4",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137822-U8naszP96vzC.png"
+      },
+      "episodes": 24,
+      "siteUrl": "https://anilist.co/anime/137822"
+    },
+    "startedAt": {
+      "year": 2026,
+      "month": 7,
+      "day": 31,
+      "date": "2026-07-31T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2026,
+      "month": 8,
+      "day": 7,
+      "date": "2026-08-07T00:00:00.000Z"
+    },
+    "score": 8.4
   }
 ]
