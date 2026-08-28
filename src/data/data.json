@@ -1590,6 +1590,36 @@
     "score": 8.6
   },
   {
+    "id": 327657728,
+    "status": "COMPLETED",
+    "progress": 24,
+    "media": {
+      "title": {
+        "english": "Vinland Saga",
+        "userPreferred": "VINLAND SAGA"
+      },
+      "coverImage": {
+        "color": "#f16b5d",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx101348-2fhDFPCuMNiz.jpg"
+      },
+      "episodes": 24,
+      "siteUrl": "https://anilist.co/anime/101348"
+    },
+    "startedAt": {
+      "year": 2023,
+      "month": 4,
+      "day": 8,
+      "date": "2023-04-08T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2023,
+      "month": 4,
+      "day": 17,
+      "date": "2023-04-17T00:00:00.000Z"
+    },
+    "score": 9.6
+  },
+  {
     "id": 334571172,
     "status": "COMPLETED",
     "progress": 1,
@@ -2067,7 +2097,7 @@
       "day": 27,
       "date": "2023-09-27T00:00:00.000Z"
     },
-    "score": 8.8
+    "score": 9
   },
   {
     "id": 418178923,
