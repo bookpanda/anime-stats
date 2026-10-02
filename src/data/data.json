@@ -5368,5 +5368,35 @@
       "date": "2026-09-27T00:00:00.000Z"
     },
     "score": 8.9
+  },
+  {
+    "id": 467133908,
+    "status": "COMPLETED",
+    "progress": 19,
+    "media": {
+      "title": {
+        "english": "Re:ZERO -Starting Life in Another World- Season 4",
+        "userPreferred": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season"
+      },
+      "coverImage": {
+        "color": "#e49350",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189046-yaHWtS5FII46.jpg"
+      },
+      "episodes": 19,
+      "siteUrl": "https://anilist.co/anime/189046"
+    },
+    "startedAt": {
+      "year": 2026,
+      "month": 9,
+      "day": 25,
+      "date": "2026-09-25T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2026,
+      "month": 10,
+      "day": 1,
+      "date": "2026-10-01T00:00:00.000Z"
+    },
+    "score": 9.3
   }
 ]
