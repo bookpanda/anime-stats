@@ -5398,5 +5398,35 @@
       "date": "2026-10-01T00:00:00.000Z"
     },
     "score": 9.3
+  },
+  {
+    "id": 610209302,
+    "status": "COMPLETED",
+    "progress": 13,
+    "media": {
+      "title": {
+        "english": "SPY x FAMILY Cour 2",
+        "userPreferred": "SPY×FAMILY Part 2"
+      },
+      "coverImage": {
+        "color": "#28bbfe",
+        "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142838-26JrqcFU1ljB.jpg"
+      },
+      "episodes": 13,
+      "siteUrl": "https://anilist.co/anime/142838"
+    },
+    "startedAt": {
+      "year": 2026,
+      "month": 11,
+      "day": 20,
+      "date": "2026-11-20T00:00:00.000Z"
+    },
+    "completedAt": {
+      "year": 2026,
+      "month": 11,
+      "day": 27,
+      "date": "2026-11-27T00:00:00.000Z"
+    },
+    "score": 8.3
   }
 ]
